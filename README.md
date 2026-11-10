@@ -1,5 +1,11 @@
 # Nassau Candy Factory Optimization Dashboard
 
+# Nassau Candy Factory Optimization Dashboard
+
+## 🚀 Live Demo
+
+[Open Live Dashboard](https://sameer0625-nassau-candy-factory-optimization-app-4ptp0h.streamlit.app)
+
 A data-driven **factory allocation and shipping optimization system** built using Python and Streamlit. The project analyzes product demand, factory assignments, and shipping distances to identify opportunities to reduce transportation distance and improve allocation efficiency.
 
 ## Project Overview
