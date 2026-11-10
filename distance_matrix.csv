@@ -1,0 +1,3081 @@
+Factory,City,State,Country,Distance_Miles
+Lot's O' Nuts,Pasadena,Texas,United States,1001.13
+Lot's O' Nuts,Pueblo,Colorado,United States,547.32
+Lot's O' Nuts,Tallahassee,Florida,United States,1620.77
+Lot's O' Nuts,Chicago,Illinois,United States,1457.31
+Lot's O' Nuts,Jackson,Michigan,United States,1622.05
+Lot's O' Nuts,Jacksonville,Florida,United States,1774.66
+Lot's O' Nuts,New York City,New York,United States,2140.47
+Lot's O' Nuts,Peoria,Arizona,United States,55.37
+Lot's O' Nuts,Philadelphia,Pennsylvania,United States,2077.57
+Lot's O' Nuts,Chattanooga,Tennessee,United States,1519.13
+Lot's O' Nuts,Los Angeles,California,United States,381.8
+Lot's O' Nuts,Monroe,North Carolina,United States,1788.29
+Lot's O' Nuts,Scottsdale,Arizona,United States,43.28
+Lot's O' Nuts,Austin,Texas,United States,844.21
+Lot's O' Nuts,Bossier City,Louisiana,United States,1047.62
+Lot's O' Nuts,Bristol,Connecticut,United States,2198.91
+Lot's O' Nuts,Bristol,Tennessee,United States,1692.17
+Lot's O' Nuts,Cleveland,Ohio,United States,1748.52
+Lot's O' Nuts,Clinton,Maryland,United States,1982.9
+Lot's O' Nuts,Columbia,South Carolina,United States,1766.97
+Lot's O' Nuts,Columbus,Georgia,United States,1553.65
+Lot's O' Nuts,Concord,New Hampshire,United States,2277.62
+Lot's O' Nuts,Dallas,Texas,United States,868.51
+Lot's O' Nuts,Danville,California,United States,669.52
+Lot's O' Nuts,Denver,Colorado,United States,605.49
+Lot's O' Nuts,Dover,New Hampshire,United States,2310.89
+Lot's O' Nuts,El Paso,Texas,United States,317.9
+Lot's O' Nuts,Franklin,Massachusetts,United States,2220.1
+Lot's O' Nuts,Henderson,Kentucky,United States,1401.61
+Lot's O' Nuts,Henderson,Nevada,United States,284.28
+Lot's O' Nuts,Hollywood,Florida,United States,1952.79
+Lot's O' Nuts,Houston,Texas,United States,990.67
+Lot's O' Nuts,Huntsville,Alabama,United States,1447.61
+Lot's O' Nuts,Lakeland,Florida,United States,1800.92
+Lot's O' Nuts,Lakewood,New Jersey,United States,2128.02
+Lot's O' Nuts,Leominster,Massachusetts,United States,2262.93
+Lot's O' Nuts,Louisville,Kentucky,United States,1502.66
+Lot's O' Nuts,Lowell,Massachusetts,United States,2286.42
+Lot's O' Nuts,Memphis,Tennessee,United States,1251.01
+Lot's O' Nuts,Meriden,Connecticut,United States,2205.67
+Lot's O' Nuts,Moreno Valley,California,United States,323.35
+Lot's O' Nuts,Nashville,Tennessee,United States,1436.67
+Lot's O' Nuts,Newark,Delaware,United States,2045.76
+Lot's O' Nuts,Newport News,Virginia,United States,2010.11
+Lot's O' Nuts,Oxnard,California,United States,436.34
+Lot's O' Nuts,Palm Coast,Florida,United States,1813.26
+Lot's O' Nuts,Phoenix,Arizona,United States,42.96
+Lot's O' Nuts,Plainfield,New Jersey,United States,2118.4
+Lot's O' Nuts,Providence,Rhode Island,United States,2278.21
+Lot's O' Nuts,Rancho Cucamonga,California,United States,345.04
+Lot's O' Nuts,Richmond,Indiana,United States,1563.82
+Lot's O' Nuts,Salem,Oregon,United States,1027.8
+Lot's O' Nuts,San Diego,California,United States,313.56
+Lot's O' Nuts,San Francisco,California,United States,688.23
+Lot's O' Nuts,San Jose,California,United States,649.15
+Lot's O' Nuts,San Marcos,Texas,United States,840.83
+Lot's O' Nuts,Seattle,Washington,United States,1157.25
+Lot's O' Nuts,Smyrna,Georgia,United States,1569.29
+Lot's O' Nuts,Springfield,Missouri,United States,1085.0
+Lot's O' Nuts,Springfield,Ohio,United States,1621.39
+Lot's O' Nuts,Springfield,Oregon,United States,980.75
+Lot's O' Nuts,Springfield,Virginia,United States,1967.66
+Lot's O' Nuts,Sunnyvale,California,United States,657.35
+Lot's O' Nuts,Toledo,Ohio,United States,1657.05
+Lot's O' Nuts,Troy,New York,United States,2166.22
+Lot's O' Nuts,Woodland,California,United States,688.47
+Lot's O' Nuts,Hialeah,Florida,United States,1949.91
+Lot's O' Nuts,Midland,Michigan,United States,1656.71
+Lot's O' Nuts,Waterbury,Connecticut,United States,2193.28
+Lot's O' Nuts,Westfield,New Jersey,United States,2122.37
+Lot's O' Nuts,Akron,Ohio,United States,1752.7
+Lot's O' Nuts,Anaheim,California,United States,360.56
+Lot's O' Nuts,Auburn,New York,United States,2023.24
+Lot's O' Nuts,Calgary,Alberta,Canada,1260.35
+Lot's O' Nuts,Chico,California,United States,732.72
+Lot's O' Nuts,Columbus,Ohio,United States,1664.21
+Lot's O' Nuts,Elmhurst,Illinois,United States,1442.32
+Lot's O' Nuts,Eugene,Oregon,United States,983.4
+Lot's O' Nuts,Fayetteville,Arkansas,United States,1025.37
+Lot's O' Nuts,Gilbert,Arizona,United States,32.56
+Lot's O' Nuts,Hempstead,New York,United States,2160.62
+Lot's O' Nuts,Jackson,Mississippi,United States,1255.01
+Lot's O' Nuts,La Crosse,Wisconsin,United States,1338.07
+Lot's O' Nuts,Lakewood,Ohio,United States,1742.98
+Lot's O' Nuts,Lawrence,Massachusetts,United States,2294.07
+Lot's O' Nuts,Milwaukee,Wisconsin,United States,1469.69
+Lot's O' Nuts,Montgomery,Alabama,United States,1478.24
+Lot's O' Nuts,Montreal,Quebec,Canada,2197.85
+Lot's O' Nuts,Murfreesboro,Tennessee,United States,1457.57
+Lot's O' Nuts,Provo,Utah,United States,508.0
+Lot's O' Nuts,Richmond,Virginia,United States,1953.71
+Lot's O' Nuts,Rochester,New York,United States,1973.36
+Lot's O' Nuts,Rockford,Illinois,United States,1394.77
+Lot's O' Nuts,Sparks,Nevada,United States,639.45
+Lot's O' Nuts,Tempe,Arizona,United States,38.86
+Lot's O' Nuts,Thousand Oaks,California,United States,416.72
+Lot's O' Nuts,Trenton,Michigan,United States,1682.35
+Lot's O' Nuts,Tucson,Arizona,United States,64.86
+Lot's O' Nuts,Warwick,Rhode Island,United States,2275.51
+Lot's O' Nuts,Yonkers,New York,United States,2146.74
+Lot's O' Nuts,Frisco,Texas,United States,865.28
+Lot's O' Nuts,Niagara Falls,New York,United States,1900.25
+Lot's O' Nuts,Plano,Texas,United States,873.4
+Lot's O' Nuts,Albuquerque,New Mexico,United States,330.24
+Lot's O' Nuts,Alexandria,Virginia,United States,1974.88
+Lot's O' Nuts,Allentown,Pennsylvania,United States,2063.37
+Lot's O' Nuts,Amarillo,Texas,United States,590.52
+Lot's O' Nuts,Apopka,Florida,United States,1813.16
+Lot's O' Nuts,Arlington,Texas,United States,850.77
+Lot's O' Nuts,Arlington,Virginia,United States,1972.71
+Lot's O' Nuts,Asheville,North Carolina,United States,1673.23
+Lot's O' Nuts,Athens,Georgia,United States,1633.8
+Lot's O' Nuts,Atlanta,Georgia,United States,1577.26
+Lot's O' Nuts,Auburn,Alabama,United States,1523.78
+Lot's O' Nuts,Aurora,Colorado,United States,609.41
+Lot's O' Nuts,Aurora,Illinois,United States,1420.95
+Lot's O' Nuts,Avondale,Arizona,United States,49.68
+Lot's O' Nuts,Bakersfield,California,United States,448.91
+Lot's O' Nuts,Baltimore,Maryland,United States,1999.12
+Lot's O' Nuts,Bangor,Maine,United States,2423.6
+Lot's O' Nuts,Bayonne,New Jersey,United States,2134.67
+Lot's O' Nuts,Beaumont,Texas,United States,1057.63
+Lot's O' Nuts,Belleville,New Jersey,United States,2133.18
+Lot's O' Nuts,Bellevue,Washington,United States,1154.46
+Lot's O' Nuts,Bethlehem,Pennsylvania,United States,2068.29
+Lot's O' Nuts,Bloomington,Illinois,United States,1361.74
+Lot's O' Nuts,Bowling Green,Ohio,United States,1647.32
+Lot's O' Nuts,Boynton Beach,Florida,United States,1945.17
+Lot's O' Nuts,Bozeman,Montana,United States,885.07
+Lot's O' Nuts,Brentwood,California,United States,658.46
+Lot's O' Nuts,Brownsville,Texas,United States,983.78
+Lot's O' Nuts,Bryan,Texas,United States,916.33
+Lot's O' Nuts,Buffalo,New York,United States,1907.3
+Lot's O' Nuts,Bullhead City,Arizona,United States,223.74
+Lot's O' Nuts,Burlington,Iowa,United States,1263.01
+Lot's O' Nuts,Burlington,North Carolina,United States,1846.03
+Lot's O' Nuts,Cambridge,Massachusetts,United States,2295.75
+Lot's O' Nuts,Carlsbad,New Mexico,United States,439.11
+Lot's O' Nuts,Carol Stream,Illinois,United States,1433.08
+Lot's O' Nuts,Cary,North Carolina,United States,1883.86
+Lot's O' Nuts,Champaign,Illinois,United States,1393.77
+Lot's O' Nuts,Charlotte,North Carolina,United States,1770.56
+Lot's O' Nuts,Chesapeake,Virginia,United States,2020.96
+Lot's O' Nuts,Chester,Pennsylvania,United States,2045.8
+Lot's O' Nuts,Cincinnati,Ohio,United States,1576.41
+Lot's O' Nuts,Clarksville,Tennessee,United States,1405.24
+Lot's O' Nuts,Clifton,New Jersey,United States,2132.68
+Lot's O' Nuts,Coachella,California,United States,260.5
+Lot's O' Nuts,Colorado Springs,Colorado,United States,565.57
+Lot's O' Nuts,Columbia,Maryland,United States,1985.34
+Lot's O' Nuts,Columbia,Missouri,United States,1162.65
+Lot's O' Nuts,Columbia,Tennessee,United States,1421.42
+Lot's O' Nuts,Columbus,Indiana,United States,1502.66
+Lot's O' Nuts,Concord,California,United States,676.09
+Lot's O' Nuts,Concord,North Carolina,United States,1784.58
+Lot's O' Nuts,Coon Rapids,Minnesota,United States,1299.6
+Lot's O' Nuts,Coppell,Texas,United States,854.97
+Lot's O' Nuts,Coral Springs,Florida,United States,1939.25
+Lot's O' Nuts,Corpus Christi,Texas,United States,925.79
+Lot's O' Nuts,Cottage Grove,Minnesota,United States,1300.97
+Lot's O' Nuts,Cranston,Rhode Island,United States,2276.86
+Lot's O' Nuts,Cuyahoga Falls,Ohio,United States,1755.11
+Lot's O' Nuts,Danville,Illinois,United States,1425.41
+Lot's O' Nuts,Dearborn,Michigan,United States,1685.38
+Lot's O' Nuts,Decatur,Alabama,United States,1425.34
+Lot's O' Nuts,Decatur,Illinois,United States,1352.86
+Lot's O' Nuts,Delray Beach,Florida,United States,1945.97
+Lot's O' Nuts,Deltona,Florida,United States,1825.08
+Lot's O' Nuts,Des Moines,Iowa,United States,1161.71
+Lot's O' Nuts,Des Moines,Washington,United States,1144.79
+Lot's O' Nuts,Detroit,Michigan,United States,1691.98
+Lot's O' Nuts,Dover,Delaware,United States,2057.06
+Lot's O' Nuts,Dublin,Ohio,United States,1659.65
+Lot's O' Nuts,Durham,North Carolina,United States,1876.27
+Lot's O' Nuts,Eagan,Minnesota,United States,1291.49
+Lot's O' Nuts,East Orange,New Jersey,United States,2129.69
+Lot's O' Nuts,Edinburg,Texas,United States,934.2
+Lot's O' Nuts,Edmond,Oklahoma,United States,838.06
+Lot's O' Nuts,Edmonds,Washington,United States,1170.52
+Lot's O' Nuts,Edmonton,Alberta,Canada,1430.31
+Lot's O' Nuts,Encinitas,California,United States,319.98
+Lot's O' Nuts,Escondido,California,United States,308.31
+Lot's O' Nuts,Everett,Massachusetts,United States,2298.44
+Lot's O' Nuts,Everett,Washington,United States,1176.43
+Lot's O' Nuts,Fairfield,Connecticut,United States,2180.47
+Lot's O' Nuts,Fairfield,Ohio,United States,1681.47
+Lot's O' Nuts,Fargo,North Dakota,United States,1246.83
+Lot's O' Nuts,Fayetteville,North Carolina,United States,1882.17
+Lot's O' Nuts,Florence,Alabama,United States,1385.54
+Lot's O' Nuts,Florence,Kentucky,United States,1569.46
+Lot's O' Nuts,Florence,South Carolina,United States,1837.62
+Lot's O' Nuts,Fort Collins,Colorado,United States,648.15
+Lot's O' Nuts,Fort Lauderdale,Florida,United States,1950.33
+Lot's O' Nuts,Fort Worth,Texas,United States,837.6
+Lot's O' Nuts,Franklin,Tennessee,United States,1430.97
+Lot's O' Nuts,Franklin,Wisconsin,United States,1459.94
+Lot's O' Nuts,Freeport,Illinois,United States,1370.17
+Lot's O' Nuts,Freeport,New York,United States,2162.44
+Lot's O' Nuts,Fremont,Nebraska,United States,1025.31
+Lot's O' Nuts,Fresno,California,United States,526.85
+Lot's O' Nuts,Garland,Texas,United States,876.96
+Lot's O' Nuts,Georgetown,Kentucky,United States,1567.13
+Lot's O' Nuts,Glendale,Arizona,United States,51.41
+Lot's O' Nuts,Grand Prairie,Texas,United States,857.05
+Lot's O' Nuts,Grand Rapids,Michigan,United States,1575.05
+Lot's O' Nuts,Grapevine,Texas,United States,851.4
+Lot's O' Nuts,Great Falls,Montana,United States,1010.67
+Lot's O' Nuts,Greeley,Colorado,United States,651.12
+Lot's O' Nuts,Green Bay,Wisconsin,United States,1503.66
+Lot's O' Nuts,Greensboro,North Carolina,United States,1826.34
+Lot's O' Nuts,Greenville,North Carolina,United States,1963.55
+Lot's O' Nuts,Greenwood,Indiana,United States,1497.43
+Lot's O' Nuts,Grove City,Ohio,United States,1658.6
+Lot's O' Nuts,Hackensack,New Jersey,United States,2139.17
+Lot's O' Nuts,Haltom City,Texas,United States,841.04
+Lot's O' Nuts,Hampton,Virginia,United States,2014.68
+Lot's O' Nuts,Harlingen,Texas,United States,962.74
+Lot's O' Nuts,Harrisonburg,Virginia,United States,1875.97
+Lot's O' Nuts,Helena,Montana,United States,947.44
+Lot's O' Nuts,Hendersonville,Tennessee,United States,1445.51
+Lot's O' Nuts,Holyoke,Massachusetts,United States,2218.38
+Lot's O' Nuts,Hoover,Alabama,United States,1438.88
+Lot's O' Nuts,Hot Springs,Arkansas,United States,1080.02
+Lot's O' Nuts,Huntington Beach,California,United States,364.1
+Lot's O' Nuts,Huntsville,Texas,United States,962.9
+Lot's O' Nuts,Indianapolis,Indiana,United States,1496.78
+Lot's O' Nuts,Inglewood,California,United States,386.88
+Lot's O' Nuts,Irving,Texas,United States,859.7
+Lot's O' Nuts,Jackson,Tennessee,United States,1321.23
+Lot's O' Nuts,Jacksonville,North Carolina,United States,1965.81
+Lot's O' Nuts,Jamestown,New York,United States,1880.1
+Lot's O' Nuts,Johnson City,Tennessee,United States,1683.14
+Lot's O' Nuts,Jonesboro,Arkansas,United States,1216.18
+Lot's O' Nuts,Jupiter,Florida,United States,1933.35
+Lot's O' Nuts,Kenner,Louisiana,United States,1282.28
+Lot's O' Nuts,Kenosha,Wisconsin,United States,1463.17
+Lot's O' Nuts,Kent,Ohio,United States,1761.7
+Lot's O' Nuts,Kent,Washington,United States,1141.77
+Lot's O' Nuts,Knoxville,Tennessee,United States,1595.88
+Lot's O' Nuts,La Mesa,California,United States,305.19
+Lot's O' Nuts,La Porte,Indiana,United States,1496.71
+Lot's O' Nuts,La Porte,Texas,United States,1012.54
+Lot's O' Nuts,Lafayette,Louisiana,United States,1175.46
+Lot's O' Nuts,Laguna Niguel,California,United States,346.18
+Lot's O' Nuts,Lakeville,Minnesota,United States,1281.96
+Lot's O' Nuts,Lakewood,California,United States,372.38
+Lot's O' Nuts,Lancaster,California,United States,386.54
+Lot's O' Nuts,Lancaster,Ohio,United States,1683.07
+Lot's O' Nuts,Lancaster,Pennsylvania,United States,2017.41
+Lot's O' Nuts,Laredo,Texas,United States,820.19
+Lot's O' Nuts,Las Vegas,Nevada,United States,297.55
+Lot's O' Nuts,Lawrence,Indiana,United States,1468.83
+Lot's O' Nuts,League City,Texas,United States,1011.45
+Lot's O' Nuts,Lebanon,Tennessee,United States,1463.7
+Lot's O' Nuts,Lewiston,Idaho,United States,975.65
+Lot's O' Nuts,Lincoln Park,Michigan,United States,1684.14
+Lot's O' Nuts,Linden,New Jersey,United States,2127.71
+Lot's O' Nuts,Little Rock,Arkansas,United States,1123.8
+Lot's O' Nuts,Logan,Utah,United States,611.45
+Lot's O' Nuts,Long Beach,California,United States,375.81
+Lot's O' Nuts,Long Beach,New York,United States,2158.36
+Lot's O' Nuts,Lorain,Ohio,United States,1721.17
+Lot's O' Nuts,Louisville,Colorado,United States,613.16
+Lot's O' Nuts,Lubbock,Texas,United States,575.2
+Lot's O' Nuts,Macon,Georgia,United States,1628.03
+Lot's O' Nuts,Marietta,Georgia,United States,1566.88
+Lot's O' Nuts,Marion,Iowa,United States,1178.62
+Lot's O' Nuts,Marion,Ohio,United States,1660.97
+Lot's O' Nuts,Marlborough,Massachusetts,United States,2272.81
+Lot's O' Nuts,Mcallen,Texas,United States,934.29
+Lot's O' Nuts,Medford,Oregon,United States,890.23
+Lot's O' Nuts,Medina,Ohio,United States,1731.31
+Lot's O' Nuts,Mentor,Ohio,United States,1768.54
+Lot's O' Nuts,Meridian,Idaho,United States,782.14
+Lot's O' Nuts,Mesa,Arizona,United States,37.02
+Lot's O' Nuts,Mesquite,Texas,United States,880.0
+Lot's O' Nuts,Miami,Florida,United States,1956.33
+Lot's O' Nuts,Middletown,Connecticut,United States,2213.59
+Lot's O' Nuts,Milford,Connecticut,United States,2191.45
+Lot's O' Nuts,Minneapolis,Minnesota,United States,1293.51
+Lot's O' Nuts,Miramar,Florida,United States,1948.62
+Lot's O' Nuts,Mission Viejo,California,United States,343.97
+Lot's O' Nuts,Mobile,Alabama,United States,1398.59
+Lot's O' Nuts,Monroe,Louisiana,United States,1141.37
+Lot's O' Nuts,Morristown,New Jersey,United States,2115.9
+Lot's O' Nuts,Mount Vernon,New York,United States,2149.82
+Lot's O' Nuts,Murray,Utah,United States,537.93
+Lot's O' Nuts,Muskogee,Oklahoma,United States,953.32
+Lot's O' Nuts,Naperville,Illinois,United States,1429.47
+Lot's O' Nuts,Nashua,New Hampshire,United States,2278.91
+Lot's O' Nuts,New Albany,Indiana,United States,1499.42
+Lot's O' Nuts,New Bedford,Massachusetts,United States,2302.42
+Lot's O' Nuts,New Castle,Indiana,United States,1539.89
+Lot's O' Nuts,New Rochelle,New York,United States,2152.73
+Lot's O' Nuts,Newark,Ohio,United States,1696.54
+Lot's O' Nuts,Norman,Oklahoma,United States,835.26
+Lot's O' Nuts,North Las Vegas,Nevada,United States,298.29
+Lot's O' Nuts,Norwich,Connecticut,United States,2243.17
+Lot's O' Nuts,Oak Park,Illinois,United States,1449.5
+Lot's O' Nuts,Oak Park,Michigan,United States,1687.3
+Lot's O' Nuts,Oakland,California,United States,682.08
+Lot's O' Nuts,Oceanside,California,United States,325.71
+Lot's O' Nuts,Oceanside,New York,United States,2159.55
+Lot's O' Nuts,Odessa,Texas,United States,553.08
+Lot's O' Nuts,Oklahoma City,Oklahoma,United States,833.24
+Lot's O' Nuts,Olathe,Kansas,United States,1033.38
+Lot's O' Nuts,Olympia,Washington,United States,1139.69
+Lot's O' Nuts,Omaha,Nebraska,United States,1044.57
+Lot's O' Nuts,Orange,New Jersey,United States,2129.12
+Lot's O' Nuts,Orlando,Florida,United States,1823.5
+Lot's O' Nuts,Oswego,Illinois,United States,1417.54
+Lot's O' Nuts,Overland Park,Kansas,United States,1042.18
+Lot's O' Nuts,Park Ridge,Illinois,United States,1449.57
+Lot's O' Nuts,Parma,Ohio,United States,1744.97
+Lot's O' Nuts,Pasadena,California,United States,377.5
+Lot's O' Nuts,Pasco,Washington,United States,1000.36
+Lot's O' Nuts,Paterson,New Jersey,United States,2132.45
+Lot's O' Nuts,Pearland,Texas,United States,999.29
+Lot's O' Nuts,Pembroke Pines,Florida,United States,1944.97
+Lot's O' Nuts,Pensacola,Florida,United States,1450.69
+Lot's O' Nuts,Peoria,Illinois,United States,1335.83
+Lot's O' Nuts,Pharr,Texas,United States,937.06
+Lot's O' Nuts,Pleasant Grove,Utah,United States,516.97
+Lot's O' Nuts,Pocatello,Idaho,United States,690.57
+Lot's O' Nuts,Port Arthur,Texas,United States,1071.05
+Lot's O' Nuts,Portland,Oregon,United States,1048.32
+Lot's O' Nuts,Quincy,Illinois,United States,1228.84
+Lot's O' Nuts,Quincy,Massachusetts,United States,2300.48
+Lot's O' Nuts,Raleigh,North Carolina,United States,1891.83
+Lot's O' Nuts,Reading,Pennsylvania,United States,2038.39
+Lot's O' Nuts,Redlands,California,United States,322.4
+Lot's O' Nuts,Redmond,Oregon,United States,935.33
+Lot's O' Nuts,Redondo Beach,California,United States,387.46
+Lot's O' Nuts,Reno,Nevada,United States,641.26
+Lot's O' Nuts,Revere,Massachusetts,United States,2300.59
+Lot's O' Nuts,Richardson,Texas,United States,871.54
+Lot's O' Nuts,Richmond,Kentucky,United States,1578.95
+Lot's O' Nuts,Riverside,California,United States,331.84
+Lot's O' Nuts,Rochester,Minnesota,United States,1292.2
+Lot's O' Nuts,Rochester Hills,Michigan,United States,1692.17
+Lot's O' Nuts,Rogers,Arkansas,United States,1030.0
+Lot's O' Nuts,Rome,New York,United States,2081.34
+Lot's O' Nuts,Roseville,California,United States,669.44
+Lot's O' Nuts,Roseville,Michigan,United States,1700.05
+Lot's O' Nuts,Roswell,Georgia,United States,1577.28
+Lot's O' Nuts,Round Rock,Texas,United States,843.68
+Lot's O' Nuts,Sacramento,California,United States,672.14
+Lot's O' Nuts,Saginaw,Michigan,United States,1667.08
+Lot's O' Nuts,Saint Charles,Illinois,United States,1424.41
+Lot's O' Nuts,Saint Charles,Missouri,United States,1256.66
+Lot's O' Nuts,Saint Louis,Missouri,United States,1269.77
+Lot's O' Nuts,Saint Petersburg,Florida,United States,1767.14
+Lot's O' Nuts,Salem,Virginia,United States,1809.98
+Lot's O' Nuts,Salinas,California,United States,618.84
+Lot's O' Nuts,Salt Lake City,Utah,United States,544.34
+Lot's O' Nuts,San Antonio,Texas,United States,819.68
+Lot's O' Nuts,San Bernardino,California,United States,281.64
+Lot's O' Nuts,Sandy Springs,Georgia,United States,1576.82
+Lot's O' Nuts,Santa Ana,California,United States,357.51
+Lot's O' Nuts,Santa Barbara,California,United States,468.47
+Lot's O' Nuts,Santa Clara,California,United States,635.87
+Lot's O' Nuts,Santa Fe,New Mexico,United States,385.04
+Lot's O' Nuts,Sheboygan,Wisconsin,United States,1485.36
+Lot's O' Nuts,Sierra Vista,Arizona,United States,126.11
+Lot's O' Nuts,Sioux Falls,South Dakota,United States,1096.63
+Lot's O' Nuts,Skokie,Illinois,United States,1454.21
+Lot's O' Nuts,Smyrna,Tennessee,United States,1450.56
+Lot's O' Nuts,South Bend,Indiana,United States,1521.56
+Lot's O' Nuts,Southaven,Mississippi,United States,1253.61
+Lot's O' Nuts,Spokane,Washington,United States,1062.79
+Lot's O' Nuts,Sterling Heights,Michigan,United States,1696.79
+Lot's O' Nuts,Stockton,California,United States,640.16
+Lot's O' Nuts,Suffolk,Virginia,United States,2002.45
+Lot's O' Nuts,Superior,Wisconsin,United States,1408.21
+Lot's O' Nuts,Tamarac,Florida,United States,1941.91
+Lot's O' Nuts,Tampa,Florida,United States,1773.49
+Lot's O' Nuts,Taylor,Michigan,United States,1679.45
+Lot's O' Nuts,Texas City,Texas,United States,1023.96
+Lot's O' Nuts,Thomasville,North Carolina,United States,1810.75
+Lot's O' Nuts,Thornton,Colorado,United States,612.34
+Lot's O' Nuts,Tigard,Oregon,United States,1046.31
+Lot's O' Nuts,Tinley Park,Illinois,United States,1443.29
+Lot's O' Nuts,Toronto,Ontario,Canada,1892.6
+Lot's O' Nuts,Torrance,California,United States,384.97
+Lot's O' Nuts,Troy,Ohio,United States,1602.08
+Lot's O' Nuts,Tulsa,Oklahoma,United States,924.96
+Lot's O' Nuts,Tyler,Texas,United States,958.07
+Lot's O' Nuts,Urbandale,Iowa,United States,1157.64
+Lot's O' Nuts,Vallejo,California,United States,690.94
+Lot's O' Nuts,Vancouver,British Columbia,Canada,1273.45
+Lot's O' Nuts,Virginia Beach,Virginia,United States,2035.58
+Lot's O' Nuts,Waco,Texas,United States,859.72
+Lot's O' Nuts,Warner Robins,Georgia,United States,1631.66
+Lot's O' Nuts,Washington,District of Columbia,United States,1975.58
+Lot's O' Nuts,Watertown,New York,United States,2066.85
+Lot's O' Nuts,Wausau,Wisconsin,United States,1445.83
+Lot's O' Nuts,Waynesboro,Virginia,United States,1874.26
+Lot's O' Nuts,West Jordan,Utah,United States,533.78
+Lot's O' Nuts,West Palm Beach,Florida,United States,1940.94
+Lot's O' Nuts,Westland,Michigan,United States,1674.26
+Lot's O' Nuts,Westminster,California,United States,364.0
+Lot's O' Nuts,Wheeling,Illinois,United States,1447.91
+Lot's O' Nuts,Whittier,California,United States,369.06
+Lot's O' Nuts,Wichita,Kansas,United States,877.9
+Lot's O' Nuts,Wilmington,Delaware,United States,2056.45
+Lot's O' Nuts,Wilmington,North Carolina,United States,1940.54
+Lot's O' Nuts,Winnipeg,Manitoba,Canada,1393.37
+Lot's O' Nuts,Woodbury,Minnesota,United States,1304.84
+Lot's O' Nuts,Woonsocket,Rhode Island,United States,2273.51
+Lot's O' Nuts,York,Pennsylvania,United States,1994.83
+Lot's O' Nuts,Yuma,Arizona,United States,166.02
+Lot's O' Nuts,Abilene,Texas,United States,700.37
+Lot's O' Nuts,Allen,Texas,United States,874.31
+Lot's O' Nuts,Altoona,Pennsylvania,United States,1909.82
+Lot's O' Nuts,Ann Arbor,Michigan,United States,1656.3
+Lot's O' Nuts,Apple Valley,California,United States,330.89
+Lot's O' Nuts,Appleton,Wisconsin,United States,1478.79
+Lot's O' Nuts,Arvada,Colorado,United States,605.42
+Lot's O' Nuts,Bartlett,Tennessee,United States,1261.12
+Lot's O' Nuts,Baytown,Texas,United States,1013.56
+Lot's O' Nuts,Bedford,Texas,United States,848.11
+Lot's O' Nuts,Boca Raton,Florida,United States,1947.91
+Lot's O' Nuts,Bolingbrook,Illinois,United States,1431.7
+Lot's O' Nuts,Bowling Green,Kentucky,United States,1457.77
+Lot's O' Nuts,Bridgeton,New Jersey,United States,2072.87
+Lot's O' Nuts,Broken Arrow,Oklahoma,United States,934.94
+Lot's O' Nuts,Broomfield,Colorado,United States,613.83
+Lot's O' Nuts,Burlington,Vermont,United States,2204.12
+Lot's O' Nuts,Caldwell,Idaho,United States,791.22
+Lot's O' Nuts,Camarillo,California,United States,428.6
+Lot's O' Nuts,Carrollton,Texas,United States,861.47
+Lot's O' Nuts,Chandler,Arizona,United States,29.62
+Lot's O' Nuts,Charlottesville,Virginia,United States,1896.68
+Lot's O' Nuts,Charlottetown,Prince Edward Island,Canada,2702.43
+Lot's O' Nuts,Chula Vista,California,United States,309.31
+Lot's O' Nuts,College Station,Texas,United States,918.66
+Lot's O' Nuts,Coral Gables,Florida,United States,1953.65
+Lot's O' Nuts,Costa Mesa,California,United States,358.45
+Lot's O' Nuts,Covington,Washington,United States,1137.61
+Lot's O' Nuts,Davis,California,United States,681.92
+Lot's O' Nuts,Daytona Beach,Florida,United States,1831.08
+Lot's O' Nuts,Dearborn Heights,Michigan,United States,1680.8
+Lot's O' Nuts,Des Plaines,Illinois,United States,1447.93
+Lot's O' Nuts,Draper,Utah,United States,528.1
+Lot's O' Nuts,Eau Claire,Wisconsin,United States,1360.71
+Lot's O' Nuts,Fairfield,California,United States,685.51
+Lot's O' Nuts,Gaithersburg,Maryland,United States,1967.65
+Lot's O' Nuts,Garden City,Kansas,United States,706.37
+Lot's O' Nuts,Gladstone,Missouri,United States,1053.46
+Lot's O' Nuts,Goldsboro,North Carolina,United States,1930.05
+Lot's O' Nuts,Gresham,Oregon,United States,1040.04
+Lot's O' Nuts,Gulfport,Mississippi,United States,1342.71
+Lot's O' Nuts,Halifax,Nova Scotia,Canada,2677.34
+Lot's O' Nuts,Hamilton,Ohio,United States,1575.39
+Lot's O' Nuts,Hattiesburg,Mississippi,United States,1317.47
+Lot's O' Nuts,Hesperia,California,United States,335.63
+Lot's O' Nuts,Highland Park,Illinois,United States,1455.29
+Lot's O' Nuts,Hillsboro,Oregon,United States,1057.83
+Lot's O' Nuts,Homestead,Florida,United States,1947.98
+Lot's O' Nuts,Independence,Missouri,United States,1058.59
+Lot's O' Nuts,Lafayette,Indiana,United States,1467.89
+Lot's O' Nuts,Lake Charles,Louisiana,United States,1105.98
+Lot's O' Nuts,Lansing,Michigan,United States,1624.56
+Lot's O' Nuts,Las Cruces,New Mexico,United States,292.97
+Lot's O' Nuts,Lawton,Oklahoma,United States,776.89
+Lot's O' Nuts,Layton,Utah,United States,566.22
+Lot's O' Nuts,Lehi,Utah,United States,518.65
+Lot's O' Nuts,Lodi,California,United States,645.61
+Lot's O' Nuts,Longview,Washington,United States,1089.92
+Lot's O' Nuts,Manchester,Connecticut,United States,2220.95
+Lot's O' Nuts,Maple Grove,Minnesota,United States,1291.09
+Lot's O' Nuts,Marysville,Washington,United States,1179.85
+Lot's O' Nuts,Modesto,California,United States,615.28
+Lot's O' Nuts,Moorhead,Minnesota,United States,1247.86
+Lot's O' Nuts,Morgan Hill,California,United States,631.36
+Lot's O' Nuts,Murray,Kentucky,United States,1353.36
+Lot's O' Nuts,Norfolk,Nebraska,United States,1007.04
+Lot's O' Nuts,Orem,Utah,United States,512.44
+Lot's O' Nuts,Ormond Beach,Florida,United States,1827.77
+Lot's O' Nuts,Palatine,Illinois,United States,1441.83
+Lot's O' Nuts,Parker,Colorado,United States,601.98
+Lot's O' Nuts,Passaic,New Jersey,United States,2125.32
+Lot's O' Nuts,Perth Amboy,New Jersey,United States,2125.95
+Lot's O' Nuts,Pico Rivera,California,United States,372.7
+Lot's O' Nuts,Pine Bluff,Arkansas,United States,1140.0
+Lot's O' Nuts,Plantation,Florida,United States,1945.02
+Lot's O' Nuts,Pomona,California,United States,354.23
+Lot's O' Nuts,Port Saint Lucie,Florida,United States,1910.16
+Lot's O' Nuts,Quebec City,Quebec,Canada,2324.63
+Lot's O' Nuts,Redding,California,United States,792.27
+Lot's O' Nuts,Redmond,Washington,United States,1156.01
+Lot's O' Nuts,Redwood City,California,United States,670.54
+Lot's O' Nuts,Regina,Saskatchewan,Canada,1267.15
+Lot's O' Nuts,Renton,Washington,United States,1146.86
+Lot's O' Nuts,Rio Rancho,New Mexico,United States,335.72
+Lot's O' Nuts,Rock Hill,South Carolina,United States,1761.74
+Lot's O' Nuts,Royal Oak,Michigan,United States,1689.64
+Lot's O' Nuts,Saint Peters,Missouri,United States,1250.78
+Lot's O' Nuts,San Angelo,Texas,United States,669.33
+Lot's O' Nuts,San Luis Obispo,California,United States,520.94
+Lot's O' Nuts,Santa Maria,California,United States,516.98
+Lot's O' Nuts,Summerville,South Carolina,United States,1824.7
+Lot's O' Nuts,Temecula,California,United States,313.88
+Lot's O' Nuts,Twin Falls,Idaho,United States,684.43
+Lot's O' Nuts,Utica,New York,United States,2091.62
+Lot's O' Nuts,Vacaville,California,United States,686.76
+Lot's O' Nuts,Vancouver,Washington,United States,1054.4
+Lot's O' Nuts,Vineland,New Jersey,United States,2084.08
+Lot's O' Nuts,Waterloo,Iowa,United States,1248.68
+Lot's O' Nuts,West Allis,Wisconsin,United States,1464.52
+Lot's O' Nuts,Wheeling,West Virginia,United States,1784.79
+Lot's O' Nuts,Woodstock,Georgia,United States,1567.76
+Lot's O' Nuts,Andover,Massachusetts,United States,2294.99
+Lot's O' Nuts,Antioch,California,United States,666.52
+Lot's O' Nuts,Apple Valley,Minnesota,United States,1286.1
+Lot's O' Nuts,Arlington Heights,Illinois,United States,1444.26
+Lot's O' Nuts,Auburn,Washington,United States,1137.47
+Lot's O' Nuts,Bloomington,Indiana,United States,1469.87
+Lot's O' Nuts,Boise,Idaho,United States,779.41
+Lot's O' Nuts,Burbank,California,United States,387.1
+Lot's O' Nuts,Canton,Michigan,United States,1620.09
+Lot's O' Nuts,Cedar Hill,Texas,United States,860.45
+Lot's O' Nuts,Cedar Rapids,Iowa,United States,1264.56
+Lot's O' Nuts,Chapel Hill,North Carolina,United States,1867.99
+Lot's O' Nuts,Cheyenne,Wyoming,United States,686.84
+Lot's O' Nuts,Commerce City,Colorado,United States,610.88
+Lot's O' Nuts,Conroe,Texas,United States,975.22
+Lot's O' Nuts,Conway,Arkansas,United States,1115.99
+Lot's O' Nuts,Deer Park,Texas,United States,1005.75
+Lot's O' Nuts,East Point,Georgia,United States,1574.92
+Lot's O' Nuts,El Cajon,California,United States,301.59
+Lot's O' Nuts,Elkhart,Indiana,United States,1539.61
+Lot's O' Nuts,Evanston,Illinois,United States,1458.5
+Lot's O' Nuts,Farmington,New Mexico,United States,333.87
+Lot's O' Nuts,Frankfort,Illinois,United States,1438.57
+Lot's O' Nuts,Gastonia,North Carolina,United States,1751.22
+Lot's O' Nuts,Holland,Michigan,United States,1550.09
+Lot's O' Nuts,Jefferson City,Missouri,United States,1164.61
+Lot's O' Nuts,Keller,Texas,United States,842.84
+Lot's O' Nuts,Kirkwood,Missouri,United States,1257.67
+Lot's O' Nuts,Lake Forest,California,United States,345.9
+Lot's O' Nuts,Lewiston,Maine,United States,2348.44
+Lot's O' Nuts,Longmont,Colorado,United States,624.37
+Lot's O' Nuts,Madison,Wisconsin,United States,1401.37
+Lot's O' Nuts,Malden,Massachusetts,United States,2297.79
+Lot's O' Nuts,Manhattan,Kansas,United States,952.47
+Lot's O' Nuts,Mansfield,Texas,United States,849.79
+Lot's O' Nuts,Margate,Florida,United States,1943.62
+Lot's O' Nuts,Mason,Ohio,United States,1589.52
+Lot's O' Nuts,Missoula,Montana,United States,973.58
+Lot's O' Nuts,Moncton,New Brunswick,Canada,2621.97
+Lot's O' Nuts,Mount Pleasant,South Carolina,United States,1844.76
+Lot's O' Nuts,New Brunswick,New Jersey,United States,2116.91
+Lot's O' Nuts,North Miami,Florida,United States,1953.74
+Lot's O' Nuts,Owensboro,Kentucky,United States,1425.76
+Lot's O' Nuts,Rockville,Maryland,United States,1969.73
+Lot's O' Nuts,Romeoville,Illinois,United States,1429.73
+Lot's O' Nuts,Roseville,Minnesota,United States,1299.03
+Lot's O' Nuts,Saint Cloud,Minnesota,United States,1281.3
+Lot's O' Nuts,Saint Paul,Minnesota,United States,1299.47
+Lot's O' Nuts,San Gabriel,California,United States,374.84
+Lot's O' Nuts,Sanford,Florida,United States,1824.54
+Lot's O' Nuts,Texarkana,Arkansas,United States,1024.77
+Lot's O' Nuts,Visalia,California,United States,489.53
+Lot's O' Nuts,Wilson,North Carolina,United States,1932.55
+Lot's O' Nuts,Yucaipa,California,United States,314.28
+Lot's O' Nuts,Bellingham,Washington,United States,1228.62
+Lot's O' Nuts,Beverly,Massachusetts,United States,2307.91
+Lot's O' Nuts,Billings,Montana,United States,908.47
+Lot's O' Nuts,Buffalo Grove,Illinois,United States,1446.89
+Lot's O' Nuts,Clovis,New Mexico,United States,503.5
+Lot's O' Nuts,Danbury,Connecticut,United States,2171.47
+Lot's O' Nuts,Dublin,California,United States,662.54
+Lot's O' Nuts,Dubuque,Iowa,United States,1326.12
+Lot's O' Nuts,Elyria,Ohio,United States,1725.81
+Lot's O' Nuts,Englewood,Colorado,United States,600.62
+Lot's O' Nuts,Grand Island,Nebraska,United States,925.19
+Lot's O' Nuts,Hickory,North Carolina,United States,1740.54
+Lot's O' Nuts,Kissimmee,Florida,United States,1827.0
+Lot's O' Nuts,Laurel,Maryland,United States,1986.02
+Lot's O' Nuts,Lindenhurst,New York,United States,2173.51
+Lot's O' Nuts,Loveland,Colorado,United States,637.8
+Lot's O' Nuts,Manteca,California,United States,630.92
+Lot's O' Nuts,Mishawaka,Indiana,United States,1524.61
+Lot's O' Nuts,Montebello,California,United States,373.96
+Lot's O' Nuts,Murrieta,California,United States,318.03
+Lot's O' Nuts,Noblesville,Indiana,United States,1507.87
+Lot's O' Nuts,North Charleston,South Carolina,United States,1837.96
+Lot's O' Nuts,Ontario,California,United States,345.98
+Lot's O' Nuts,Orland Park,Illinois,United States,1441.02
+Lot's O' Nuts,Pompano Beach,Florida,United States,1948.51
+Lot's O' Nuts,Portage,Indiana,United States,1473.5
+Lot's O' Nuts,Rapid City,South Dakota,United States,899.97
+Lot's O' Nuts,Shelton,Connecticut,United States,2187.67
+Lot's O' Nuts,Springdale,Arkansas,United States,1028.06
+Lot's O' Nuts,The Colony,Texas,United States,861.89
+Lot's O' Nuts,Woodstock,Illinois,United States,1426.86
+Lot's O' Nuts,Aberdeen,South Dakota,United States,1120.22
+Lot's O' Nuts,Atlantic City,New Jersey,United States,2116.13
+Lot's O' Nuts,Citrus Heights,California,United States,667.37
+Lot's O' Nuts,Glenview,Illinois,United States,1452.25
+Lot's O' Nuts,Hagerstown,Maryland,United States,1941.09
+Lot's O' Nuts,Iowa City,Iowa,United States,1262.85
+Lot's O' Nuts,La Quinta,California,United States,267.23
+Lot's O' Nuts,Lake Elsinore,California,United States,325.65
+Lot's O' Nuts,Littleton,Colorado,United States,597.8
+Lot's O' Nuts,Missouri City,Texas,United States,983.76
+Lot's O' Nuts,Mount Pleasant,Michigan,United States,1631.55
+Lot's O' Nuts,Normal,Illinois,United States,1362.77
+Lot's O' Nuts,Port Orange,Florida,United States,1833.95
+Lot's O' Nuts,San Clemente,California,United States,340.12
+Lot's O' Nuts,San Mateo,California,United States,675.85
+Lot's O' Nuts,St. John's,Newfoundland and Labrador,Canada,3192.84
+Lot's O' Nuts,Tuscaloosa,Alabama,United States,1398.67
+Lot's O' Nuts,Waukesha,Wisconsin,United States,1451.24
+Lot's O' Nuts,Melbourne,Florida,United States,1877.89
+Wicked Choccy's,Pasadena,Texas,United States,852.72
+Wicked Choccy's,Pueblo,Colorado,United States,1391.33
+Wicked Choccy's,Tallahassee,Florida,United States,219.91
+Wicked Choccy's,Chicago,Illinois,United States,766.61
+Wicked Choccy's,Jackson,Michigan,United States,725.85
+Wicked Choccy's,Jacksonville,Florida,United States,125.51
+Wicked Choccy's,New York City,New York,United States,714.43
+Wicked Choccy's,Peoria,Arizona,United States,1804.7
+Wicked Choccy's,Philadelphia,Pennsylvania,United States,636.67
+Wicked Choccy's,Chattanooga,Tennessee,United States,318.0
+Wicked Choccy's,Los Angeles,California,United States,2143.98
+Wicked Choccy's,Monroe,North Carolina,United States,203.39
+Wicked Choccy's,Scottsdale,Arizona,United States,1787.41
+Wicked Choccy's,Austin,Texas,United States,991.77
+Wicked Choccy's,Bossier City,Louisiana,United States,738.74
+Wicked Choccy's,Bristol,Connecticut,United States,800.5
+Wicked Choccy's,Bristol,Tennessee,United States,318.43
+Wicked Choccy's,Cleveland,Ohio,United States,651.96
+Wicked Choccy's,Clinton,Maryland,United States,517.99
+Wicked Choccy's,Columbia,South Carolina,United States,133.01
+Wicked Choccy's,Columbus,Georgia,United States,229.36
+Wicked Choccy's,Concord,New Hampshire,United States,928.39
+Wicked Choccy's,Dallas,Texas,United States,916.57
+Wicked Choccy's,Danville,California,United States,2331.95
+Wicked Choccy's,Denver,Colorado,United States,1432.8
+Wicked Choccy's,Dover,New Hampshire,United States,948.6
+Wicked Choccy's,El Paso,Texas,United States,1486.27
+Wicked Choccy's,Franklin,Massachusetts,United States,861.84
+Wicked Choccy's,Henderson,Kentucky,United States,537.23
+Wicked Choccy's,Henderson,Nevada,United States,1949.48
+Wicked Choccy's,Hollywood,Florida,United States,422.87
+Wicked Choccy's,Houston,Texas,United States,860.75
+Wicked Choccy's,Huntsville,Alabama,United States,366.21
+Wicked Choccy's,Lakeland,Florida,United States,283.63
+Wicked Choccy's,Lakewood,New Jersey,United States,673.44
+Wicked Choccy's,Leominster,Massachusetts,United States,884.28
+Wicked Choccy's,Louisville,Kentucky,United States,501.64
+Wicked Choccy's,Lowell,Massachusetts,United States,904.91
+Wicked Choccy's,Memphis,Tennessee,United States,557.41
+Wicked Choccy's,Meriden,Connecticut,United States,797.56
+Wicked Choccy's,Moreno Valley,California,United States,2087.35
+Wicked Choccy's,Nashville,Tennessee,United States,430.53
+Wicked Choccy's,Newark,Delaware,United States,604.26
+Wicked Choccy's,Newport News,Virginia,United States,429.99
+Wicked Choccy's,Oxnard,California,United States,2196.01
+Wicked Choccy's,Palm Coast,Florida,United States,174.43
+Wicked Choccy's,Phoenix,Arizona,United States,1796.21
+Wicked Choccy's,Plainfield,New Jersey,United States,696.7
+Wicked Choccy's,Providence,Rhode Island,United States,858.46
+Wicked Choccy's,Rancho Cucamonga,California,United States,2105.63
+Wicked Choccy's,Richmond,Indiana,United States,576.15
+Wicked Choccy's,Salem,Oregon,United States,2403.91
+Wicked Choccy's,San Diego,California,United States,2094.86
+Wicked Choccy's,San Francisco,California,United States,2354.25
+Wicked Choccy's,San Jose,California,United States,2327.74
+Wicked Choccy's,San Marcos,Texas,United States,1008.66
+Wicked Choccy's,Seattle,Washington,United States,2400.12
+Wicked Choccy's,Smyrna,Georgia,United States,234.58
+Wicked Choccy's,Springfield,Missouri,United States,778.22
+Wicked Choccy's,Springfield,Ohio,United States,563.05
+Wicked Choccy's,Springfield,Oregon,United States,2396.55
+Wicked Choccy's,Springfield,Virginia,United States,512.34
+Wicked Choccy's,Sunnyvale,California,United States,2335.6
+Wicked Choccy's,Toledo,Ohio,United States,675.32
+Wicked Choccy's,Troy,New York,United States,839.72
+Wicked Choccy's,Woodland,California,United States,2317.49
+Wicked Choccy's,Hialeah,Florida,United States,434.54
+Wicked Choccy's,Midland,Michigan,United States,815.55
+Wicked Choccy's,Waterbury,Connecticut,United States,790.92
+Wicked Choccy's,Westfield,New Jersey,United States,700.69
+Wicked Choccy's,Akron,Ohio,United States,622.78
+Wicked Choccy's,Anaheim,California,United States,2126.99
+Wicked Choccy's,Auburn,New York,United States,789.62
+Wicked Choccy's,Calgary,Alberta,Canada,2120.79
+Wicked Choccy's,Chico,California,United States,2320.2
+Wicked Choccy's,Columbus,Ohio,United States,555.22
+Wicked Choccy's,Elmhurst,Illinois,United States,776.32
+Wicked Choccy's,Eugene,Oregon,United States,2400.19
+Wicked Choccy's,Fayetteville,Arkansas,United States,796.29
+Wicked Choccy's,Gilbert,Arizona,United States,1780.5
+Wicked Choccy's,Hempstead,New York,United States,724.3
+Wicked Choccy's,Jackson,Mississippi,United States,531.87
+Wicked Choccy's,La Crosse,Wisconsin,United States,980.24
+Wicked Choccy's,Lakewood,Ohio,United States,651.07
+Wicked Choccy's,Lawrence,Massachusetts,United States,913.11
+Wicked Choccy's,Milwaukee,Wisconsin,United States,843.83
+Wicked Choccy's,Montgomery,Alabama,United States,305.83
+Wicked Choccy's,Montreal,Quebec,Canada,1011.1
+Wicked Choccy's,Murfreesboro,Tennessee,United States,400.16
+Wicked Choccy's,Provo,Utah,United States,1785.8
+Wicked Choccy's,Richmond,Virginia,United States,430.5
+Wicked Choccy's,Rochester,New York,United States,788.68
+Wicked Choccy's,Rockford,Illinois,United States,830.04
+Wicked Choccy's,Sparks,Nevada,United States,2209.24
+Wicked Choccy's,Tempe,Arizona,United States,1788.67
+Wicked Choccy's,Thousand Oaks,California,United States,2176.79
+Wicked Choccy's,Trenton,Michigan,United States,704.82
+Wicked Choccy's,Tucson,Arizona,United States,1742.65
+Wicked Choccy's,Warwick,Rhode Island,United States,850.44
+Wicked Choccy's,Yonkers,New York,United States,729.98
+Wicked Choccy's,Frisco,Texas,United States,917.94
+Wicked Choccy's,Niagara Falls,New York,United States,768.55
+Wicked Choccy's,Plano,Texas,United States,910.32
+Wicked Choccy's,Albuquerque,New Mexico,United States,1481.93
+Wicked Choccy's,Alexandria,Virginia,United States,517.45
+Wicked Choccy's,Allentown,Pennsylvania,United States,666.53
+Wicked Choccy's,Amarillo,Texas,United States,1210.63
+Wicked Choccy's,Apopka,Florida,United States,236.47
+Wicked Choccy's,Arlington,Texas,United States,934.66
+Wicked Choccy's,Arlington,Virginia,United States,520.84
+Wicked Choccy's,Asheville,North Carolina,United States,257.22
+Wicked Choccy's,Athens,Georgia,United States,185.76
+Wicked Choccy's,Atlanta,Georgia,United States,223.85
+Wicked Choccy's,Auburn,Alabama,United States,259.02
+Wicked Choccy's,Aurora,Colorado,United States,1427.08
+Wicked Choccy's,Aurora,Illinois,United States,778.26
+Wicked Choccy's,Avondale,Arizona,United States,1809.47
+Wicked Choccy's,Bakersfield,California,United States,2178.37
+Wicked Choccy's,Baltimore,Maryland,United States,558.05
+Wicked Choccy's,Bangor,Maine,United States,1100.67
+Wicked Choccy's,Bayonne,New Jersey,United States,708.66
+Wicked Choccy's,Beaumont,Texas,United States,781.59
+Wicked Choccy's,Belleville,New Jersey,United States,714.66
+Wicked Choccy's,Bellevue,Washington,United States,2393.98
+Wicked Choccy's,Bethlehem,Pennsylvania,United States,669.9
+Wicked Choccy's,Bloomington,Illinois,United States,728.03
+Wicked Choccy's,Bowling Green,Ohio,United States,657.88
+Wicked Choccy's,Boynton Beach,Florida,United States,388.27
+Wicked Choccy's,Bozeman,Montana,United States,1849.3
+Wicked Choccy's,Brentwood,California,United States,2315.01
+Wicked Choccy's,Brownsville,Texas,United States,1078.02
+Wicked Choccy's,Bryan,Texas,United States,905.89
+Wicked Choccy's,Buffalo,New York,United States,756.61
+Wicked Choccy's,Bullhead City,Arizona,United States,1928.78
+Wicked Choccy's,Burlington,Iowa,United States,819.94
+Wicked Choccy's,Burlington,North Carolina,United States,293.33
+Wicked Choccy's,Cambridge,Massachusetts,United States,897.06
+Wicked Choccy's,Carlsbad,New Mexico,United States,1350.27
+Wicked Choccy's,Carol Stream,Illinois,United States,782.33
+Wicked Choccy's,Cary,North Carolina,United States,288.5
+Wicked Choccy's,Champaign,Illinois,United States,683.69
+Wicked Choccy's,Charlotte,North Carolina,United States,218.17
+Wicked Choccy's,Chesapeake,Virginia,United States,422.86
+Wicked Choccy's,Chester,Pennsylvania,United States,621.72
+Wicked Choccy's,Cincinnati,Ohio,United States,522.02
+Wicked Choccy's,Clarksville,Tennessee,United States,471.7
+Wicked Choccy's,Clifton,New Jersey,United States,717.93
+Wicked Choccy's,Coachella,California,United States,2029.32
+Wicked Choccy's,Colorado Springs,Colorado,United States,1410.29
+Wicked Choccy's,Columbia,Maryland,United States,545.82
+Wicked Choccy's,Columbia,Missouri,United States,789.96
+Wicked Choccy's,Columbia,Tennessee,United States,419.6
+Wicked Choccy's,Columbus,Indiana,United States,561.93
+Wicked Choccy's,Concord,California,United States,2333.24
+Wicked Choccy's,Concord,North Carolina,United States,232.15
+Wicked Choccy's,Coon Rapids,Minnesota,United States,1116.86
+Wicked Choccy's,Coppell,Texas,United States,929.07
+Wicked Choccy's,Coral Springs,Florida,United States,404.11
+Wicked Choccy's,Corpus Christi,Texas,United States,1020.23
+Wicked Choccy's,Cottage Grove,Minnesota,United States,1087.33
+Wicked Choccy's,Cranston,Rhode Island,United States,855.34
+Wicked Choccy's,Cuyahoga Falls,Ohio,United States,626.38
+Wicked Choccy's,Danville,Illinois,United States,664.88
+Wicked Choccy's,Dearborn,Michigan,United States,717.14
+Wicked Choccy's,Decatur,Alabama,United States,382.47
+Wicked Choccy's,Decatur,Illinois,United States,693.34
+Wicked Choccy's,Delray Beach,Florida,United States,392.74
+Wicked Choccy's,Deltona,Florida,United States,219.28
+Wicked Choccy's,Des Moines,Iowa,United States,953.33
+Wicked Choccy's,Des Moines,Washington,United States,2396.44
+Wicked Choccy's,Detroit,Michigan,United States,716.67
+Wicked Choccy's,Dover,Delaware,United States,580.31
+Wicked Choccy's,Dublin,Ohio,United States,565.74
+Wicked Choccy's,Durham,North Carolina,United States,298.39
+Wicked Choccy's,Eagan,Minnesota,United States,1093.85
+Wicked Choccy's,East Orange,New Jersey,United States,711.05
+Wicked Choccy's,Edinburg,Texas,United States,1102.86
+Wicked Choccy's,Edmond,Oklahoma,United States,970.26
+Wicked Choccy's,Edmonds,Washington,United States,2405.13
+Wicked Choccy's,Edmonton,Alberta,Canada,2179.65
+Wicked Choccy's,Encinitas,California,United States,2098.47
+Wicked Choccy's,Escondido,California,United States,2086.04
+Wicked Choccy's,Everett,Massachusetts,United States,900.97
+Wicked Choccy's,Everett,Washington,United States,2400.05
+Wicked Choccy's,Fairfield,Connecticut,United States,761.25
+Wicked Choccy's,Fairfield,Ohio,United States,539.9
+Wicked Choccy's,Fargo,North Dakota,United States,1316.59
+Wicked Choccy's,Fayetteville,North Carolina,United States,241.81
+Wicked Choccy's,Florence,Alabama,United States,423.83
+Wicked Choccy's,Florence,Kentucky,United States,517.92
+Wicked Choccy's,Florence,South Carolina,United States,165.36
+Wicked Choccy's,Fort Collins,Colorado,United States,1452.89
+Wicked Choccy's,Fort Lauderdale,Florida,United States,415.31
+Wicked Choccy's,Fort Worth,Texas,United States,947.74
+Wicked Choccy's,Franklin,Tennessee,United States,424.55
+Wicked Choccy's,Franklin,Wisconsin,United States,837.9
+Wicked Choccy's,Freeport,Illinois,United States,847.08
+Wicked Choccy's,Freeport,New York,United States,724.54
+Wicked Choccy's,Fremont,Nebraska,United States,1067.54
+Wicked Choccy's,Fresno,California,United States,2214.2
+Wicked Choccy's,Garland,Texas,United States,907.26
+Wicked Choccy's,Georgetown,Kentucky,United States,466.89
+Wicked Choccy's,Glendale,Arizona,United States,1802.03
+Wicked Choccy's,Grand Prairie,Texas,United States,928.29
+Wicked Choccy's,Grand Rapids,Michigan,United States,792.65
+Wicked Choccy's,Grapevine,Texas,United States,932.76
+Wicked Choccy's,Great Falls,Montana,United States,1906.56
+Wicked Choccy's,Greeley,Colorado,United States,1431.17
+Wicked Choccy's,Green Bay,Wisconsin,United States,936.86
+Wicked Choccy's,Greensboro,North Carolina,United States,285.92
+Wicked Choccy's,Greenville,North Carolina,United States,324.28
+Wicked Choccy's,Greenwood,Indiana,United States,591.62
+Wicked Choccy's,Grove City,Ohio,United States,550.78
+Wicked Choccy's,Hackensack,New Jersey,United States,723.21
+Wicked Choccy's,Haltom City,Texas,United States,943.96
+Wicked Choccy's,Hampton,Virginia,United States,435.6
+Wicked Choccy's,Harlingen,Texas,United States,1080.1
+Wicked Choccy's,Harrisonburg,Virginia,United States,457.76
+Wicked Choccy's,Helena,Montana,United States,1915.73
+Wicked Choccy's,Hendersonville,Tennessee,United States,430.39
+Wicked Choccy's,Holyoke,Massachusetts,United States,840.52
+Wicked Choccy's,Hoover,Alabama,United States,346.34
+Wicked Choccy's,Hot Springs,Arkansas,United States,710.74
+Wicked Choccy's,Huntington Beach,California,United States,2133.39
+Wicked Choccy's,Huntsville,Texas,United States,857.38
+Wicked Choccy's,Indianapolis,Indiana,United States,602.18
+Wicked Choccy's,Inglewood,California,United States,2151.07
+Wicked Choccy's,Irving,Texas,United States,925.05
+Wicked Choccy's,Jackson,Tennessee,United States,506.23
+Wicked Choccy's,Jacksonville,North Carolina,United States,280.41
+Wicked Choccy's,Jamestown,New York,United States,699.77
+Wicked Choccy's,Johnson City,Tennessee,United States,301.77
+Wicked Choccy's,Jonesboro,Arkansas,United States,608.85
+Wicked Choccy's,Jupiter,Florida,United States,360.27
+Wicked Choccy's,Kenner,Louisiana,United States,560.47
+Wicked Choccy's,Kenosha,Wisconsin,United States,814.19
+Wicked Choccy's,Kent,Ohio,United States,627.22
+Wicked Choccy's,Kent,Washington,United States,2392.42
+Wicked Choccy's,Knoxville,Tennessee,United States,313.56
+Wicked Choccy's,La Mesa,California,United States,2086.23
+Wicked Choccy's,La Porte,Indiana,United States,728.29
+Wicked Choccy's,La Porte,Texas,United States,842.15
+Wicked Choccy's,Lafayette,Louisiana,United States,658.47
+Wicked Choccy's,Laguna Niguel,California,United States,2118.1
+Wicked Choccy's,Lakeville,Minnesota,United States,1087.55
+Wicked Choccy's,Lakewood,California,United States,2138.55
+Wicked Choccy's,Lancaster,California,United States,2133.05
+Wicked Choccy's,Lancaster,Ohio,United States,534.41
+Wicked Choccy's,Lancaster,Pennsylvania,United States,611.3
+Wicked Choccy's,Laredo,Texas,United States,1146.94
+Wicked Choccy's,Las Vegas,Nevada,United States,1958.49
+Wicked Choccy's,Lawrence,Indiana,United States,557.2
+Wicked Choccy's,League City,Texas,United States,849.41
+Wicked Choccy's,Lebanon,Tennessee,United States,412.2
+Wicked Choccy's,Lewiston,Idaho,United States,2138.06
+Wicked Choccy's,Lincoln Park,Michigan,United States,712.28
+Wicked Choccy's,Linden,New Jersey,United States,702.09
+Wicked Choccy's,Little Rock,Arkansas,United States,671.44
+Wicked Choccy's,Logan,Utah,United States,1813.03
+Wicked Choccy's,Long Beach,California,United States,2143.5
+Wicked Choccy's,Long Beach,New York,United States,718.37
+Wicked Choccy's,Lorain,Ohio,United States,637.61
+Wicked Choccy's,Louisville,Colorado,United States,1444.46
+Wicked Choccy's,Lubbock,Texas,United States,1207.68
+Wicked Choccy's,Macon,Georgia,United States,157.44
+Wicked Choccy's,Marietta,Georgia,United States,238.78
+Wicked Choccy's,Marion,Iowa,United States,920.44
+Wicked Choccy's,Marion,Ohio,United States,599.61
+Wicked Choccy's,Marlborough,Massachusetts,United States,881.3
+Wicked Choccy's,Mcallen,Texas,United States,1109.53
+Wicked Choccy's,Medford,Oregon,United States,2379.65
+Wicked Choccy's,Medina,Ohio,United States,625.27
+Wicked Choccy's,Mentor,Ohio,United States,662.78
+Wicked Choccy's,Meridian,Idaho,United States,2065.24
+Wicked Choccy's,Mesa,Arizona,United States,1782.51
+Wicked Choccy's,Mesquite,Texas,United States,905.12
+Wicked Choccy's,Miami,Florida,United States,438.78
+Wicked Choccy's,Middletown,Connecticut,United States,803.69
+Wicked Choccy's,Milford,Connecticut,United States,772.22
+Wicked Choccy's,Minneapolis,Minnesota,United States,1105.38
+Wicked Choccy's,Miramar,Florida,United States,423.87
+Wicked Choccy's,Mission Viejo,California,United States,2114.69
+Wicked Choccy's,Mobile,Alabama,United States,421.19
+Wicked Choccy's,Monroe,Louisiana,United States,644.52
+Wicked Choccy's,Morristown,New Jersey,United States,705.15
+Wicked Choccy's,Mount Vernon,New York,United States,730.75
+Wicked Choccy's,Murray,Utah,United States,1802.42
+Wicked Choccy's,Muskogee,Oklahoma,United States,856.3
+Wicked Choccy's,Naperville,Illinois,United States,774.52
+Wicked Choccy's,Nashua,New Hampshire,United States,906.49
+Wicked Choccy's,New Albany,Indiana,United States,505.38
+Wicked Choccy's,New Bedford,Massachusetts,United States,865.56
+Wicked Choccy's,New Castle,Indiana,United States,592.82
+Wicked Choccy's,New Rochelle,New York,United States,732.4
+Wicked Choccy's,Newark,Ohio,United States,556.34
+Wicked Choccy's,Norman,Oklahoma,United States,964.04
+Wicked Choccy's,North Las Vegas,Nevada,United States,1956.92
+Wicked Choccy's,Norwich,Connecticut,United States,820.42
+Wicked Choccy's,Oak Park,Illinois,United States,771.62
+Wicked Choccy's,Oak Park,Michigan,United States,726.54
+Wicked Choccy's,Oakland,California,United States,2346.77
+Wicked Choccy's,Oceanside,California,United States,2102.4
+Wicked Choccy's,Oceanside,New York,United States,721.5
+Wicked Choccy's,Odessa,Texas,United States,1245.47
+Wicked Choccy's,Oklahoma City,Oklahoma,United States,971.01
+Wicked Choccy's,Olathe,Kansas,United States,902.96
+Wicked Choccy's,Olympia,Washington,United States,2418.93
+Wicked Choccy's,Omaha,Nebraska,United States,1036.66
+Wicked Choccy's,Orange,New Jersey,United States,711.09
+Wicked Choccy's,Orlando,Florida,United States,244.8
+Wicked Choccy's,Oswego,Illinois,United States,775.07
+Wicked Choccy's,Overland Park,Kansas,United States,899.47
+Wicked Choccy's,Park Ridge,Illinois,United States,780.31
+Wicked Choccy's,Parma,Ohio,United States,643.99
+Wicked Choccy's,Pasadena,California,United States,2137.61
+Wicked Choccy's,Pasco,Washington,United States,2231.03
+Wicked Choccy's,Paterson,New Jersey,United States,721.02
+Wicked Choccy's,Pearland,Texas,United States,859.47
+Wicked Choccy's,Pembroke Pines,Florida,United States,422.18
+Wicked Choccy's,Pensacola,Florida,United States,379.57
+Wicked Choccy's,Peoria,Illinois,United States,759.52
+Wicked Choccy's,Pharr,Texas,United States,1107.21
+Wicked Choccy's,Pleasant Grove,Utah,United States,1791.34
+Wicked Choccy's,Pocatello,Idaho,United States,1860.47
+Wicked Choccy's,Port Arthur,Texas,United States,775.53
+Wicked Choccy's,Portland,Oregon,United States,2391.86
+Wicked Choccy's,Quincy,Illinois,United States,791.24
+Wicked Choccy's,Quincy,Massachusetts,United States,894.47
+Wicked Choccy's,Raleigh,North Carolina,United States,291.9
+Wicked Choccy's,Reading,Pennsylvania,United States,638.77
+Wicked Choccy's,Redlands,California,United States,2083.7
+Wicked Choccy's,Redmond,Oregon,United States,2307.36
+Wicked Choccy's,Redondo Beach,California,United States,2153.87
+Wicked Choccy's,Reno,Nevada,United States,2212.28
+Wicked Choccy's,Revere,Massachusetts,United States,902.37
+Wicked Choccy's,Richardson,Texas,United States,912.5
+Wicked Choccy's,Richmond,Kentucky,United States,431.86
+Wicked Choccy's,Riverside,California,United States,2095.17
+Wicked Choccy's,Rochester,Minnesota,United States,1029.58
+Wicked Choccy's,Rochester Hills,Michigan,United States,739.81
+Wicked Choccy's,Rogers,Arkansas,United States,799.8
+Wicked Choccy's,Rome,New York,United States,828.15
+Wicked Choccy's,Roseville,California,United States,2291.23
+Wicked Choccy's,Roseville,Michigan,United States,727.12
+Wicked Choccy's,Roswell,Georgia,United States,232.36
+Wicked Choccy's,Round Rock,Texas,United States,984.53
+Wicked Choccy's,Sacramento,California,United States,2302.57
+Wicked Choccy's,Saginaw,Michigan,United States,799.08
+Wicked Choccy's,Saint Charles,Illinois,United States,787.32
+Wicked Choccy's,Saint Charles,Missouri,United States,702.46
+Wicked Choccy's,Saint Louis,Missouri,United States,683.34
+Wicked Choccy's,Saint Petersburg,Florida,United States,311.5
+Wicked Choccy's,Salem,Virginia,United States,365.2
+Wicked Choccy's,Salinas,California,United States,2317.86
+Wicked Choccy's,Salt Lake City,Utah,United States,1803.39
+Wicked Choccy's,San Antonio,Texas,United States,1048.5
+Wicked Choccy's,San Bernardino,California,United States,2016.19
+Wicked Choccy's,Sandy Springs,Georgia,United States,229.44
+Wicked Choccy's,Santa Ana,California,United States,2125.53
+Wicked Choccy's,Santa Barbara,California,United States,2223.72
+Wicked Choccy's,Santa Clara,California,United States,2316.87
+Wicked Choccy's,Santa Fe,New Mexico,United States,1443.09
+Wicked Choccy's,Sheboygan,Wisconsin,United States,885.72
+Wicked Choccy's,Sierra Vista,Arizona,United States,1708.6
+Wicked Choccy's,Sioux Falls,South Dakota,United States,1161.3
+Wicked Choccy's,Skokie,Illinois,United States,778.91
+Wicked Choccy's,Smyrna,Tennessee,United States,411.67
+Wicked Choccy's,South Bend,Indiana,United States,722.14
+Wicked Choccy's,Southaven,Mississippi,United States,551.2
+Wicked Choccy's,Spokane,Washington,United States,2179.19
+Wicked Choccy's,Sterling Heights,Michigan,United States,733.51
+Wicked Choccy's,Stockton,California,United States,2292.87
+Wicked Choccy's,Suffolk,Virginia,United States,411.3
+Wicked Choccy's,Superior,Wisconsin,United States,1167.75
+Wicked Choccy's,Tamarac,Florida,United States,408.26
+Wicked Choccy's,Tampa,Florida,United States,296.97
+Wicked Choccy's,Taylor,Michigan,United States,712.44
+Wicked Choccy's,Texas City,Texas,United States,841.25
+Wicked Choccy's,Thomasville,North Carolina,United States,269.28
+Wicked Choccy's,Thornton,Colorado,United States,1435.06
+Wicked Choccy's,Tigard,Oregon,United States,2395.69
+Wicked Choccy's,Tinley Park,Illinois,United States,752.9
+Wicked Choccy's,Toronto,Ontario,Canada,805.26
+Wicked Choccy's,Torrance,California,United States,2151.43
+Wicked Choccy's,Troy,Ohio,United States,576.96
+Wicked Choccy's,Tulsa,Oklahoma,United States,896.85
+Wicked Choccy's,Tyler,Texas,United States,830.46
+Wicked Choccy's,Urbandale,Iowa,United States,959.63
+Wicked Choccy's,Vallejo,California,United States,2344.98
+Wicked Choccy's,Vancouver,British Columbia,Canada,2459.39
+Wicked Choccy's,Virginia Beach,Virginia,United States,439.84
+Wicked Choccy's,Waco,Texas,United States,941.82
+Wicked Choccy's,Warner Robins,Georgia,United States,151.71
+Wicked Choccy's,Washington,District of Columbia,United States,523.25
+Wicked Choccy's,Watertown,New York,United States,868.6
+Wicked Choccy's,Wausau,Wisconsin,United States,1001.37
+Wicked Choccy's,Waynesboro,Virginia,United States,432.27
+Wicked Choccy's,West Jordan,Utah,United States,1804.39
+Wicked Choccy's,West Palm Beach,Florida,United States,375.6
+Wicked Choccy's,Westland,Michigan,United States,719.31
+Wicked Choccy's,Westminster,California,United States,2131.88
+Wicked Choccy's,Wheeling,Illinois,United States,790.27
+Wicked Choccy's,Whittier,California,United States,2132.76
+Wicked Choccy's,Wichita,Kansas,United States,997.62
+Wicked Choccy's,Wilmington,Delaware,United States,613.07
+Wicked Choccy's,Wilmington,North Carolina,United States,235.0
+Wicked Choccy's,Winnipeg,Manitoba,Canada,1481.94
+Wicked Choccy's,Woodbury,Minnesota,United States,1091.91
+Wicked Choccy's,Woonsocket,Rhode Island,United States,864.34
+Wicked Choccy's,York,Pennsylvania,United States,596.7
+Wicked Choccy's,Yuma,Arizona,United States,1948.5
+Wicked Choccy's,Abilene,Texas,United States,1088.14
+Wicked Choccy's,Allen,Texas,United States,909.05
+Wicked Choccy's,Altoona,Pennsylvania,United States,602.23
+Wicked Choccy's,Ann Arbor,Michigan,United States,720.06
+Wicked Choccy's,Apple Valley,California,United States,2080.61
+Wicked Choccy's,Appleton,Wisconsin,United States,930.11
+Wicked Choccy's,Arvada,Colorado,United States,1438.8
+Wicked Choccy's,Bartlett,Tennessee,United States,549.38
+Wicked Choccy's,Baytown,Texas,United States,838.48
+Wicked Choccy's,Bedford,Texas,United States,936.58
+Wicked Choccy's,Boca Raton,Florida,United States,399.66
+Wicked Choccy's,Bolingbrook,Illinois,United States,768.19
+Wicked Choccy's,Bowling Green,Kentucky,United States,456.22
+Wicked Choccy's,Bridgeton,New Jersey,United States,604.41
+Wicked Choccy's,Broken Arrow,Oklahoma,United States,884.18
+Wicked Choccy's,Broomfield,Colorado,United States,1439.72
+Wicked Choccy's,Burlington,Vermont,United States,956.23
+Wicked Choccy's,Caldwell,Idaho,United States,2080.6
+Wicked Choccy's,Camarillo,California,United States,2187.78
+Wicked Choccy's,Carrollton,Texas,United States,922.57
+Wicked Choccy's,Chandler,Arizona,United States,1783.81
+Wicked Choccy's,Charlottesville,Virginia,United States,436.99
+Wicked Choccy's,Charlottetown,Prince Edward Island,Canada,1366.04
+Wicked Choccy's,Chula Vista,California,United States,2091.08
+Wicked Choccy's,College Station,Texas,United States,905.15
+Wicked Choccy's,Coral Gables,Florida,United States,441.13
+Wicked Choccy's,Costa Mesa,California,United States,2128.01
+Wicked Choccy's,Covington,Washington,United States,2386.37
+Wicked Choccy's,Davis,California,United States,2315.88
+Wicked Choccy's,Daytona Beach,Florida,United States,198.02
+Wicked Choccy's,Dearborn Heights,Michigan,United States,719.01
+Wicked Choccy's,Des Plaines,Illinois,United States,783.34
+Wicked Choccy's,Draper,Utah,United States,1799.52
+Wicked Choccy's,Eau Claire,Wisconsin,United States,1042.84
+Wicked Choccy's,Fairfield,California,United States,2332.82
+Wicked Choccy's,Gaithersburg,Maryland,United States,534.72
+Wicked Choccy's,Garden City,Kansas,United States,1188.36
+Wicked Choccy's,Gladstone,Missouri,United States,902.26
+Wicked Choccy's,Goldsboro,North Carolina,United States,289.62
+Wicked Choccy's,Gresham,Oregon,United States,2380.08
+Wicked Choccy's,Gulfport,Mississippi,United States,487.34
+Wicked Choccy's,Halifax,Nova Scotia,Canada,1280.86
+Wicked Choccy's,Hamilton,Ohio,United States,529.63
+Wicked Choccy's,Hattiesburg,Mississippi,United States,484.8
+Wicked Choccy's,Hesperia,California,United States,2087.84
+Wicked Choccy's,Highland Park,Illinois,United States,789.53
+Wicked Choccy's,Hillsboro,Oregon,United States,2407.02
+Wicked Choccy's,Homestead,Florida,United States,457.82
+Wicked Choccy's,Independence,Missouri,United States,890.53
+Wicked Choccy's,Lafayette,Indiana,United States,660.57
+Wicked Choccy's,Lake Charles,Louisiana,United States,727.99
+Wicked Choccy's,Lansing,Michigan,United States,760.37
+Wicked Choccy's,Las Cruces,New Mexico,United States,1498.65
+Wicked Choccy's,Lawton,Oklahoma,United States,1012.84
+Wicked Choccy's,Layton,Utah,United States,1811.61
+Wicked Choccy's,Lehi,Utah,United States,1797.31
+Wicked Choccy's,Lodi,California,United States,2291.51
+Wicked Choccy's,Longview,Washington,United States,2410.52
+Wicked Choccy's,Manchester,Connecticut,United States,819.79
+Wicked Choccy's,Maple Grove,Minnesota,United States,1117.34
+Wicked Choccy's,Marysville,Washington,United States,2399.48
+Wicked Choccy's,Modesto,California,United States,2277.73
+Wicked Choccy's,Moorhead,Minnesota,United States,1315.24
+Wicked Choccy's,Morgan Hill,California,United States,2315.66
+Wicked Choccy's,Murray,Kentucky,United States,516.95
+Wicked Choccy's,Norfolk,Nebraska,United States,1129.62
+Wicked Choccy's,Orem,Utah,United States,1788.34
+Wicked Choccy's,Ormond Beach,Florida,United States,192.83
+Wicked Choccy's,Palatine,Illinois,United States,791.54
+Wicked Choccy's,Parker,Colorado,United States,1417.56
+Wicked Choccy's,Passaic,New Jersey,United States,724.21
+Wicked Choccy's,Perth Amboy,New Jersey,United States,695.1
+Wicked Choccy's,Pico Rivera,California,United States,2136.26
+Wicked Choccy's,Pine Bluff,Arkansas,United States,648.3
+Wicked Choccy's,Plantation,Florida,United States,414.24
+Wicked Choccy's,Pomona,California,United States,2116.05
+Wicked Choccy's,Port Saint Lucie,Florida,United States,333.38
+Wicked Choccy's,Quebec City,Quebec,Canada,1144.49
+Wicked Choccy's,Redding,California,United States,2350.14
+Wicked Choccy's,Redmond,Washington,United States,2391.62
+Wicked Choccy's,Redwood City,California,United States,2345.86
+Wicked Choccy's,Regina,Saskatchewan,Canada,1747.21
+Wicked Choccy's,Renton,Washington,United States,2392.65
+Wicked Choccy's,Rio Rancho,New Mexico,United States,1484.12
+Wicked Choccy's,Rock Hill,South Carolina,United States,196.86
+Wicked Choccy's,Royal Oak,Michigan,United States,728.26
+Wicked Choccy's,Saint Peters,Missouri,United States,707.62
+Wicked Choccy's,San Angelo,Texas,United States,1136.03
+Wicked Choccy's,San Luis Obispo,California,United States,2254.58
+Wicked Choccy's,Santa Maria,California,United States,2260.87
+Wicked Choccy's,Summerville,South Carolina,United States,84.04
+Wicked Choccy's,Temecula,California,United States,2086.36
+Wicked Choccy's,Twin Falls,Idaho,United States,1956.46
+Wicked Choccy's,Utica,New York,United States,825.91
+Wicked Choccy's,Vacaville,California,United States,2329.72
+Wicked Choccy's,Vancouver,Washington,United States,2392.96
+Wicked Choccy's,Vineland,New Jersey,United States,614.15
+Wicked Choccy's,Waterloo,Iowa,United States,947.26
+Wicked Choccy's,West Allis,Wisconsin,United States,844.87
+Wicked Choccy's,Wheeling,West Virginia,United States,552.29
+Wicked Choccy's,Woodstock,Georgia,United States,242.93
+Wicked Choccy's,Andover,Massachusetts,United States,911.19
+Wicked Choccy's,Antioch,California,United States,2321.02
+Wicked Choccy's,Apple Valley,Minnesota,United States,1090.99
+Wicked Choccy's,Arlington Heights,Illinois,United States,788.13
+Wicked Choccy's,Auburn,Washington,United States,2391.56
+Wicked Choccy's,Bloomington,Indiana,United States,577.29
+Wicked Choccy's,Boise,Idaho,United States,2055.94
+Wicked Choccy's,Burbank,California,United States,2146.6
+Wicked Choccy's,Canton,Michigan,United States,761.13
+Wicked Choccy's,Cedar Hill,Texas,United States,926.16
+Wicked Choccy's,Cedar Rapids,Iowa,United States,897.75
+Wicked Choccy's,Chapel Hill,North Carolina,United States,289.53
+Wicked Choccy's,Cheyenne,Wyoming,United States,1451.29
+Wicked Choccy's,Commerce City,Colorado,United States,1431.36
+Wicked Choccy's,Conroe,Texas,United States,857.23
+Wicked Choccy's,Conway,Arkansas,United States,685.29
+Wicked Choccy's,Deer Park,Texas,United States,847.51
+Wicked Choccy's,East Point,Georgia,United States,223.77
+Wicked Choccy's,El Cajon,California,United States,2082.47
+Wicked Choccy's,Elkhart,Indiana,United States,708.72
+Wicked Choccy's,Evanston,Illinois,United States,779.71
+Wicked Choccy's,Farmington,New Mexico,United States,1573.4
+Wicked Choccy's,Frankfort,Illinois,United States,750.24
+Wicked Choccy's,Gastonia,North Carolina,United States,220.21
+Wicked Choccy's,Holland,Michigan,United States,789.3
+Wicked Choccy's,Jefferson City,Missouri,United States,768.59
+Wicked Choccy's,Keller,Texas,United States,941.36
+Wicked Choccy's,Kirkwood,Missouri,United States,690.6
+Wicked Choccy's,Lake Forest,California,United States,2115.75
+Wicked Choccy's,Lewiston,Maine,United States,1017.6
+Wicked Choccy's,Longmont,Colorado,United States,1446.3
+Wicked Choccy's,Madison,Wisconsin,United States,884.29
+Wicked Choccy's,Malden,Massachusetts,United States,901.45
+Wicked Choccy's,Manhattan,Kansas,United States,996.6
+Wicked Choccy's,Mansfield,Texas,United States,937.09
+Wicked Choccy's,Margate,Florida,United States,406.43
+Wicked Choccy's,Mason,Ohio,United States,534.63
+Wicked Choccy's,Missoula,Montana,United States,2009.55
+Wicked Choccy's,Moncton,New Brunswick,Canada,1299.34
+Wicked Choccy's,Mount Pleasant,South Carolina,United States,86.7
+Wicked Choccy's,New Brunswick,New Jersey,United States,688.85
+Wicked Choccy's,North Miami,Florida,United States,430.88
+Wicked Choccy's,Owensboro,Kentucky,United States,520.79
+Wicked Choccy's,Rockville,Maryland,United States,532.05
+Wicked Choccy's,Romeoville,Illinois,United States,765.6
+Wicked Choccy's,Roseville,Minnesota,United States,1103.46
+Wicked Choccy's,Saint Cloud,Minnesota,United States,1164.51
+Wicked Choccy's,Saint Paul,Minnesota,United States,1098.48
+Wicked Choccy's,San Gabriel,California,United States,2135.98
+Wicked Choccy's,Sanford,Florida,United States,225.81
+Wicked Choccy's,Texarkana,Arkansas,United States,758.05
+Wicked Choccy's,Visalia,California,United States,2188.58
+Wicked Choccy's,Wilson,North Carolina,United States,309.75
+Wicked Choccy's,Yucaipa,California,United States,2075.92
+Wicked Choccy's,Bellingham,Washington,United States,2423.52
+Wicked Choccy's,Beverly,Massachusetts,United States,914.17
+Wicked Choccy's,Billings,Montana,United States,1737.89
+Wicked Choccy's,Buffalo Grove,Illinois,United States,791.92
+Wicked Choccy's,Clovis,New Mexico,United States,1285.59
+Wicked Choccy's,Danbury,Connecticut,United States,769.49
+Wicked Choccy's,Dublin,California,United States,2328.82
+Wicked Choccy's,Dubuque,Iowa,United States,890.83
+Wicked Choccy's,Elyria,Ohio,United States,644.42
+Wicked Choccy's,Englewood,Colorado,United States,1431.43
+Wicked Choccy's,Grand Island,Nebraska,United States,1133.33
+Wicked Choccy's,Hickory,North Carolina,United States,253.11
+Wicked Choccy's,Kissimmee,Florida,United States,262.16
+Wicked Choccy's,Laurel,Maryland,United States,540.35
+Wicked Choccy's,Lindenhurst,New York,United States,732.88
+Wicked Choccy's,Loveland,Colorado,United States,1449.18
+Wicked Choccy's,Manteca,California,United States,2289.0
+Wicked Choccy's,Mishawaka,Indiana,United States,719.25
+Wicked Choccy's,Montebello,California,United States,2136.86
+Wicked Choccy's,Murrieta,California,United States,2089.39
+Wicked Choccy's,Noblesville,Indiana,United States,615.3
+Wicked Choccy's,North Charleston,South Carolina,United States,84.3
+Wicked Choccy's,Ontario,California,United States,2108.23
+Wicked Choccy's,Orland Park,Illinois,United States,758.14
+Wicked Choccy's,Pompano Beach,Florida,United States,407.55
+Wicked Choccy's,Portage,Indiana,United States,737.19
+Wicked Choccy's,Rapid City,South Dakota,United States,1454.61
+Wicked Choccy's,Shelton,Connecticut,United States,776.94
+Wicked Choccy's,Springdale,Arkansas,United States,797.24
+Wicked Choccy's,The Colony,Texas,United States,921.54
+Wicked Choccy's,Woodstock,Illinois,United States,814.39
+Wicked Choccy's,Aberdeen,South Dakota,United States,1311.45
+Wicked Choccy's,Atlantic City,New Jersey,United States,626.77
+Wicked Choccy's,Citrus Heights,California,United States,2290.91
+Wicked Choccy's,Glenview,Illinois,United States,783.06
+Wicked Choccy's,Hagerstown,Maryland,United States,555.7
+Wicked Choccy's,Iowa City,Iowa,United States,877.1
+Wicked Choccy's,La Quinta,California,United States,2036.16
+Wicked Choccy's,Lake Elsinore,California,United States,2095.11
+Wicked Choccy's,Littleton,Colorado,United States,1432.33
+Wicked Choccy's,Missouri City,Texas,United States,873.07
+Wicked Choccy's,Mount Pleasant,Michigan,United States,820.75
+Wicked Choccy's,Normal,Illinois,United States,729.28
+Wicked Choccy's,Port Orange,Florida,United States,203.04
+Wicked Choccy's,San Clemente,California,United States,2113.54
+Wicked Choccy's,San Mateo,California,United States,2351.32
+Wicked Choccy's,St. John's,Newfoundland and Labrador,Canada,1830.77
+Wicked Choccy's,Tuscaloosa,Alabama,United States,384.94
+Wicked Choccy's,Waukesha,Wisconsin,United States,855.16
+Wicked Choccy's,Melbourne,Florida,United States,277.7
+Sugar Shack,Pasadena,Texas,United States,1274.31
+Sugar Shack,Pueblo,Colorado,United States,801.47
+Sugar Shack,Tallahassee,Florida,United States,1373.77
+Sugar Shack,Chicago,Illinois,United States,600.03
+Sugar Shack,Jackson,Michigan,United States,700.69
+Sugar Shack,Jacksonville,Florida,United States,1449.06
+Sugar Shack,New York City,New York,United States,1202.39
+Sugar Shack,Peoria,Arizona,United States,1303.45
+Sugar Shack,Philadelphia,Pennsylvania,United States,1181.24
+Sugar Shack,Chattanooga,Tennessee,United States,1061.42
+Sugar Shack,Los Angeles,California,United States,1495.18
+Sugar Shack,Monroe,North Carolina,United States,1210.52
+Sugar Shack,Scottsdale,Arizona,United States,1298.21
+Sugar Shack,Austin,Texas,United States,1236.4
+Sugar Shack,Bossier City,Louisiana,United States,1085.63
+Sugar Shack,Bristol,Connecticut,United States,1215.69
+Sugar Shack,Bristol,Tennessee,United States,1066.45
+Sugar Shack,Cleveland,Ohio,United States,842.59
+Sugar Shack,Clinton,Maryland,United States,1158.92
+Sugar Shack,Columbia,South Carolina,United States,1249.92
+Sugar Shack,Columbus,Georgia,United States,1229.28
+Sugar Shack,Concord,New Hampshire,United States,1231.45
+Sugar Shack,Dallas,Texas,United States,1060.59
+Sugar Shack,Danville,California,United States,1476.49
+Sugar Shack,Denver,Colorado,United States,725.04
+Sugar Shack,Dover,New Hampshire,United States,1262.11
+Sugar Shack,El Paso,Texas,United States,1252.61
+Sugar Shack,Franklin,Massachusetts,United States,1200.88
+Sugar Shack,Henderson,Kentucky,United States,836.55
+Sugar Shack,Henderson,Nevada,United States,1269.53
+Sugar Shack,Hollywood,Florida,United States,1756.76
+Sugar Shack,Houston,Texas,United States,1269.32
+Sugar Shack,Huntsville,Alabama,United States,1048.31
+Sugar Shack,Lakeland,Florida,United States,1582.78
+Sugar Shack,Lakewood,New Jersey,United States,1216.81
+Sugar Shack,Leominster,Massachusetts,United States,1241.49
+Sugar Shack,Louisville,Kentucky,United States,858.72
+Sugar Shack,Lowell,Massachusetts,United States,1258.64
+Sugar Shack,Memphis,Tennessee,United States,949.83
+Sugar Shack,Meriden,Connecticut,United States,1226.53
+Sugar Shack,Moreno Valley,California,United States,1462.15
+Sugar Shack,Nashville,Tennessee,United States,954.8
+Sugar Shack,Newark,Delaware,United States,1166.99
+Sugar Shack,Newport News,Virginia,United States,1259.99
+Sugar Shack,Oxnard,California,United States,1524.81
+Sugar Shack,Palm Coast,Florida,United States,1508.45
+Sugar Shack,Phoenix,Arizona,United States,1305.64
+Sugar Shack,Plainfield,New Jersey,United States,1187.54
+Sugar Shack,Providence,Rhode Island,United States,1279.7
+Sugar Shack,Rancho Cucamonga,California,United States,1466.82
+Sugar Shack,Richmond,Indiana,United States,800.48
+Sugar Shack,Salem,Oregon,United States,1288.38
+Sugar Shack,San Diego,California,United States,1523.77
+Sugar Shack,San Francisco,California,United States,1495.66
+Sugar Shack,San Jose,California,United States,1492.2
+Sugar Shack,San Marcos,Texas,United States,1263.48
+Sugar Shack,Seattle,Washington,United States,1206.86
+Sugar Shack,Smyrna,Georgia,United States,1153.56
+Sugar Shack,Springfield,Missouri,United States,767.89
+Sugar Shack,Springfield,Ohio,United States,833.84
+Sugar Shack,Springfield,Oregon,United States,1309.63
+Sugar Shack,Springfield,Virginia,United States,1146.26
+Sugar Shack,Sunnyvale,California,United States,1497.12
+Sugar Shack,Toledo,Ohio,United States,761.78
+Sugar Shack,Troy,New York,United States,1147.51
+Sugar Shack,Woodland,California,United States,1431.57
+Sugar Shack,Hialeah,Florida,United States,1764.78
+Sugar Shack,Midland,Michigan,United States,652.05
+Sugar Shack,Waterbury,Connecticut,United States,1215.16
+Sugar Shack,Westfield,New Jersey,United States,1189.6
+Sugar Shack,Akron,Ohio,United States,867.59
+Sugar Shack,Anaheim,California,United States,1493.52
+Sugar Shack,Auburn,New York,United States,1011.37
+Sugar Shack,Calgary,Alberta,Canada,823.68
+Sugar Shack,Chico,California,United States,1393.6
+Sugar Shack,Columbus,Ohio,United States,861.7
+Sugar Shack,Elmhurst,Illinois,United States,588.18
+Sugar Shack,Eugene,Oregon,United States,1312.89
+Sugar Shack,Fayetteville,Arkansas,United States,839.39
+Sugar Shack,Gilbert,Arizona,United States,1301.9
+Sugar Shack,Hempstead,New York,United States,1220.94
+Sugar Shack,Jackson,Mississippi,United States,1137.02
+Sugar Shack,La Crosse,Wisconsin,United States,380.1
+Sugar Shack,Lakewood,Ohio,United States,839.07
+Sugar Shack,Lawrence,Massachusetts,United States,1263.29
+Sugar Shack,Milwaukee,Wisconsin,United States,531.68
+Sugar Shack,Montgomery,Alabama,United States,1203.46
+Sugar Shack,Montreal,Quebec,Canada,1080.36
+Sugar Shack,Murfreesboro,Tennessee,United States,984.01
+Sugar Shack,Provo,Utah,United States,937.97
+Sugar Shack,Richmond,Virginia,United States,1193.29
+Sugar Shack,Rochester,New York,United States,957.24
+Sugar Shack,Rockford,Illinois,United States,530.88
+Sugar Shack,Sparks,Nevada,United States,1309.02
+Sugar Shack,Tempe,Arizona,United States,1302.59
+Sugar Shack,Thousand Oaks,California,United States,1512.6
+Sugar Shack,Trenton,Michigan,United States,754.94
+Sugar Shack,Tucson,Arizona,United States,1342.62
+Sugar Shack,Warwick,Rhode Island,United States,1281.74
+Sugar Shack,Yonkers,New York,United States,1199.08
+Sugar Shack,Frisco,Texas,United States,1034.78
+Sugar Shack,Niagara Falls,New York,United States,894.86
+Sugar Shack,Plano,Texas,United States,1044.04
+Sugar Shack,Albuquerque,New Mexico,United States,1048.41
+Sugar Shack,Alexandria,Virginia,United States,1150.39
+Sugar Shack,Allentown,Pennsylvania,United States,1142.34
+Sugar Shack,Amarillo,Texas,United States,938.02
+Sugar Shack,Apopka,Florida,United States,1554.78
+Sugar Shack,Arlington,Texas,United States,1064.01
+Sugar Shack,Arlington,Virginia,United States,1145.45
+Sugar Shack,Asheville,North Carolina,United States,1110.44
+Sugar Shack,Athens,Georgia,United States,1180.76
+Sugar Shack,Atlanta,Georgia,United States,1164.82
+Sugar Shack,Auburn,Alabama,United States,1207.94
+Sugar Shack,Aurora,Colorado,United States,721.68
+Sugar Shack,Aurora,Illinois,United States,583.55
+Sugar Shack,Avondale,Arizona,United States,1313.45
+Sugar Shack,Bakersfield,California,United States,1460.82
+Sugar Shack,Baltimore,Maryland,United States,1147.2
+Sugar Shack,Bangor,Maine,United States,1317.3
+Sugar Shack,Bayonne,New Jersey,United States,1199.26
+Sugar Shack,Beaumont,Texas,United States,1251.07
+Sugar Shack,Belleville,New Jersey,United States,1193.02
+Sugar Shack,Bellevue,Washington,United States,1200.43
+Sugar Shack,Bethlehem,Pennsylvania,United States,1145.78
+Sugar Shack,Bloomington,Illinois,United States,635.71
+Sugar Shack,Bowling Green,Ohio,United States,769.9
+Sugar Shack,Boynton Beach,Florida,United States,1726.99
+Sugar Shack,Bozeman,Montana,United States,720.4
+Sugar Shack,Brentwood,California,United States,1458.67
+Sugar Shack,Brownsville,Texas,United States,1536.7
+Sugar Shack,Bryan,Texas,United States,1205.37
+Sugar Shack,Buffalo,New York,United States,910.0
+Sugar Shack,Bullhead City,Arizona,United States,1299.34
+Sugar Shack,Burlington,Iowa,United States,563.23
+Sugar Shack,Burlington,North Carolina,United States,1189.56
+Sugar Shack,Cambridge,Massachusetts,United States,1276.44
+Sugar Shack,Carlsbad,New Mexico,United States,1162.94
+Sugar Shack,Carol Stream,Illinois,United States,581.06
+Sugar Shack,Cary,North Carolina,United States,1229.65
+Sugar Shack,Champaign,Illinois,United States,678.01
+Sugar Shack,Charlotte,North Carolina,United States,1187.2
+Sugar Shack,Chesapeake,Virginia,United States,1279.68
+Sugar Shack,Chester,Pennsylvania,United States,1154.14
+Sugar Shack,Cincinnati,Ohio,United States,851.94
+Sugar Shack,Clarksville,Tennessee,United States,917.58
+Sugar Shack,Clifton,New Jersey,United States,1190.03
+Sugar Shack,Coachella,California,United States,1436.06
+Sugar Shack,Colorado Springs,Colorado,United States,773.14
+Sugar Shack,Columbia,Maryland,United States,1140.81
+Sugar Shack,Columbia,Missouri,United States,661.84
+Sugar Shack,Columbia,Tennessee,United States,982.22
+Sugar Shack,Columbus,Indiana,United States,800.21
+Sugar Shack,Concord,California,United States,1471.51
+Sugar Shack,Concord,North Carolina,United States,1186.11
+Sugar Shack,Coon Rapids,Minnesota,United States,245.08
+Sugar Shack,Coppell,Texas,United States,1048.63
+Sugar Shack,Coral Springs,Florida,United States,1737.31
+Sugar Shack,Corpus Christi,Texas,United States,1407.98
+Sugar Shack,Cottage Grove,Minnesota,United States,274.62
+Sugar Shack,Cranston,Rhode Island,United States,1280.08
+Sugar Shack,Cuyahoga Falls,Ohio,United States,866.73
+Sugar Shack,Danville,Illinois,United States,695.46
+Sugar Shack,Dearborn,Michigan,United States,747.51
+Sugar Shack,Decatur,Alabama,United States,1046.66
+Sugar Shack,Decatur,Illinois,United States,674.56
+Sugar Shack,Delray Beach,Florida,United States,1730.78
+Sugar Shack,Deltona,Florida,United States,1548.16
+Sugar Shack,Des Moines,Iowa,United States,468.31
+Sugar Shack,Des Moines,Washington,United States,1208.82
+Sugar Shack,Detroit,Michigan,United States,752.43
+Sugar Shack,Dover,Delaware,United States,1198.59
+Sugar Shack,Dublin,Ohio,United States,850.77
+Sugar Shack,Durham,North Carolina,United States,1214.3
+Sugar Shack,Eagan,Minnesota,United States,269.41
+Sugar Shack,East Orange,New Jersey,United States,1191.26
+Sugar Shack,Edinburg,Texas,United States,1511.28
+Sugar Shack,Edmond,Oklahoma,United States,863.54
+Sugar Shack,Edmonds,Washington,United States,1206.27
+Sugar Shack,Edmonton,Alberta,Canada,840.39
+Sugar Shack,Encinitas,California,United States,1510.91
+Sugar Shack,Escondido,California,United States,1499.16
+Sugar Shack,Everett,Massachusetts,United States,1277.38
+Sugar Shack,Everett,Washington,United States,1196.64
+Sugar Shack,Fairfield,Connecticut,United States,1219.73
+Sugar Shack,Fairfield,Ohio,United States,883.63
+Sugar Shack,Fargo,North Dakota,United States,90.39
+Sugar Shack,Fayetteville,North Carolina,United States,1265.04
+Sugar Shack,Florence,Alabama,United States,1018.7
+Sugar Shack,Florence,Kentucky,United States,853.6
+Sugar Shack,Florence,South Carolina,United States,1280.7
+Sugar Shack,Fort Collins,Colorado,United States,680.24
+Sugar Shack,Fort Lauderdale,Florida,United States,1749.99
+Sugar Shack,Fort Worth,Texas,United States,1063.39
+Sugar Shack,Franklin,Tennessee,United States,967.02
+Sugar Shack,Franklin,Wisconsin,United States,534.34
+Sugar Shack,Freeport,Illinois,United States,513.23
+Sugar Shack,Freeport,New York,United States,1223.1
+Sugar Shack,Fremont,Nebraska,United States,462.17
+Sugar Shack,Fresno,California,United States,1428.69
+Sugar Shack,Garland,Texas,United States,1050.95
+Sugar Shack,Georgetown,Kentucky,United States,898.96
+Sugar Shack,Glendale,Arizona,United States,1304.15
+Sugar Shack,Grand Prairie,Texas,United States,1063.05
+Sugar Shack,Grand Rapids,Michigan,United States,620.22
+Sugar Shack,Grapevine,Texas,United States,1050.26
+Sugar Shack,Great Falls,Montana,United States,701.31
+Sugar Shack,Greeley,Colorado,United States,677.91
+Sugar Shack,Green Bay,Wisconsin,United States,462.28
+Sugar Shack,Greensboro,North Carolina,United States,1178.0
+Sugar Shack,Greenville,North Carolina,United States,1291.04
+Sugar Shack,Greenwood,Indiana,United States,771.37
+Sugar Shack,Grove City,Ohio,United States,862.24
+Sugar Shack,Hackensack,New Jersey,United States,1194.39
+Sugar Shack,Haltom City,Texas,United States,1060.01
+Sugar Shack,Hampton,Virginia,United States,1261.06
+Sugar Shack,Harlingen,Texas,United States,1517.34
+Sugar Shack,Harrisonburg,Virginia,United States,1093.3
+Sugar Shack,Helena,Montana,United States,748.22
+Sugar Shack,Hendersonville,Tennessee,United States,949.99
+Sugar Shack,Holyoke,Massachusetts,United States,1213.12
+Sugar Shack,Hoover,Alabama,United States,1129.34
+Sugar Shack,Hot Springs,Arkansas,United States,954.41
+Sugar Shack,Huntington Beach,California,United States,1504.94
+Sugar Shack,Huntsville,Texas,United States,1202.39
+Sugar Shack,Indianapolis,Indiana,United States,761.3
+Sugar Shack,Inglewood,California,United States,1504.42
+Sugar Shack,Irving,Texas,United States,1057.17
+Sugar Shack,Jackson,Tennessee,United States,942.34
+Sugar Shack,Jacksonville,North Carolina,United States,1333.59
+Sugar Shack,Jamestown,New York,United States,922.38
+Sugar Shack,Johnson City,Tennessee,United States,1076.31
+Sugar Shack,Jonesboro,Arkansas,United States,893.58
+Sugar Shack,Jupiter,Florida,United States,1700.88
+Sugar Shack,Kenner,Louisiana,United States,1291.24
+Sugar Shack,Kenosha,Wisconsin,United States,557.07
+Sugar Shack,Kent,Ohio,United States,871.16
+Sugar Shack,Kent,Washington,United States,1205.26
+Sugar Shack,Knoxville,Tennessee,United States,1046.79
+Sugar Shack,La Mesa,California,United States,1515.78
+Sugar Shack,La Porte,Indiana,United States,644.7
+Sugar Shack,La Porte,Texas,United States,1276.51
+Sugar Shack,Lafayette,Louisiana,United States,1255.76
+Sugar Shack,Laguna Niguel,California,United States,1501.78
+Sugar Shack,Lakeville,Minnesota,United States,277.55
+Sugar Shack,Lakewood,California,United States,1500.65
+Sugar Shack,Lancaster,California,United States,1458.65
+Sugar Shack,Lancaster,Ohio,United States,888.89
+Sugar Shack,Lancaster,Pennsylvania,United States,1128.78
+Sugar Shack,Laredo,Texas,United States,1435.29
+Sugar Shack,Las Vegas,Nevada,United States,1269.01
+Sugar Shack,Lawrence,Indiana,United States,803.14
+Sugar Shack,League City,Texas,United States,1287.25
+Sugar Shack,Lebanon,Tennessee,United States,964.56
+Sugar Shack,Lewiston,Idaho,United States,981.05
+Sugar Shack,Lincoln Park,Michigan,United States,750.39
+Sugar Shack,Linden,New Jersey,United States,1195.28
+Sugar Shack,Little Rock,Arkansas,United States,945.38
+Sugar Shack,Logan,Utah,United States,881.47
+Sugar Shack,Long Beach,California,United States,1507.68
+Sugar Shack,Long Beach,New York,United States,1222.37
+Sugar Shack,Lorain,Ohio,United States,833.31
+Sugar Shack,Louisville,Colorado,United States,715.93
+Sugar Shack,Lubbock,Texas,United States,1046.19
+Sugar Shack,Macon,Georgia,United States,1241.11
+Sugar Shack,Marietta,Georgia,United States,1148.41
+Sugar Shack,Marion,Iowa,United States,493.78
+Sugar Shack,Marion,Ohio,United States,824.34
+Sugar Shack,Marlborough,Massachusetts,United States,1256.6
+Sugar Shack,Mcallen,Texas,United States,1518.26
+Sugar Shack,Medford,Oregon,United States,1351.36
+Sugar Shack,Medina,Ohio,United States,849.92
+Sugar Shack,Mentor,Ohio,United States,850.18
+Sugar Shack,Meridian,Idaho,United States,1017.68
+Sugar Shack,Mesa,Arizona,United States,1299.68
+Sugar Shack,Mesquite,Texas,United States,1060.99
+Sugar Shack,Miami,Florida,United States,1770.4
+Sugar Shack,Middletown,Connecticut,United States,1232.52
+Sugar Shack,Milford,Connecticut,United States,1226.09
+Sugar Shack,Minneapolis,Minnesota,United States,257.48
+Sugar Shack,Miramar,Florida,United States,1756.05
+Sugar Shack,Mission Viejo,California,United States,1496.11
+Sugar Shack,Mobile,Alabama,United States,1278.35
+Sugar Shack,Monroe,Louisiana,United States,1099.65
+Sugar Shack,Morristown,New Jersey,United States,1178.32
+Sugar Shack,Mount Vernon,New York,United States,1202.42
+Sugar Shack,Murray,Utah,United States,928.11
+Sugar Shack,Muskogee,Oklahoma,United States,861.59
+Sugar Shack,Naperville,Illinois,United States,588.09
+Sugar Shack,Nashua,New Hampshire,United States,1247.62
+Sugar Shack,New Albany,Indiana,United States,854.96
+Sugar Shack,New Bedford,Massachusetts,United States,1307.58
+Sugar Shack,New Castle,Indiana,United States,778.74
+Sugar Shack,New Rochelle,New York,United States,1204.94
+Sugar Shack,Newark,Ohio,United States,879.69
+Sugar Shack,Norman,Oklahoma,United States,893.41
+Sugar Shack,North Las Vegas,Nevada,United States,1266.32
+Sugar Shack,Norwich,Connecticut,United States,1259.71
+Sugar Shack,Oak Park,Illinois,United States,593.85
+Sugar Shack,Oak Park,Michigan,United States,741.62
+Sugar Shack,Oakland,California,United States,1489.03
+Sugar Shack,Oceanside,California,United States,1506.41
+Sugar Shack,Oceanside,New York,United States,1221.6
+Sugar Shack,Odessa,Texas,United States,1170.15
+Sugar Shack,Oklahoma City,Oklahoma,United States,876.44
+Sugar Shack,Olathe,Kansas,United States,641.71
+Sugar Shack,Olympia,Washington,United States,1240.97
+Sugar Shack,Omaha,Nebraska,United States,474.16
+Sugar Shack,Orange,New Jersey,United States,1190.5
+Sugar Shack,Orlando,Florida,United States,1566.47
+Sugar Shack,Oswego,Illinois,United States,586.34
+Sugar Shack,Overland Park,Kansas,United States,636.25
+Sugar Shack,Park Ridge,Illinois,United States,585.66
+Sugar Shack,Parma,Ohio,United States,845.87
+Sugar Shack,Pasadena,California,United States,1486.58
+Sugar Shack,Pasco,Washington,United States,1079.88
+Sugar Shack,Paterson,New Jersey,United States,1187.52
+Sugar Shack,Pearland,Texas,United States,1282.93
+Sugar Shack,Pembroke Pines,Florida,United States,1753.41
+Sugar Shack,Pensacola,Florida,United States,1311.29
+Sugar Shack,Peoria,Illinois,United States,607.01
+Sugar Shack,Pharr,Texas,United States,1518.72
+Sugar Shack,Pleasant Grove,Utah,United States,935.35
+Sugar Shack,Pocatello,Idaho,United States,865.47
+Sugar Shack,Port Arthur,Texas,United States,1266.41
+Sugar Shack,Portland,Oregon,United States,1259.03
+Sugar Shack,Quincy,Illinois,United States,612.8
+Sugar Shack,Quincy,Massachusetts,United States,1284.6
+Sugar Shack,Raleigh,North Carolina,United States,1235.23
+Sugar Shack,Reading,Pennsylvania,United States,1133.01
+Sugar Shack,Redlands,California,United States,1454.26
+Sugar Shack,Redmond,Oregon,United States,1218.72
+Sugar Shack,Redondo Beach,California,United States,1511.55
+Sugar Shack,Reno,Nevada,United States,1311.87
+Sugar Shack,Revere,Massachusetts,United States,1279.31
+Sugar Shack,Richardson,Texas,United States,1048.61
+Sugar Shack,Richmond,Kentucky,United States,933.23
+Sugar Shack,Riverside,California,United States,1465.74
+Sugar Shack,Rochester,Minnesota,United States,334.34
+Sugar Shack,Rochester Hills,Michigan,United States,734.91
+Sugar Shack,Rogers,Arkansas,United States,820.95
+Sugar Shack,Rome,New York,United States,1052.7
+Sugar Shack,Roseville,California,United States,1407.31
+Sugar Shack,Roseville,Michigan,United States,750.19
+Sugar Shack,Roswell,Georgia,United States,1149.28
+Sugar Shack,Round Rock,Texas,United States,1219.35
+Sugar Shack,Sacramento,California,United States,1423.22
+Sugar Shack,Saginaw,Michigan,United States,671.93
+Sugar Shack,Saint Charles,Illinois,United States,575.15
+Sugar Shack,Saint Charles,Missouri,United States,705.03
+Sugar Shack,Saint Louis,Missouri,United States,721.13
+Sugar Shack,Saint Petersburg,Florida,United States,1582.47
+Sugar Shack,Salem,Virginia,United States,1104.86
+Sugar Shack,Salinas,California,United States,1510.75
+Sugar Shack,Salt Lake City,Utah,United States,924.03
+Sugar Shack,San Antonio,Texas,United States,1297.53
+Sugar Shack,San Bernardino,California,United States,1372.82
+Sugar Shack,Sandy Springs,Georgia,United States,1154.79
+Sugar Shack,Santa Ana,California,United States,1496.41
+Sugar Shack,Santa Barbara,California,United States,1534.58
+Sugar Shack,Santa Clara,California,United States,1487.72
+Sugar Shack,Santa Fe,New Mexico,United States,992.93
+Sugar Shack,Sheboygan,Wisconsin,United States,499.27
+Sugar Shack,Sierra Vista,Arizona,United States,1361.64
+Sugar Shack,Sioux Falls,South Dakota,United States,316.96
+Sugar Shack,Skokie,Illinois,United States,587.87
+Sugar Shack,Smyrna,Tennessee,United States,972.35
+Sugar Shack,South Bend,Indiana,United States,657.79
+Sugar Shack,Southaven,Mississippi,United States,961.11
+Sugar Shack,Spokane,Washington,United States,981.61
+Sugar Shack,Sterling Heights,Michigan,United States,743.0
+Sugar Shack,Stockton,California,United States,1439.99
+Sugar Shack,Suffolk,Virginia,United States,1265.92
+Sugar Shack,Superior,Wisconsin,United States,213.66
+Sugar Shack,Tamarac,Florida,United States,1741.5
+Sugar Shack,Tampa,Florida,United States,1575.84
+Sugar Shack,Taylor,Michigan,United States,747.09
+Sugar Shack,Texas City,Texas,United States,1295.4
+Sugar Shack,Thomasville,North Carolina,United States,1177.76
+Sugar Shack,Thornton,Colorado,United States,717.61
+Sugar Shack,Tigard,Oregon,United States,1265.43
+Sugar Shack,Tinley Park,Illinois,United States,610.63
+Sugar Shack,Toronto,Ontario,Canada,862.59
+Sugar Shack,Torrance,California,United States,1510.01
+Sugar Shack,Troy,Ohio,United States,813.79
+Sugar Shack,Tulsa,Oklahoma,United States,826.62
+Sugar Shack,Tyler,Texas,United States,1090.44
+Sugar Shack,Urbandale,Iowa,United States,464.15
+Sugar Shack,Vallejo,California,United States,1476.04
+Sugar Shack,Vancouver,British Columbia,Canada,1224.45
+Sugar Shack,Virginia Beach,Virginia,United States,1284.2
+Sugar Shack,Waco,Texas,United States,1145.61
+Sugar Shack,Warner Robins,Georgia,United States,1255.28
+Sugar Shack,Washington,District of Columbia,United States,1146.82
+Sugar Shack,Watertown,New York,United States,1009.99
+Sugar Shack,Wausau,Wisconsin,United States,380.15
+Sugar Shack,Waynesboro,Virginia,United States,1110.68
+Sugar Shack,West Jordan,Utah,United States,932.83
+Sugar Shack,West Palm Beach,Florida,United States,1715.56
+Sugar Shack,Westland,Michigan,United States,738.3
+Sugar Shack,Westminster,California,United States,1500.31
+Sugar Shack,Wheeling,Illinois,United States,575.97
+Sugar Shack,Whittier,California,United States,1491.07
+Sugar Shack,Wichita,Kansas,United States,722.79
+Sugar Shack,Wilmington,Delaware,United States,1173.21
+Sugar Shack,Wilmington,North Carolina,United States,1342.18
+Sugar Shack,Winnipeg,Manitoba,Canada,130.18
+Sugar Shack,Woodbury,Minnesota,United States,269.57
+Sugar Shack,Woonsocket,Rhode Island,United States,1269.26
+Sugar Shack,York,Pennsylvania,United States,1113.93
+Sugar Shack,Yuma,Arizona,United States,1432.2
+Sugar Shack,Abilene,Texas,United States,1098.13
+Sugar Shack,Allen,Texas,United States,1037.83
+Sugar Shack,Altoona,Pennsylvania,United States,1020.4
+Sugar Shack,Ann Arbor,Michigan,United States,726.0
+Sugar Shack,Apple Valley,California,United States,1431.55
+Sugar Shack,Appleton,Wisconsin,United States,457.15
+Sugar Shack,Arvada,Colorado,United States,724.43
+Sugar Shack,Bartlett,Tennessee,United States,949.04
+Sugar Shack,Baytown,Texas,United States,1271.81
+Sugar Shack,Bedford,Texas,United States,1056.61
+Sugar Shack,Boca Raton,Florida,United States,1736.89
+Sugar Shack,Bolingbrook,Illinois,United States,594.45
+Sugar Shack,Bowling Green,Kentucky,United States,913.04
+Sugar Shack,Bridgeton,New Jersey,United States,1199.66
+Sugar Shack,Broken Arrow,Oklahoma,United States,833.96
+Sugar Shack,Broomfield,Colorado,United States,715.61
+Sugar Shack,Burlington,Vermont,United States,1120.44
+Sugar Shack,Caldwell,Idaho,United States,1029.47
+Sugar Shack,Camarillo,California,United States,1518.18
+Sugar Shack,Carrollton,Texas,United States,1048.66
+Sugar Shack,Chandler,Arizona,United States,1306.24
+Sugar Shack,Charlottesville,Virginia,United States,1128.72
+Sugar Shack,Charlottetown,Prince Edward Island,Canada,1545.86
+Sugar Shack,Chula Vista,California,United States,1524.86
+Sugar Shack,College Station,Texas,United States,1209.23
+Sugar Shack,Coral Gables,Florida,United States,1771.25
+Sugar Shack,Costa Mesa,California,United States,1502.0
+Sugar Shack,Covington,Washington,United States,1199.71
+Sugar Shack,Davis,California,United States,1435.48
+Sugar Shack,Daytona Beach,Florida,United States,1535.0
+Sugar Shack,Dearborn Heights,Michigan,United States,742.94
+Sugar Shack,Des Plaines,Illinois,United States,582.5
+Sugar Shack,Draper,Utah,United States,933.27
+Sugar Shack,Eau Claire,Wisconsin,United States,319.1
+Sugar Shack,Fairfield,California,United States,1460.61
+Sugar Shack,Gaithersburg,Maryland,United States,1129.55
+Sugar Shack,Garden City,Kansas,United States,739.7
+Sugar Shack,Gladstone,Missouri,United States,619.97
+Sugar Shack,Goldsboro,North Carolina,United States,1279.67
+Sugar Shack,Gresham,Oregon,United States,1248.38
+Sugar Shack,Gulfport,Mississippi,United States,1282.47
+Sugar Shack,Halifax,Nova Scotia,Canada,1559.96
+Sugar Shack,Hamilton,Ohio,United States,844.94
+Sugar Shack,Hattiesburg,Mississippi,United States,1215.4
+Sugar Shack,Hesperia,California,United States,1440.12
+Sugar Shack,Highland Park,Illinois,United States,578.14
+Sugar Shack,Hillsboro,Oregon,United States,1273.52
+Sugar Shack,Homestead,Florida,United States,1781.95
+Sugar Shack,Independence,Missouri,United States,629.88
+Sugar Shack,Lafayette,Indiana,United States,702.02
+Sugar Shack,Lake Charles,Louisiana,United States,1245.91
+Sugar Shack,Lansing,Michigan,United States,674.39
+Sugar Shack,Las Cruces,New Mexico,United States,1224.18
+Sugar Shack,Lawton,Oklahoma,United States,940.66
+Sugar Shack,Layton,Utah,United States,914.19
+Sugar Shack,Lehi,Utah,United States,938.72
+Sugar Shack,Lodi,California,United States,1431.89
+Sugar Shack,Longview,Washington,United States,1258.63
+Sugar Shack,Manchester,Connecticut,United States,1230.82
+Sugar Shack,Maple Grove,Minnesota,United States,245.86
+Sugar Shack,Marysville,Washington,United States,1194.13
+Sugar Shack,Modesto,California,United States,1440.72
+Sugar Shack,Moorhead,Minnesota,United States,90.1
+Sugar Shack,Morgan Hill,California,United States,1490.85
+Sugar Shack,Murray,Kentucky,United States,889.98
+Sugar Shack,Norfolk,Nebraska,United States,425.12
+Sugar Shack,Orem,Utah,United States,936.52
+Sugar Shack,Ormond Beach,Florida,United States,1529.51
+Sugar Shack,Palatine,Illinois,United States,573.66
+Sugar Shack,Parker,Colorado,United States,731.2
+Sugar Shack,Passaic,New Jersey,United States,1176.32
+Sugar Shack,Perth Amboy,New Jersey,United States,1198.16
+Sugar Shack,Pico Rivera,California,United States,1493.09
+Sugar Shack,Pine Bluff,Arkansas,United States,984.02
+Sugar Shack,Plantation,Florida,United States,1747.27
+Sugar Shack,Pomona,California,United States,1476.07
+Sugar Shack,Port Saint Lucie,Florida,United States,1671.62
+Sugar Shack,Quebec City,Quebec,Canada,1164.79
+Sugar Shack,Redding,California,United States,1387.1
+Sugar Shack,Redmond,Washington,United States,1196.56
+Sugar Shack,Redwood City,California,United States,1500.65
+Sugar Shack,Regina,Saskatchewan,Canada,412.51
+Sugar Shack,Renton,Washington,United States,1202.8
+Sugar Shack,Rio Rancho,New Mexico,United States,1035.45
+Sugar Shack,Rock Hill,South Carolina,United States,1197.96
+Sugar Shack,Royal Oak,Michigan,United States,741.94
+Sugar Shack,Saint Peters,Missouri,United States,702.25
+Sugar Shack,San Angelo,Texas,United States,1172.23
+Sugar Shack,San Luis Obispo,California,United States,1517.18
+Sugar Shack,Santa Maria,California,United States,1538.66
+Sugar Shack,Summerville,South Carolina,United States,1333.85
+Sugar Shack,Temecula,California,United States,1482.02
+Sugar Shack,Twin Falls,Idaho,United States,964.8
+Sugar Shack,Utica,New York,United States,1066.24
+Sugar Shack,Vacaville,California,United States,1453.96
+Sugar Shack,Vancouver,Washington,United States,1256.73
+Sugar Shack,Vineland,New Jersey,United States,1206.13
+Sugar Shack,Waterloo,Iowa,United States,430.9
+Sugar Shack,West Allis,Wisconsin,United States,529.21
+Sugar Shack,Wheeling,West Virginia,United States,944.96
+Sugar Shack,Woodstock,Georgia,United States,1140.19
+Sugar Shack,Andover,Massachusetts,United States,1265.81
+Sugar Shack,Antioch,California,United States,1460.45
+Sugar Shack,Apple Valley,Minnesota,United States,273.25
+Sugar Shack,Arlington Heights,Illinois,United States,577.31
+Sugar Shack,Auburn,Washington,United States,1206.5
+Sugar Shack,Bloomington,Indiana,United States,783.08
+Sugar Shack,Boise,Idaho,United States,1008.77
+Sugar Shack,Burbank,California,United States,1491.25
+Sugar Shack,Canton,Michigan,United States,671.11
+Sugar Shack,Cedar Hill,Texas,United States,1073.81
+Sugar Shack,Cedar Rapids,Iowa,United States,477.97
+Sugar Shack,Chapel Hill,North Carolina,United States,1213.03
+Sugar Shack,Cheyenne,Wyoming,United States,641.83
+Sugar Shack,Commerce City,Colorado,United States,719.57
+Sugar Shack,Conroe,Texas,United States,1230.97
+Sugar Shack,Conway,Arkansas,United States,920.51
+Sugar Shack,Deer Park,Texas,United States,1273.53
+Sugar Shack,East Point,Georgia,United States,1168.06
+Sugar Shack,El Cajon,California,United States,1512.11
+Sugar Shack,Elkhart,Indiana,United States,675.97
+Sugar Shack,Evanston,Illinois,United States,588.0
+Sugar Shack,Farmington,New Mexico,United States,995.22
+Sugar Shack,Frankfort,Illinois,United States,612.55
+Sugar Shack,Gastonia,North Carolina,United States,1173.83
+Sugar Shack,Holland,Michigan,United States,610.74
+Sugar Shack,Jefferson City,Missouri,United States,689.11
+Sugar Shack,Keller,Texas,United States,1050.89
+Sugar Shack,Kirkwood,Missouri,United States,719.6
+Sugar Shack,Lake Forest,California,United States,1494.52
+Sugar Shack,Lewiston,Maine,United States,1267.84
+Sugar Shack,Longmont,Colorado,United States,704.36
+Sugar Shack,Madison,Wisconsin,United States,478.65
+Sugar Shack,Malden,Massachusetts,United States,1276.17
+Sugar Shack,Manhattan,Kansas,United States,617.7
+Sugar Shack,Mansfield,Texas,United States,1075.97
+Sugar Shack,Margate,Florida,United States,1740.69
+Sugar Shack,Mason,Ohio,United States,845.15
+Sugar Shack,Missoula,Montana,United States,834.21
+Sugar Shack,Moncton,New Brunswick,Canada,1471.98
+Sugar Shack,Mount Pleasant,South Carolina,United States,1356.78
+Sugar Shack,New Brunswick,New Jersey,United States,1191.4
+Sugar Shack,North Miami,Florida,United States,1763.33
+Sugar Shack,Owensboro,Kentucky,United States,847.92
+Sugar Shack,Rockville,Maryland,United States,1133.81
+Sugar Shack,Romeoville,Illinois,United States,596.72
+Sugar Shack,Roseville,Minnesota,United States,258.62
+Sugar Shack,Saint Cloud,Minnesota,United States,200.76
+Sugar Shack,Saint Paul,Minnesota,United States,263.58
+Sugar Shack,San Gabriel,California,United States,1487.66
+Sugar Shack,Sanford,Florida,United States,1552.79
+Sugar Shack,Texarkana,Arkansas,United States,1021.29
+Sugar Shack,Visalia,California,United States,1426.87
+Sugar Shack,Wilson,North Carolina,United States,1265.82
+Sugar Shack,Yucaipa,California,United States,1450.05
+Sugar Shack,Bellingham,Washington,United States,1200.29
+Sugar Shack,Beverly,Massachusetts,United States,1281.1
+Sugar Shack,Billings,Montana,United States,601.99
+Sugar Shack,Buffalo Grove,Illinois,United States,574.22
+Sugar Shack,Clovis,New Mexico,United States,1014.26
+Sugar Shack,Danbury,Connecticut,United States,1202.29
+Sugar Shack,Dublin,California,United States,1478.69
+Sugar Shack,Dubuque,Iowa,United States,471.48
+Sugar Shack,Elyria,Ohio,United States,831.44
+Sugar Shack,Englewood,Colorado,United States,730.35
+Sugar Shack,Grand Island,Nebraska,United States,508.3
+Sugar Shack,Hickory,North Carolina,United States,1142.31
+Sugar Shack,Kissimmee,Florida,United States,1581.23
+Sugar Shack,Laurel,Maryland,United States,1145.64
+Sugar Shack,Lindenhurst,New York,United States,1231.32
+Sugar Shack,Loveland,Colorado,United States,690.65
+Sugar Shack,Manteca,California,United States,1443.24
+Sugar Shack,Mishawaka,Indiana,United States,661.38
+Sugar Shack,Montebello,California,United States,1492.01
+Sugar Shack,Murrieta,California,United States,1480.95
+Sugar Shack,Noblesville,Indiana,United States,750.9
+Sugar Shack,North Charleston,South Carolina,United States,1349.77
+Sugar Shack,Ontario,California,United States,1471.89
+Sugar Shack,Orland Park,Illinois,United States,605.3
+Sugar Shack,Pompano Beach,Florida,United States,1743.29
+Sugar Shack,Portage,Indiana,United States,630.83
+Sugar Shack,Rapid City,South Dakota,United States,437.69
+Sugar Shack,Shelton,Connecticut,United States,1217.81
+Sugar Shack,Springdale,Arkansas,United States,831.05
+Sugar Shack,The Colony,Texas,United States,1039.14
+Sugar Shack,Woodstock,Illinois,United States,549.48
+Sugar Shack,Aberdeen,South Dakota,United States,213.37
+Sugar Shack,Atlantic City,New Jersey,United States,1237.0
+Sugar Shack,Citrus Heights,California,United States,1408.81
+Sugar Shack,Glenview,Illinois,United States,583.59
+Sugar Shack,Hagerstown,Maryland,United States,1085.82
+Sugar Shack,Iowa City,Iowa,United States,500.7
+Sugar Shack,La Quinta,California,United States,1440.59
+Sugar Shack,Lake Elsinore,California,United States,1479.78
+Sugar Shack,Littleton,Colorado,United States,733.2
+Sugar Shack,Missouri City,Texas,United States,1278.74
+Sugar Shack,Mount Pleasant,Michigan,United States,630.96
+Sugar Shack,Normal,Illinois,United States,634.23
+Sugar Shack,Port Orange,Florida,United States,1540.14
+Sugar Shack,San Clemente,California,United States,1503.12
+Sugar Shack,San Mateo,California,United States,1504.58
+Sugar Shack,St. John's,Newfoundland and Labrador,Canada,1989.27
+Sugar Shack,Tuscaloosa,Alabama,United States,1123.02
+Sugar Shack,Waukesha,Wisconsin,United States,516.07
+Sugar Shack,Melbourne,Florida,United States,1616.09
+Secret Factory,Pasadena,Texas,United States,852.76
+Secret Factory,Pueblo,Colorado,United States,775.9
+Secret Factory,Tallahassee,Florida,United States,837.31
+Secret Factory,Chicago,Illinois,United States,154.68
+Secret Factory,Jackson,Michigan,United States,320.7
+Secret Factory,Jacksonville,Florida,United States,914.76
+Secret Factory,New York City,New York,United States,862.64
+Secret Factory,Peoria,Arizona,United States,1301.42
+Secret Factory,Philadelphia,Pennsylvania,United States,812.27
+Secret Factory,Chattanooga,Tennessee,United States,525.99
+Secret Factory,Los Angeles,California,United States,1587.92
+Secret Factory,Monroe,North Carolina,United States,702.67
+Secret Factory,Scottsdale,Arizona,United States,1289.17
+Secret Factory,Austin,Texas,United States,870.19
+Secret Factory,Bossier City,Louisiana,United States,641.21
+Secret Factory,Bristol,Connecticut,United States,909.65
+Secret Factory,Bristol,Tennessee,United States,560.44
+Secret Factory,Cleveland,Ohio,United States,459.11
+Secret Factory,Clinton,Maryland,United States,745.12
+Secret Factory,Columbia,South Carolina,United States,731.18
+Secret Factory,Columbus,Georgia,United States,692.61
+Secret Factory,Concord,New Hampshire,United States,977.43
+Secret Factory,Dallas,Texas,United States,690.0
+Secret Factory,Danville,California,United States,1681.92
+Secret Factory,Denver,Colorado,United States,764.75
+Secret Factory,Dover,New Hampshire,United States,1010.84
+Secret Factory,El Paso,Texas,United States,1105.03
+Secret Factory,Franklin,Massachusetts,United States,923.28
+Secret Factory,Henderson,Kentucky,United States,300.39
+Secret Factory,Henderson,Nevada,United States,1362.89
+Secret Factory,Hollywood,Florida,United States,1220.75
+Secret Factory,Houston,Texas,United States,851.02
+Secret Factory,Huntsville,Alabama,United States,511.89
+Secret Factory,Lakeland,Florida,United States,1046.21
+Secret Factory,Lakewood,New Jersey,United States,859.36
+Secret Factory,Leominster,Massachusetts,United States,966.62
+Secret Factory,Louisville,Kentucky,United States,337.0
+Secret Factory,Lowell,Massachusetts,United States,989.4
+Secret Factory,Memphis,Tennessee,United States,436.2
+Secret Factory,Meriden,Connecticut,United States,917.71
+Secret Factory,Moreno Valley,California,United States,1540.02
+Secret Factory,Nashville,Tennessee,United States,418.18
+Secret Factory,Newark,Delaware,United States,786.05
+Secret Factory,Newport News,Virginia,United States,816.08
+Secret Factory,Oxnard,California,United States,1631.41
+Secret Factory,Palm Coast,Florida,United States,974.03
+Secret Factory,Phoenix,Arizona,United States,1298.11
+Secret Factory,Plainfield,New Jersey,United States,842.09
+Secret Factory,Providence,Rhode Island,United States,987.34
+Secret Factory,Rancho Cucamonga,California,United States,1552.31
+Secret Factory,Richmond,Indiana,United States,317.8
+Secret Factory,Salem,Oregon,United States,1642.0
+Secret Factory,San Diego,California,United States,1577.34
+Secret Factory,San Francisco,California,United States,1703.74
+Secret Factory,San Jose,California,United States,1687.15
+Secret Factory,San Marcos,Texas,United States,899.0
+Secret Factory,Seattle,Washington,United States,1609.05
+Secret Factory,Smyrna,Georgia,United States,618.12
+Secret Factory,Springfield,Missouri,United States,327.05
+Secret Factory,Springfield,Ohio,United States,369.14
+Secret Factory,Springfield,Oregon,United States,1645.88
+Secret Factory,Springfield,Virginia,United States,730.16
+Secret Factory,Sunnyvale,California,United States,1693.95
+Secret Factory,Toledo,Ohio,United States,363.57
+Secret Factory,Troy,New York,United States,868.28
+Secret Factory,Woodland,California,United States,1652.31
+Secret Factory,Hialeah,Florida,United States,1228.55
+Secret Factory,Midland,Michigan,United States,354.78
+Secret Factory,Waterbury,Connecticut,United States,905.2
+Secret Factory,Westfield,New Jersey,United States,845.57
+Secret Factory,Akron,Ohio,United States,470.32
+Secret Factory,Anaheim,California,United States,1577.95
+Secret Factory,Auburn,New York,United States,723.08
+Secret Factory,Calgary,Alberta,Canada,1295.42
+Secret Factory,Chico,California,United States,1636.23
+Secret Factory,Columbus,Ohio,United States,409.14
+Secret Factory,Elmhurst,Illinois,United States,139.05
+Secret Factory,Eugene,Oregon,United States,1649.47
+Secret Factory,Fayetteville,Arkansas,United States,419.22
+Secret Factory,Gilbert,Arizona,United States,1287.58
+Secret Factory,Hempstead,New York,United States,883.08
+Secret Factory,Jackson,Mississippi,United States,632.32
+Secret Factory,La Crosse,Wisconsin,United States,167.15
+Secret Factory,Lakewood,Ohio,United States,453.76
+Secret Factory,Lawrence,Massachusetts,United States,996.65
+Secret Factory,Milwaukee,Wisconsin,United States,174.82
+Secret Factory,Montgomery,Alabama,United States,669.02
+Secret Factory,Montreal,Quebec,Canada,895.04
+Secret Factory,Murfreesboro,Tennessee,United States,447.57
+Secret Factory,Provo,Utah,United States,1103.03
+Secret Factory,Richmond,Virginia,United States,749.46
+Secret Factory,Rochester,New York,United States,671.56
+Secret Factory,Rockford,Illinois,United States,94.78
+Secret Factory,Sparks,Nevada,United States,1532.22
+Secret Factory,Tempe,Arizona,United States,1292.34
+Secret Factory,Thousand Oaks,California,United States,1614.69
+Secret Factory,Trenton,Michigan,United States,383.34
+Secret Factory,Tucson,Arizona,United States,1291.4
+Secret Factory,Warwick,Rhode Island,United States,985.76
+Secret Factory,Yonkers,New York,United States,866.0
+Secret Factory,Frisco,Texas,United States,668.02
+Secret Factory,Niagara Falls,New York,United States,598.08
+Secret Factory,Plano,Texas,United States,672.68
+Secret Factory,Albuquerque,New Mexico,United States,974.96
+Secret Factory,Alexandria,Virginia,United States,736.29
+Secret Factory,Allentown,Pennsylvania,United States,787.95
+Secret Factory,Amarillo,Texas,United States,746.71
+Secret Factory,Apopka,Florida,United States,1018.92
+Secret Factory,Arlington,Texas,United States,701.07
+Secret Factory,Arlington,Virginia,United States,732.56
+Secret Factory,Asheville,North Carolina,United States,592.07
+Secret Factory,Athens,Georgia,United States,649.11
+Secret Factory,Atlanta,Georgia,United States,629.46
+Secret Factory,Auburn,Alabama,United States,671.56
+Secret Factory,Aurora,Colorado,United States,758.98
+Secret Factory,Aurora,Illinois,United States,118.25
+Secret Factory,Avondale,Arizona,United States,1309.63
+Secret Factory,Bakersfield,California,United States,1588.64
+Secret Factory,Baltimore,Maryland,United States,748.67
+Secret Factory,Bangor,Maine,United States,1119.66
+Secret Factory,Bayonne,New Jersey,United States,857.5
+Secret Factory,Beaumont,Texas,United States,809.54
+Secret Factory,Belleville,New Jersey,United States,854.34
+Secret Factory,Bellevue,Washington,United States,1602.69
+Secret Factory,Bethlehem,Pennsylvania,United States,792.59
+Secret Factory,Bloomington,Illinois,United States,105.75
+Secret Factory,Bowling Green,Ohio,United States,358.23
+Secret Factory,Boynton Beach,Florida,United States,1191.44
+Secret Factory,Bozeman,Montana,United States,1062.86
+Secret Factory,Brentwood,California,United States,1663.77
+Secret Factory,Brownsville,Texas,United States,1144.56
+Secret Factory,Bryan,Texas,United States,811.31
+Secret Factory,Buffalo,New York,United States,606.24
+Secret Factory,Bullhead City,Arizona,United States,1366.9
+Secret Factory,Burlington,Iowa,United States,51.93
+Secret Factory,Burlington,North Carolina,United States,703.42
+Secret Factory,Cambridge,Massachusetts,United States,1000.59
+Secret Factory,Carlsbad,New Mexico,United States,976.96
+Secret Factory,Carol Stream,Illinois,United States,129.5
+Secret Factory,Cary,North Carolina,United States,745.72
+Secret Factory,Champaign,Illinois,United States,152.33
+Secret Factory,Charlotte,North Carolina,United States,679.15
+Secret Factory,Chesapeake,Virginia,United States,833.14
+Secret Factory,Chester,Pennsylvania,United States,780.69
+Secret Factory,Cincinnati,Ohio,United States,357.74
+Secret Factory,Clarksville,Tennessee,United States,380.91
+Secret Factory,Clifton,New Jersey,United States,852.99
+Secret Factory,Coachella,California,United States,1494.95
+Secret Factory,Colorado Springs,Colorado,United States,773.55
+Secret Factory,Columbia,Maryland,United States,737.5
+Secret Factory,Columbia,Missouri,United States,195.98
+Secret Factory,Columbia,Tennessee,United States,445.75
+Secret Factory,Columbus,Indiana,United States,289.6
+Secret Factory,Concord,California,United States,1680.27
+Secret Factory,Concord,North Carolina,United States,681.94
+Secret Factory,Coon Rapids,Minnesota,United States,291.9
+Secret Factory,Coppell,Texas,United States,685.22
+Secret Factory,Coral Springs,Florida,United States,1201.33
+Secret Factory,Corpus Christi,Texas,United States,1021.37
+Secret Factory,Cottage Grove,Minnesota,United States,262.58
+Secret Factory,Cranston,Rhode Island,United States,986.39
+Secret Factory,Cuyahoga Falls,Ohio,United States,471.8
+Secret Factory,Danville,Illinois,United States,178.61
+Secret Factory,Dearborn,Michigan,United States,384.76
+Secret Factory,Decatur,Alabama,United States,511.12
+Secret Factory,Decatur,Illinois,United States,139.23
+Secret Factory,Delray Beach,Florida,United States,1195.16
+Secret Factory,Deltona,Florida,United States,1012.95
+Secret Factory,Des Moines,Iowa,United States,158.57
+Secret Factory,Des Moines,Washington,United States,1607.29
+Secret Factory,Detroit,Michigan,United States,391.41
+Secret Factory,Dover,Delaware,United States,807.09
+Secret Factory,Dublin,Ohio,United States,400.73
+Secret Factory,Durham,North Carolina,United States,731.92
+Secret Factory,Eagan,Minnesota,United States,267.3
+Secret Factory,East Orange,New Jersey,United States,851.28
+Secret Factory,Edinburg,Texas,United States,1132.36
+Secret Factory,Edmond,Oklahoma,United States,546.42
+Secret Factory,Edmonds,Washington,United States,1612.18
+Secret Factory,Edmonton,Alberta,Canada,1347.79
+Secret Factory,Encinitas,California,United States,1572.22
+Secret Factory,Escondido,California,United States,1559.29
+Secret Factory,Everett,Massachusetts,United States,1002.98
+Secret Factory,Everett,Washington,United States,1605.43
+Secret Factory,Fairfield,Connecticut,United States,896.94
+Secret Factory,Fairfield,Ohio,United States,430.89
+Secret Factory,Fargo,North Dakota,United States,485.46
+Secret Factory,Fayetteville,North Carolina,United States,771.74
+Secret Factory,Florence,Alabama,United States,485.25
+Secret Factory,Florence,Kentucky,United States,355.92
+Secret Factory,Florence,South Carolina,United States,772.29
+Secret Factory,Fort Collins,Colorado,United States,757.96
+Secret Factory,Fort Lauderdale,Florida,United States,1214.06
+Secret Factory,Fort Worth,Texas,United States,706.45
+Secret Factory,Franklin,Tennessee,United States,430.32
+Secret Factory,Franklin,Wisconsin,United States,163.32
+Secret Factory,Freeport,Illinois,United States,76.24
+Secret Factory,Freeport,New York,United States,885.09
+Secret Factory,Fremont,Nebraska,United States,307.12
+Secret Factory,Fresno,California,United States,1592.3
+Secret Factory,Garland,Texas,United States,677.38
+Secret Factory,Georgetown,Kentucky,United States,389.15
+Secret Factory,Glendale,Arizona,United States,1300.38
+Secret Factory,Grand Prairie,Texas,United States,697.38
+Secret Factory,Grand Rapids,Michigan,United States,271.64
+Secret Factory,Grapevine,Texas,United States,688.32
+Secret Factory,Great Falls,Montana,United States,1100.01
+Secret Factory,Greeley,Colorado,United States,740.8
+Secret Factory,Green Bay,Wisconsin,United States,248.04
+Secret Factory,Greensboro,North Carolina,United States,688.24
+Secret Factory,Greenville,North Carolina,United States,817.8
+Secret Factory,Greenwood,Indiana,United States,266.02
+Secret Factory,Grove City,Ohio,United States,406.14
+Secret Factory,Hackensack,New Jersey,United States,859.06
+Secret Factory,Haltom City,Texas,United States,701.83
+Secret Factory,Hampton,Virginia,United States,818.8
+Secret Factory,Harlingen,Texas,United States,1129.69
+Secret Factory,Harrisonburg,Virginia,United States,652.62
+Secret Factory,Helena,Montana,United States,1120.32
+Secret Factory,Hendersonville,Tennessee,United States,413.65
+Secret Factory,Holyoke,Massachusetts,United States,924.37
+Secret Factory,Hoover,Alabama,United States,595.22
+Secret Factory,Hot Springs,Arkansas,United States,498.42
+Secret Factory,Huntington Beach,California,United States,1587.46
+Secret Factory,Huntsville,Texas,United States,791.07
+Secret Factory,Indianapolis,Indiana,United States,258.58
+Secret Factory,Inglewood,California,United States,1596.61
+Secret Factory,Irving,Texas,United States,690.82
+Secret Factory,Jackson,Tennessee,United States,413.85
+Secret Factory,Jacksonville,North Carolina,United States,849.43
+Secret Factory,Jamestown,New York,United States,585.01
+Secret Factory,Johnson City,Tennessee,United States,565.88
+Secret Factory,Jonesboro,Arkansas,United States,387.8
+Secret Factory,Jupiter,Florida,United States,1165.62
+Secret Factory,Kenner,Louisiana,United States,791.48
+Secret Factory,Kenosha,Wisconsin,United States,161.33
+Secret Factory,Kent,Ohio,United States,478.17
+Secret Factory,Kent,Washington,United States,1603.36
+Secret Factory,Knoxville,Tennessee,United States,521.24
+Secret Factory,La Mesa,California,United States,1568.46
+Secret Factory,La Porte,Indiana,United States,199.09
+Secret Factory,La Porte,Texas,United States,851.26
+Secret Factory,Lafayette,Louisiana,United States,779.47
+Secret Factory,Laguna Niguel,California,United States,1577.65
+Secret Factory,Lakeville,Minnesota,United States,259.35
+Secret Factory,Lakewood,California,United States,1587.92
+Secret Factory,Lancaster,California,United States,1562.8
+Secret Factory,Lancaster,Ohio,United States,434.66
+Secret Factory,Lancaster,Pennsylvania,United States,751.93
+Secret Factory,Laredo,Texas,United States,1087.93
+Secret Factory,Las Vegas,Nevada,United States,1367.72
+Secret Factory,Lawrence,Indiana,United States,280.67
+Secret Factory,League City,Texas,United States,863.03
+Secret Factory,Lebanon,Tennessee,United States,428.74
+Secret Factory,Lewiston,Idaho,United States,1353.5
+Secret Factory,Lincoln Park,Michigan,United States,384.11
+Secret Factory,Linden,New Jersey,United States,851.27
+Secret Factory,Little Rock,Arkansas,United States,472.29
+Secret Factory,Logan,Utah,United States,1096.52
+Secret Factory,Long Beach,California,United States,1594.31
+Secret Factory,Long Beach,New York,United States,881.99
+Secret Factory,Lorain,Ohio,United States,435.26
+Secret Factory,Louisville,Colorado,United States,768.67
+Secret Factory,Lubbock,Texas,United States,821.67
+Secret Factory,Macon,Georgia,United States,706.08
+Secret Factory,Marietta,Georgia,United States,613.0
+Secret Factory,Marion,Iowa,United States,131.76
+Secret Factory,Marion,Ohio,United States,388.94
+Secret Factory,Marlborough,Massachusetts,United States,977.78
+Secret Factory,Mcallen,Texas,United States,1140.13
+Secret Factory,Medford,Oregon,United States,1652.88
+Secret Factory,Medina,Ohio,United States,448.46
+Secret Factory,Mentor,Ohio,United States,477.0
+Secret Factory,Meridian,Idaho,United States,1318.16
+Secret Factory,Mesa,Arizona,United States,1287.39
+Secret Factory,Mesquite,Texas,United States,685.27
+Secret Factory,Miami,Florida,United States,1234.22
+Secret Factory,Middletown,Connecticut,United States,925.36
+Secret Factory,Milford,Connecticut,United States,906.93
+Secret Factory,Minneapolis,Minnesota,United States,279.26
+Secret Factory,Miramar,Florida,United States,1219.94
+Secret Factory,Mission Viejo,California,United States,1572.79
+Secret Factory,Mobile,Alabama,United States,756.23
+Secret Factory,Monroe,Louisiana,United States,623.83
+Secret Factory,Morristown,New Jersey,United States,837.19
+Secret Factory,Mount Vernon,New York,United States,869.29
+Secret Factory,Murray,Utah,United States,1109.44
+Secret Factory,Muskogee,Oklahoma,United States,476.99
+Secret Factory,Naperville,Illinois,United States,126.91
+Secret Factory,Nashua,New Hampshire,United States,981.1
+Secret Factory,New Albany,Indiana,United States,332.95
+Secret Factory,New Bedford,Massachusetts,United States,1013.13
+Secret Factory,New Castle,Indiana,United States,291.62
+Secret Factory,New Rochelle,New York,United States,872.19
+Secret Factory,Newark,Ohio,United States,437.78
+Secret Factory,Norman,Oklahoma,United States,568.56
+Secret Factory,North Las Vegas,Nevada,United States,1365.45
+Secret Factory,Norwich,Connecticut,United States,955.21
+Secret Factory,Oak Park,Illinois,United States,146.52
+Secret Factory,Oak Park,Michigan,United States,385.66
+Secret Factory,Oakland,California,United States,1696.32
+Secret Factory,Oceanside,California,United States,1571.84
+Secret Factory,Oceanside,New York,United States,882.56
+Secret Factory,Odessa,Texas,United States,930.0
+Secret Factory,Oklahoma City,Oklahoma,United States,557.99
+Secret Factory,Olathe,Kansas,United States,285.92
+Secret Factory,Olympia,Washington,United States,1633.69
+Secret Factory,Omaha,Nebraska,United States,278.93
+Secret Factory,Orange,New Jersey,United States,850.62
+Secret Factory,Orlando,Florida,United States,1030.68
+Secret Factory,Oswego,Illinois,United States,115.56
+Secret Factory,Overland Park,Kansas,United States,276.4
+Secret Factory,Park Ridge,Illinois,United States,145.82
+Secret Factory,Parma,Ohio,United States,457.36
+Secret Factory,Pasadena,California,United States,1579.95
+Secret Factory,Pasco,Washington,United States,1451.15
+Secret Factory,Paterson,New Jersey,United States,852.02
+Secret Factory,Pearland,Texas,United States,862.5
+Secret Factory,Pembroke Pines,Florida,United States,1217.26
+Secret Factory,Pensacola,Florida,United States,784.28
+Secret Factory,Peoria,Illinois,United States,72.73
+Secret Factory,Pharr,Texas,United States,1139.72
+Secret Factory,Pleasant Grove,Utah,United States,1105.45
+Secret Factory,Pocatello,Idaho,United States,1122.09
+Secret Factory,Port Arthur,Texas,United States,821.59
+Secret Factory,Portland,Oregon,United States,1622.92
+Secret Factory,Quincy,Illinois,United States,113.37
+Secret Factory,Quincy,Massachusetts,United States,1006.14
+Secret Factory,Raleigh,North Carolina,United States,752.52
+Secret Factory,Reading,Pennsylvania,United States,767.47
+Secret Factory,Redlands,California,United States,1533.85
+Secret Factory,Redmond,Oregon,United States,1553.36
+Secret Factory,Redondo Beach,California,United States,1601.89
+Secret Factory,Reno,Nevada,United States,1535.33
+Secret Factory,Revere,Massachusetts,United States,1005.13
+Secret Factory,Richardson,Texas,United States,677.68
+Secret Factory,Richmond,Kentucky,United States,420.24
+Secret Factory,Riverside,California,United States,1546.13
+Secret Factory,Rochester,Minnesota,United States,202.42
+Secret Factory,Rochester Hills,Michigan,United States,389.42
+Secret Factory,Rogers,Arkansas,United States,401.48
+Secret Factory,Rome,New York,United States,780.14
+Secret Factory,Roseville,California,United States,1625.78
+Secret Factory,Roseville,Michigan,United States,398.39
+Secret Factory,Roswell,Georgia,United States,614.44
+Secret Factory,Round Rock,Texas,United States,853.24
+Secret Factory,Sacramento,California,United States,1639.8
+Secret Factory,Saginaw,Michigan,United States,363.8
+Secret Factory,Saint Charles,Illinois,United States,120.64
+Secret Factory,Saint Charles,Missouri,United States,184.01
+Secret Factory,Saint Louis,Missouri,United States,195.92
+Secret Factory,Saint Petersburg,Florida,United States,1045.83
+Secret Factory,Salem,Virginia,United States,629.85
+Secret Factory,Salinas,California,United States,1690.72
+Secret Factory,Salt Lake City,Utah,United States,1108.29
+Secret Factory,San Antonio,Texas,United States,941.95
+Secret Factory,San Bernardino,California,United States,1454.0
+Secret Factory,Sandy Springs,Georgia,United States,619.73
+Secret Factory,Santa Ana,California,United States,1578.72
+Secret Factory,Santa Barbara,California,United States,1651.39
+Secret Factory,Santa Clara,California,United States,1678.87
+Secret Factory,Santa Fe,New Mexico,United States,919.1
+Secret Factory,Sheboygan,Wisconsin,United States,205.91
+Secret Factory,Sierra Vista,Arizona,United States,1285.38
+Secret Factory,Sioux Falls,South Dakota,United States,345.83
+Secret Factory,Skokie,Illinois,United States,150.48
+Secret Factory,Smyrna,Tennessee,United States,435.87
+Secret Factory,South Bend,Indiana,United States,223.67
+Secret Factory,Southaven,Mississippi,United States,447.31
+Secret Factory,Spokane,Washington,United States,1382.17
+Secret Factory,Sterling Heights,Michigan,United States,394.54
+Secret Factory,Stockton,California,United States,1642.23
+Secret Factory,Suffolk,Virginia,United States,816.39
+Secret Factory,Superior,Wisconsin,United States,372.33
+Secret Factory,Tamarac,Florida,United States,1205.51
+Secret Factory,Tampa,Florida,United States,1039.15
+Secret Factory,Taylor,Michigan,United States,379.41
+Secret Factory,Texas City,Texas,United States,867.59
+Secret Factory,Thomasville,North Carolina,United States,683.05
+Secret Factory,Thornton,Colorado,United States,762.71
+Secret Factory,Tigard,Oregon,United States,1627.83
+Secret Factory,Tinley Park,Illinois,United States,144.15
+Secret Factory,Toronto,Ontario,Canada,588.71
+Secret Factory,Torrance,California,United States,1599.77
+Secret Factory,Troy,Ohio,United States,346.85
+Secret Factory,Tulsa,Oklahoma,United States,467.76
+Secret Factory,Tyler,Texas,United States,680.42
+Secret Factory,Urbandale,Iowa,United States,164.55
+Secret Factory,Vallejo,California,United States,1689.09
+Secret Factory,Vancouver,British Columbia,Canada,1655.0
+Secret Factory,Virginia Beach,Virginia,United States,842.44
+Secret Factory,Waco,Texas,United States,774.1
+Secret Factory,Warner Robins,Georgia,United States,719.98
+Secret Factory,Washington,District of Columbia,United States,734.87
+Secret Factory,Watertown,New York,United States,763.13
+Secret Factory,Wausau,Wisconsin,United States,247.31
+Secret Factory,Waynesboro,Virginia,United States,661.98
+Secret Factory,West Jordan,Utah,United States,1112.81
+Secret Factory,West Palm Beach,Florida,United States,1180.17
+Secret Factory,Westland,Michigan,United States,373.4
+Secret Factory,Westminster,California,United States,1584.19
+Secret Factory,Wheeling,Illinois,United States,143.89
+Secret Factory,Whittier,California,United States,1579.73
+Secret Factory,Wichita,Kansas,United States,444.04
+Secret Factory,Wilmington,Delaware,United States,795.43
+Secret Factory,Wilmington,North Carolina,United States,848.35
+Secret Factory,Winnipeg,Manitoba,Canada,663.86
+Secret Factory,Woodbury,Minnesota,United States,268.0
+Secret Factory,Woonsocket,Rhode Island,United States,981.14
+Secret Factory,York,Pennsylvania,United States,731.22
+Secret Factory,Yuma,Arizona,United States,1450.09
+Secret Factory,Abilene,Texas,United States,800.37
+Secret Factory,Allen,Texas,United States,666.63
+Secret Factory,Altoona,Pennsylvania,United States,637.4
+Secret Factory,Ann Arbor,Michigan,United States,355.39
+Secret Factory,Apple Valley,California,United States,1520.13
+Secret Factory,Appleton,Wisconsin,United States,223.11
+Secret Factory,Arvada,Colorado,United States,768.75
+Secret Factory,Bartlett,Tennessee,United States,432.89
+Secret Factory,Baytown,Texas,United States,845.94
+Secret Factory,Bedford,Texas,United States,695.55
+Secret Factory,Boca Raton,Florida,United States,1201.19
+Secret Factory,Bolingbrook,Illinois,United States,130.08
+Secret Factory,Bowling Green,Kentucky,United States,378.55
+Secret Factory,Bridgeton,New Jersey,United States,817.11
+Secret Factory,Broken Arrow,Oklahoma,United States,466.88
+Secret Factory,Broomfield,Colorado,United States,765.1
+Secret Factory,Burlington,Vermont,United States,900.17
+Secret Factory,Caldwell,Idaho,United States,1332.83
+Secret Factory,Camarillo,California,United States,1623.52
+Secret Factory,Carrollton,Texas,United States,682.29
+Secret Factory,Chandler,Arizona,United States,1291.83
+Secret Factory,Charlottesville,Virginia,United States,683.59
+Secret Factory,Charlottetown,Prince Edward Island,Canada,1399.27
+Secret Factory,Chula Vista,California,United States,1575.97
+Secret Factory,College Station,Texas,United States,814.37
+Secret Factory,Coral Gables,Florida,United States,1235.0
+Secret Factory,Costa Mesa,California,United States,1583.03
+Secret Factory,Covington,Washington,United States,1597.38
+Secret Factory,Davis,California,United States,1653.23
+Secret Factory,Daytona Beach,Florida,United States,1000.54
+Secret Factory,Dearborn Heights,Michigan,United States,379.96
+Secret Factory,Des Plaines,Illinois,United States,144.05
+Secret Factory,Draper,Utah,United States,1109.83
+Secret Factory,Eau Claire,Wisconsin,United States,237.21
+Secret Factory,Fairfield,California,United States,1674.82
+Secret Factory,Gaithersburg,Maryland,United States,721.74
+Secret Factory,Garden City,Kansas,United States,597.65
+Secret Factory,Gladstone,Missouri,United States,261.03
+Secret Factory,Goldsboro,North Carolina,United States,797.94
+Secret Factory,Gresham,Oregon,United States,1611.28
+Secret Factory,Gulfport,Mississippi,United States,769.88
+Secret Factory,Halifax,Nova Scotia,Canada,1373.65
+Secret Factory,Hamilton,Ohio,United States,352.45
+Secret Factory,Hattiesburg,Mississippi,United States,702.74
+Secret Factory,Hesperia,California,United States,1528.57
+Secret Factory,Highland Park,Illinois,United States,151.27
+Secret Factory,Hillsboro,Oregon,United States,1638.19
+Secret Factory,Homestead,Florida,United States,1245.45
+Secret Factory,Independence,Missouri,United States,259.98
+Secret Factory,Lafayette,Indiana,United States,204.45
+Secret Factory,Lake Charles,Louisiana,United States,788.93
+Secret Factory,Lansing,Michigan,United States,320.7
+Secret Factory,Las Cruces,New Mexico,United States,1093.01
+Secret Factory,Lawton,Oklahoma,United States,635.86
+Secret Factory,Layton,Utah,United States,1109.41
+Secret Factory,Lehi,Utah,United States,1110.82
+Secret Factory,Lodi,California,United States,1637.58
+Secret Factory,Longview,Washington,United States,1634.76
+Secret Factory,Manchester,Connecticut,United States,930.58
+Secret Factory,Maple Grove,Minnesota,United States,290.84
+Secret Factory,Marysville,Washington,United States,1604.18
+Secret Factory,Modesto,California,United States,1633.99
+Secret Factory,Moorhead,Minnesota,United States,484.16
+Secret Factory,Morgan Hill,California,United States,1679.72
+Secret Factory,Murray,Kentucky,United States,355.48
+Secret Factory,Norfolk,Nebraska,United States,355.44
+Secret Factory,Orem,Utah,United States,1104.02
+Secret Factory,Ormond Beach,Florida,United States,995.08
+Secret Factory,Palatine,Illinois,United States,137.81
+Secret Factory,Parker,Colorado,United States,756.93
+Secret Factory,Passaic,New Jersey,United States,843.29
+Secret Factory,Perth Amboy,New Jersey,United States,851.06
+Secret Factory,Pico Rivera,California,United States,1582.68
+Secret Factory,Pine Bluff,Arkansas,United States,505.21
+Secret Factory,Plantation,Florida,United States,1211.24
+Secret Factory,Pomona,California,United States,1562.82
+Secret Factory,Port Saint Lucie,Florida,United States,1136.28
+Secret Factory,Quebec City,Quebec,Canada,1025.79
+Secret Factory,Redding,California,United States,1650.88
+Secret Factory,Redmond,Washington,United States,1599.76
+Secret Factory,Redwood City,California,United States,1701.42
+Secret Factory,Regina,Saskatchewan,Canada,915.07
+Secret Factory,Renton,Washington,United States,1602.64
+Secret Factory,Rio Rancho,New Mexico,United States,968.48
+Secret Factory,Rock Hill,South Carolina,United States,685.88
+Secret Factory,Royal Oak,Michigan,United States,387.85
+Secret Factory,Saint Peters,Missouri,United States,183.43
+Secret Factory,San Angelo,Texas,United States,880.07
+Secret Factory,San Luis Obispo,California,United States,1659.12
+Secret Factory,Santa Maria,California,United States,1673.53
+Secret Factory,Summerville,South Carolina,United States,814.73
+Secret Factory,Temecula,California,United States,1550.16
+Secret Factory,Twin Falls,Idaho,United States,1225.72
+Secret Factory,Utica,New York,United States,791.05
+Secret Factory,Vacaville,California,United States,1669.9
+Secret Factory,Vancouver,Washington,United States,1622.74
+Secret Factory,Vineland,New Jersey,United States,826.86
+Secret Factory,Waterloo,Iowa,United States,116.29
+Secret Factory,West Allis,Wisconsin,United States,170.0
+Secret Factory,Wheeling,West Virginia,United States,523.73
+Secret Factory,Woodstock,Georgia,United States,605.09
+Secret Factory,Andover,Massachusetts,United States,997.88
+Secret Factory,Antioch,California,United States,1668.04
+Secret Factory,Apple Valley,Minnesota,United States,263.49
+Secret Factory,Arlington Heights,Illinois,United States,140.26
+Secret Factory,Auburn,Washington,United States,1603.24
+Secret Factory,Bloomington,Indiana,United States,264.37
+Secret Factory,Boise,Idaho,United States,1308.57
+Secret Factory,Burbank,California,United States,1587.24
+Secret Factory,Canton,Michigan,United States,316.22
+Secret Factory,Cedar Hill,Texas,United States,705.76
+Secret Factory,Cedar Rapids,Iowa,United States,67.72
+Secret Factory,Chapel Hill,North Carolina,United States,728.14
+Secret Factory,Cheyenne,Wyoming,United States,739.48
+Secret Factory,Commerce City,Colorado,United States,761.01
+Secret Factory,Conroe,Texas,United States,816.21
+Secret Factory,Conway,Arkansas,United States,450.82
+Secret Factory,Deer Park,Texas,United States,850.38
+Secret Factory,East Point,Georgia,United States,632.49
+Secret Factory,El Cajon,California,United States,1564.48
+Secret Factory,Elkhart,Indiana,United States,243.67
+Secret Factory,Evanston,Illinois,United States,154.67
+Secret Factory,Farmington,New Mexico,United States,998.43
+Secret Factory,Frankfort,Illinois,United States,140.64
+Secret Factory,Gastonia,North Carolina,United States,663.34
+Secret Factory,Holland,Michigan,United States,246.45
+Secret Factory,Jefferson City,Missouri,United States,215.69
+Secret Factory,Keller,Texas,United States,692.8
+Secret Factory,Kirkwood,Missouri,United States,198.22
+Secret Factory,Lake Forest,California,United States,1572.51
+Secret Factory,Lewiston,Maine,United States,1045.36
+Secret Factory,Longmont,Colorado,United States,764.44
+Secret Factory,Madison,Wisconsin,United States,127.7
+Secret Factory,Malden,Massachusetts,United States,1002.19
+Secret Factory,Manhattan,Kansas,United States,352.83
+Secret Factory,Mansfield,Texas,United States,712.46
+Secret Factory,Margate,Florida,United States,1204.76
+Secret Factory,Mason,Ohio,United States,359.2
+Secret Factory,Missoula,Montana,United States,1215.01
+Secret Factory,Moncton,New Brunswick,Canada,1318.69
+Secret Factory,Mount Pleasant,South Carolina,United States,838.27
+Secret Factory,New Brunswick,New Jersey,United States,842.42
+Secret Factory,North Miami,Florida,United States,1227.22
+Secret Factory,Owensboro,Kentucky,United States,313.21
+Secret Factory,Rockville,Maryland,United States,725.04
+Secret Factory,Romeoville,Illinois,United States,128.78
+Secret Factory,Roseville,Minnesota,United States,278.37
+Secret Factory,Saint Cloud,Minnesota,United States,336.63
+Secret Factory,Saint Paul,Minnesota,United States,273.47
+Secret Factory,San Gabriel,California,United States,1579.65
+Secret Factory,Sanford,Florida,United States,1017.42
+Secret Factory,Texarkana,Arkansas,United States,585.98
+Secret Factory,Visalia,California,United States,1577.08
+Secret Factory,Wilson,North Carolina,United States,788.79
+Secret Factory,Yucaipa,California,United States,1527.43
+Secret Factory,Bellingham,Washington,United States,1622.52
+Secret Factory,Beverly,Massachusetts,United States,1011.5
+Secret Factory,Billings,Montana,United States,943.33
+Secret Factory,Buffalo Grove,Illinois,United States,142.89
+Secret Factory,Clovis,New Mexico,United States,841.91
+Secret Factory,Danbury,Connecticut,United States,885.14
+Secret Factory,Dublin,California,United States,1681.21
+Secret Factory,Dubuque,Iowa,United States,73.02
+Secret Factory,Elyria,Ohio,United States,438.18
+Secret Factory,Englewood,Colorado,United States,766.41
+Secret Factory,Grand Island,Nebraska,United States,405.67
+Secret Factory,Hickory,North Carolina,United States,634.83
+Secret Factory,Kissimmee,Florida,United States,1045.23
+Secret Factory,Laurel,Maryland,United States,740.24
+Secret Factory,Lindenhurst,New York,United States,895.65
+Secret Factory,Loveland,Colorado,United States,760.06
+Secret Factory,Manteca,California,United States,1641.6
+Secret Factory,Mishawaka,Indiana,United States,227.18
+Secret Factory,Montebello,California,United States,1582.43
+Secret Factory,Murrieta,California,United States,1551.19
+Secret Factory,Noblesville,Indiana,United States,257.11
+Secret Factory,North Charleston,South Carolina,United States,830.96
+Secret Factory,Ontario,California,United States,1556.4
+Secret Factory,Orland Park,Illinois,United States,140.82
+Secret Factory,Pompano Beach,Florida,United States,1207.45
+Secret Factory,Portage,Indiana,United States,175.58
+Secret Factory,Rapid City,South Dakota,United States,666.84
+Secret Factory,Shelton,Connecticut,United States,901.7
+Secret Factory,Springdale,Arkansas,United States,410.83
+Secret Factory,The Colony,Texas,United States,673.5
+Secret Factory,Woodstock,Illinois,United States,124.38
+Secret Factory,Aberdeen,South Dakota,United States,484.38
+Secret Factory,Atlantic City,New Jersey,United States,860.1
+Secret Factory,Citrus Heights,California,United States,1626.3
+Secret Factory,Glenview,Illinois,United States,148.34
+Secret Factory,Hagerstown,Maryland,United States,685.23
+Secret Factory,Iowa City,Iowa,United States,52.03
+Secret Factory,La Quinta,California,United States,1501.06
+Secret Factory,Lake Elsinore,California,United States,1553.61
+Secret Factory,Littleton,Colorado,United States,768.47
+Secret Factory,Missouri City,Texas,United States,863.31
+Secret Factory,Mount Pleasant,Michigan,United States,330.48
+Secret Factory,Normal,Illinois,United States,104.85
+Secret Factory,Port Orange,Florida,United States,1005.64
+Secret Factory,San Clemente,California,United States,1575.96
+Secret Factory,San Mateo,California,United States,1706.39
+Secret Factory,St. John's,Newfoundland and Labrador,Canada,1892.88
+Secret Factory,Tuscaloosa,Alabama,United States,592.36
+Secret Factory,Waukesha,Wisconsin,United States,160.43
+Secret Factory,Melbourne,Florida,United States,1081.1
+The Other Factory,Pasadena,Texas,United States,483.5
+The Other Factory,Pueblo,Colorado,United States,838.89
+The Other Factory,Tallahassee,Florida,United States,462.21
+The Other Factory,Chicago,Illinois,United States,483.82
+The Other Factory,Jackson,Michigan,United States,575.68
+The Other Factory,Jacksonville,Florida,United States,585.4
+The Other Factory,New York City,New York,United States,950.39
+The Other Factory,Peoria,Arizona,United States,1271.96
+The Other Factory,Philadelphia,Pennsylvania,United States,876.01
+The Other Factory,Chattanooga,Tennessee,United States,263.6
+The Other Factory,Los Angeles,California,United States,1604.49
+The Other Factory,Monroe,North Carolina,United States,532.79
+The Other Factory,Scottsdale,Arizona,United States,1255.53
+The Other Factory,Austin,Texas,United States,562.6
+The Other Factory,Bossier City,Louisiana,United States,280.96
+The Other Factory,Bristol,Connecticut,United States,1024.82
+The Other Factory,Bristol,Tennessee,United States,447.47
+The Other Factory,Cleveland,Ohio,United States,628.59
+The Other Factory,Clinton,Maryland,United States,763.65
+The Other Factory,Columbia,South Carolina,United States,514.11
+The Other Factory,Columbus,Georgia,United States,339.88
+The Other Factory,Concord,New Hampshire,United States,1131.12
+The Other Factory,Dallas,Texas,United States,423.23
+The Other Factory,Danville,California,United States,1780.73
+The Other Factory,Denver,Colorado,United States,882.12
+The Other Factory,Dover,New Hampshire,United States,1161.67
+The Other Factory,El Paso,Texas,United States,978.83
+The Other Factory,Franklin,Massachusetts,United States,1064.33
+The Other Factory,Henderson,Kentucky,United States,226.95
+The Other Factory,Henderson,Nevada,United States,1403.12
+The Other Factory,Hollywood,Florida,United States,857.69
+The Other Factory,Houston,Texas,United States,485.73
+The Other Factory,Huntsville,Alabama,United States,193.63
+The Other Factory,Lakeland,Florida,United States,679.26
+The Other Factory,Lakewood,New Jersey,United States,926.84
+The Other Factory,Leominster,Massachusetts,United States,1102.64
+The Other Factory,Louisville,Kentucky,United States,318.41
+The Other Factory,Lowell,Massachusetts,United States,1126.98
+The Other Factory,Memphis,Tennessee,United States,4.97
+The Other Factory,Meriden,Connecticut,United States,1028.43
+The Other Factory,Moreno Valley,California,United States,1549.01
+The Other Factory,Nashville,Tennessee,United States,193.47
+The Other Factory,Newark,Delaware,United States,840.62
+The Other Factory,Newport News,Virginia,United States,766.63
+The Other Factory,Oxnard,California,United States,1655.36
+The Other Factory,Palm Coast,Florida,United States,638.84
+The Other Factory,Phoenix,Arizona,United States,1264.52
+The Other Factory,Plainfield,New Jersey,United States,927.68
+The Other Factory,Providence,Rhode Island,United States,1102.64
+The Other Factory,Rancho Cucamonga,California,United States,1566.3
+The Other Factory,Richmond,Indiana,United States,428.32
+The Other Factory,Salem,Oregon,United States,1860.44
+The Other Factory,San Diego,California,United States,1563.11
+The Other Factory,San Francisco,California,United States,1803.04
+The Other Factory,San Jose,California,United States,1777.24
+The Other Factory,San Marcos,Texas,United States,588.27
+The Other Factory,Seattle,Washington,United States,1868.19
+The Other Factory,Smyrna,Georgia,United States,322.12
+The Other Factory,Springfield,Missouri,United States,234.9
+The Other Factory,Springfield,Ohio,United States,473.32
+The Other Factory,Springfield,Oregon,United States,1850.32
+The Other Factory,Springfield,Virginia,United States,749.35
+The Other Factory,Sunnyvale,California,United States,1785.03
+The Other Factory,Toledo,Ohio,United States,569.98
+The Other Factory,Troy,New York,United States,1018.3
+The Other Factory,Woodland,California,United States,1765.41
+The Other Factory,Hialeah,Florida,United States,862.17
+The Other Factory,Midland,Michigan,United States,661.59
+The Other Factory,Waterbury,Connecticut,United States,1017.12
+The Other Factory,Westfield,New Jersey,United States,932.06
+The Other Factory,Akron,Ohio,United States,616.79
+The Other Factory,Anaheim,California,United States,1588.72
+The Other Factory,Auburn,New York,United States,897.7
+The Other Factory,Calgary,Alberta,Canada,1625.99
+The Other Factory,Chico,California,United States,1767.75
+The Other Factory,Columbus,Ohio,United States,507.53
+The Other Factory,Elmhurst,Illinois,United States,481.24
+The Other Factory,Eugene,Oregon,United States,1853.96
+The Other Factory,Fayetteville,Arkansas,United States,244.09
+The Other Factory,Gilbert,Arizona,United States,1249.73
+The Other Factory,Hempstead,New York,United States,968.76
+The Other Factory,Jackson,Mississippi,United States,195.06
+The Other Factory,La Crosse,Wisconsin,United States,604.61
+The Other Factory,Lakewood,Ohio,United States,623.75
+The Other Factory,Lawrence,Massachusetts,United States,1135.51
+The Other Factory,Milwaukee,Wisconsin,United States,558.32
+The Other Factory,Montgomery,Alabama,United States,282.97
+The Other Factory,Montreal,Quebec,Canada,1119.41
+The Other Factory,Murfreesboro,Tennessee,United States,207.55
+The Other Factory,Provo,Utah,United States,1233.97
+The Other Factory,Richmond,Virginia,United States,717.02
+The Other Factory,Rochester,New York,United States,862.69
+The Other Factory,Rockford,Illinois,United States,496.54
+The Other Factory,Sparks,Nevada,United States,1656.8
+The Other Factory,Tempe,Arizona,United States,1257.26
+The Other Factory,Thousand Oaks,California,United States,1636.44
+The Other Factory,Trenton,Michigan,United States,607.69
+The Other Factory,Tucson,Arizona,United States,1221.86
+The Other Factory,Warwick,Rhode Island,United States,1097.66
+The Other Factory,Yonkers,New York,United States,960.65
+The Other Factory,Frisco,Texas,United States,414.69
+The Other Factory,Niagara Falls,New York,United States,801.64
+The Other Factory,Plano,Texas,United States,411.15
+The Other Factory,Albuquerque,New Mexico,United States,941.79
+The Other Factory,Alexandria,Virginia,United States,756.82
+The Other Factory,Allentown,Pennsylvania,United States,875.57
+The Other Factory,Amarillo,Texas,United States,669.89
+The Other Factory,Apopka,Florida,United States,666.21
+The Other Factory,Arlington,Texas,United States,440.84
+The Other Factory,Arlington,Virginia,United States,755.99
+The Other Factory,Asheville,North Carolina,United States,419.34
+The Other Factory,Athens,Georgia,United States,383.69
+The Other Factory,Atlanta,Georgia,United States,331.65
+The Other Factory,Auburn,Alabama,United States,310.41
+The Other Factory,Aurora,Colorado,United States,876.46
+The Other Factory,Aurora,Illinois,United States,467.41
+The Other Factory,Avondale,Arizona,United States,1277.61
+The Other Factory,Bakersfield,California,United States,1633.3
+The Other Factory,Baltimore,Maryland,United States,788.79
+The Other Factory,Bangor,Maine,United States,1301.14
+The Other Factory,Bayonne,New Jersey,United States,944.04
+The Other Factory,Beaumont,Texas,United States,422.65
+The Other Factory,Belleville,New Jersey,United States,945.1
+The Other Factory,Bellevue,Washington,United States,1862.21
+The Other Factory,Bethlehem,Pennsylvania,United States,880.51
+The Other Factory,Bloomington,Illinois,United States,374.32
+The Other Factory,Bowling Green,Ohio,United States,551.49
+The Other Factory,Boynton Beach,Florida,United States,834.59
+The Other Factory,Bozeman,Montana,United States,1321.04
+The Other Factory,Brentwood,California,United States,1763.66
+The Other Factory,Brownsville,Texas,United States,777.95
+The Other Factory,Bryan,Texas,United States,481.52
+The Other Factory,Buffalo,New York,United States,800.54
+The Other Factory,Bullhead City,Arizona,United States,1386.05
+The Other Factory,Burlington,Iowa,United States,398.29
+The Other Factory,Burlington,North Carolina,United States,595.27
+The Other Factory,Cambridge,Massachusetts,United States,1130.01
+The Other Factory,Carlsbad,New Mexico,United States,839.43
+The Other Factory,Carol Stream,Illinois,United States,479.84
+The Other Factory,Cary,North Carolina,United States,631.17
+The Other Factory,Champaign,Illinois,United States,358.09
+The Other Factory,Charlotte,North Carolina,United States,515.42
+The Other Factory,Chesapeake,Virginia,United States,775.04
+The Other Factory,Chester,Pennsylvania,United States,846.42
+The Other Factory,Cincinnati,Ohio,United States,407.55
+The Other Factory,Clarksville,Tennessee,United States,175.81
+The Other Factory,Clifton,New Jersey,United States,945.93
+The Other Factory,Coachella,California,United States,1493.0
+The Other Factory,Colorado Springs,Colorado,United States,858.04
+The Other Factory,Columbia,Maryland,United States,773.83
+The Other Factory,Columbia,Missouri,United States,295.22
+The Other Factory,Columbia,Tennessee,United States,169.02
+The Other Factory,Columbus,Indiana,United States,359.56
+The Other Factory,Concord,California,United States,1781.82
+The Other Factory,Concord,North Carolina,United States,529.99
+The Other Factory,Coon Rapids,Minnesota,United States,716.52
+The Other Factory,Coppell,Texas,United States,430.0
+The Other Factory,Coral Springs,Florida,United States,839.17
+The Other Factory,Corpus Christi,Texas,United States,670.45
+The Other Factory,Cottage Grove,Minnesota,United States,689.0
+The Other Factory,Cranston,Rhode Island,United States,1100.49
+The Other Factory,Cuyahoga Falls,Ohio,United States,620.55
+The Other Factory,Danville,Illinois,United States,368.91
+The Other Factory,Dearborn,Michigan,United States,617.58
+The Other Factory,Decatur,Alabama,United States,173.0
+The Other Factory,Decatur,Illinois,United States,331.4
+The Other Factory,Delray Beach,Florida,United States,837.43
+The Other Factory,Deltona,Florida,United States,667.83
+The Other Factory,Des Moines,Iowa,United States,488.75
+The Other Factory,Des Moines,Washington,United States,1863.51
+The Other Factory,Detroit,Michigan,United States,622.23
+The Other Factory,Dover,Delaware,United States,842.14
+The Other Factory,Dublin,Ohio,United States,509.0
+The Other Factory,Durham,North Carolina,United States,624.83
+The Other Factory,Eagan,Minnesota,United States,691.12
+The Other Factory,East Orange,New Jersey,United States,941.22
+The Other Factory,Edinburg,Texas,United States,778.95
+The Other Factory,Edmond,Oklahoma,United States,423.66
+The Other Factory,Edmonds,Washington,United States,1874.2
+The Other Factory,Edmonton,Alberta,Canada,1708.22
+The Other Factory,Encinitas,California,United States,1564.76
+The Other Factory,Escondido,California,United States,1552.07
+The Other Factory,Everett,Massachusetts,United States,1133.42
+The Other Factory,Everett,Washington,United States,1870.12
+The Other Factory,Fairfield,Connecticut,United States,996.69
+The Other Factory,Fairfield,Ohio,United States,515.22
+The Other Factory,Fargo,North Dakota,United States,886.07
+The Other Factory,Fayetteville,North Carolina,United States,626.88
+The Other Factory,Florence,Alabama,United States,131.73
+The Other Factory,Florence,Kentucky,United States,398.31
+The Other Factory,Florence,South Carolina,United States,583.14
+The Other Factory,Fort Collins,Colorado,United States,905.02
+The Other Factory,Fort Lauderdale,Florida,United States,852.11
+The Other Factory,Fort Worth,Texas,United States,452.37
+The Other Factory,Franklin,Tennessee,United States,183.15
+The Other Factory,Franklin,Wisconsin,United States,546.83
+The Other Factory,Freeport,Illinois,United States,496.4
+The Other Factory,Freeport,New York,United States,970.19
+The Other Factory,Fremont,Nebraska,United States,561.52
+The Other Factory,Fresno,California,United States,1665.09
+The Other Factory,Garland,Texas,United States,411.03
+The Other Factory,Georgetown,Kentucky,United States,368.14
+The Other Factory,Glendale,Arizona,United States,1269.62
+The Other Factory,Grand Prairie,Texas,United States,434.74
+The Other Factory,Grand Rapids,Michigan,United States,589.02
+The Other Factory,Grapevine,Texas,United States,433.96
+The Other Factory,Great Falls,Montana,United States,1391.01
+The Other Factory,Greeley,Colorado,United States,883.0
+The Other Factory,Green Bay,Wisconsin,United States,657.36
+The Other Factory,Greensboro,North Carolina,United States,575.43
+The Other Factory,Greenville,North Carolina,United States,710.21
+The Other Factory,Greenwood,Indiana,United States,376.04
+The Other Factory,Grove City,Ohio,United States,500.21
+The Other Factory,Hackensack,New Jersey,United States,952.63
+The Other Factory,Haltom City,Texas,United States,447.72
+The Other Factory,Hampton,Virginia,United States,771.66
+The Other Factory,Harlingen,Texas,United States,768.31
+The Other Factory,Harrisonburg,Virginia,United States,655.55
+The Other Factory,Helena,Montana,United States,1391.7
+The Other Factory,Hendersonville,Tennessee,United States,205.04
+The Other Factory,Holyoke,Massachusetts,United States,1054.33
+The Other Factory,Hoover,Alabama,United States,216.02
+The Other Factory,Hot Springs,Arkansas,United States,180.02
+The Other Factory,Huntington Beach,California,United States,1595.82
+The Other Factory,Huntsville,Texas,United States,443.58
+The Other Factory,Indianapolis,Indiana,United States,383.33
+The Other Factory,Inglewood,California,United States,1611.96
+The Other Factory,Irving,Texas,United States,429.56
+The Other Factory,Jackson,Tennessee,United States,73.5
+The Other Factory,Jacksonville,North Carolina,United States,710.31
+The Other Factory,Jamestown,New York,United States,752.84
+The Other Factory,Johnson City,Tennessee,United States,435.2
+The Other Factory,Jonesboro,Arkansas,United States,64.49
+The Other Factory,Jupiter,Florida,United States,812.56
+The Other Factory,Kenner,Louisiana,United States,354.34
+The Other Factory,Kenosha,Wisconsin,United States,528.69
+The Other Factory,Kent,Ohio,United States,626.25
+The Other Factory,Kent,Washington,United States,1859.48
+The Other Factory,Knoxville,Tennessee,United States,345.04
+The Other Factory,La Mesa,California,United States,1554.31
+The Other Factory,La Porte,Indiana,United States,481.82
+The Other Factory,La Porte,Texas,United States,477.99
+The Other Factory,Lafayette,Louisiana,United States,358.28
+The Other Factory,Laguna Niguel,California,United States,1581.51
+The Other Factory,Lakeville,Minnesota,United States,680.95
+The Other Factory,Lakewood,California,United States,1600.08
+The Other Factory,Lancaster,California,United States,1590.83
+The Other Factory,Lancaster,Ohio,United States,513.99
+The Other Factory,Lancaster,Pennsylvania,United States,820.73
+The Other Factory,Laredo,Texas,United States,769.49
+The Other Factory,Las Vegas,Nevada,United States,1411.63
+The Other Factory,Lawrence,Indiana,United States,321.05
+The Other Factory,League City,Texas,United States,489.49
+The Other Factory,Lebanon,Tennessee,United States,219.88
+The Other Factory,Lewiston,Idaho,United States,1605.13
+The Other Factory,Lincoln Park,Michigan,United States,613.64
+The Other Factory,Linden,New Jersey,United States,936.53
+The Other Factory,Little Rock,Arkansas,United States,133.81
+The Other Factory,Logan,Utah,United States,1264.27
+The Other Factory,Long Beach,California,United States,1605.37
+The Other Factory,Long Beach,New York,United States,964.99
+The Other Factory,Lorain,Ohio,United States,599.2
+The Other Factory,Louisville,Colorado,United States,894.37
+The Other Factory,Lubbock,Texas,United States,685.23
+The Other Factory,Macon,Georgia,United States,395.68
+The Other Factory,Marietta,Georgia,United States,318.85
+The Other Factory,Marion,Iowa,United States,460.56
+The Other Factory,Marion,Ohio,United States,528.61
+The Other Factory,Marlborough,Massachusetts,United States,1108.09
+The Other Factory,Mcallen,Texas,United States,786.85
+The Other Factory,Medford,Oregon,United States,1829.51
+The Other Factory,Medina,Ohio,United States,600.81
+The Other Factory,Mentor,Ohio,United States,649.91
+The Other Factory,Meridian,Idaho,United States,1520.17
+The Other Factory,Mesa,Arizona,United States,1251.26
+The Other Factory,Mesquite,Texas,United States,413.09
+The Other Factory,Miami,Florida,United States,868.46
+The Other Factory,Middletown,Connecticut,United States,1036.38
+The Other Factory,Milford,Connecticut,United States,1008.68
+The Other Factory,Minneapolis,Minnesota,United States,703.02
+The Other Factory,Miramar,Florida,United States,855.62
+The Other Factory,Mission Viejo,California,United States,1577.76
+The Other Factory,Mobile,Alabama,United States,325.6
+The Other Factory,Monroe,Louisiana,United States,218.64
+The Other Factory,Morristown,New Jersey,United States,928.89
+The Other Factory,Mount Vernon,New York,United States,963.18
+The Other Factory,Murray,Utah,United States,1251.19
+The Other Factory,Muskogee,Oklahoma,United States,307.66
+The Other Factory,Naperville,Illinois,United States,470.28
+The Other Factory,Nashua,New Hampshire,United States,1122.62
+The Other Factory,New Albany,Indiana,United States,317.25
+The Other Factory,New Bedford,Massachusetts,United States,1122.07
+The Other Factory,New Castle,Indiana,United States,417.09
+The Other Factory,New Rochelle,New York,United States,965.92
+The Other Factory,Newark,Ohio,United States,536.58
+The Other Factory,Norman,Oklahoma,United States,421.78
+The Other Factory,North Las Vegas,Nevada,United States,1409.95
+The Other Factory,Norwich,Connecticut,United States,1063.58
+The Other Factory,Oak Park,Illinois,United States,482.39
+The Other Factory,Oak Park,Michigan,United States,624.84
+The Other Factory,Oakland,California,United States,1795.55
+The Other Factory,Oceanside,California,United States,1567.77
+The Other Factory,Oceanside,New York,United States,966.98
+The Other Factory,Odessa,Texas,United States,748.69
+The Other Factory,Oklahoma City,Oklahoma,United States,426.15
+The Other Factory,Olathe,Kansas,United States,373.09
+The Other Factory,Olympia,Washington,United States,1883.92
+The Other Factory,Omaha,Nebraska,United States,533.61
+The Other Factory,Orange,New Jersey,United States,940.81
+The Other Factory,Orlando,Florida,United States,678.29
+The Other Factory,Oswego,Illinois,United States,462.03
+The Other Factory,Overland Park,Kansas,United States,372.17
+The Other Factory,Park Ridge,Illinois,United States,489.98
+The Other Factory,Parma,Ohio,United States,621.57
+The Other Factory,Pasadena,California,United States,1597.75
+The Other Factory,Pasco,Washington,United States,1695.08
+The Other Factory,Paterson,New Jersey,United States,946.9
+The Other Factory,Pearland,Texas,United States,493.29
+The Other Factory,Pembroke Pines,Florida,United States,852.42
+The Other Factory,Pensacola,Florida,United States,361.74
+The Other Factory,Peoria,Illinois,United States,385.85
+The Other Factory,Pharr,Texas,United States,785.66
+The Other Factory,Pleasant Grove,Utah,United States,1239.67
+The Other Factory,Pocatello,Idaho,United States,1315.19
+The Other Factory,Port Arthur,Texas,United States,429.65
+The Other Factory,Portland,Oregon,United States,1850.61
+The Other Factory,Quincy,Illinois,United States,342.1
+The Other Factory,Quincy,Massachusetts,United States,1132.15
+The Other Factory,Raleigh,North Carolina,United States,639.12
+The Other Factory,Reading,Pennsylvania,United States,846.59
+The Other Factory,Redlands,California,United States,1544.82
+The Other Factory,Redmond,Oregon,United States,1762.37
+The Other Factory,Redondo Beach,California,United States,1615.28
+The Other Factory,Reno,Nevada,United States,1659.84
+The Other Factory,Revere,Massachusetts,United States,1135.44
+The Other Factory,Richardson,Texas,United States,414.89
+The Other Factory,Richmond,Kentucky,United States,364.05
+The Other Factory,Riverside,California,United States,1556.58
+The Other Factory,Rochester,Minnesota,United States,629.41
+The Other Factory,Rochester Hills,Michigan,United States,636.72
+The Other Factory,Rogers,Arkansas,United States,247.39
+The Other Factory,Rome,New York,United States,955.41
+The Other Factory,Roseville,California,United States,1739.1
+The Other Factory,Roseville,Michigan,United States,634.64
+The Other Factory,Roswell,Georgia,United States,328.02
+The Other Factory,Round Rock,Texas,United States,549.01
+The Other Factory,Sacramento,California,United States,1750.57
+The Other Factory,Saginaw,Michigan,United States,657.47
+The Other Factory,Saint Charles,Illinois,United States,478.06
+The Other Factory,Saint Charles,Missouri,United States,254.89
+The Other Factory,Saint Louis,Missouri,United States,242.68
+The Other Factory,Saint Petersburg,Florida,United States,666.4
+The Other Factory,Salem,Virginia,United States,572.57
+The Other Factory,Salinas,California,United States,1768.63
+The Other Factory,Salt Lake City,Utah,United States,1252.32
+The Other Factory,San Antonio,Texas,United States,634.14
+The Other Factory,San Bernardino,California,United States,1474.31
+The Other Factory,Sandy Springs,Georgia,United States,328.82
+The Other Factory,Santa Ana,California,United States,1587.7
+The Other Factory,Santa Barbara,California,United States,1681.88
+The Other Factory,Santa Clara,California,United States,1766.56
+The Other Factory,Santa Fe,New Mexico,United States,899.13
+The Other Factory,Sheboygan,Wisconsin,United States,603.68
+The Other Factory,Sierra Vista,Arizona,United States,1195.12
+The Other Factory,Sioux Falls,South Dakota,United States,684.8
+The Other Factory,Skokie,Illinois,United States,492.13
+The Other Factory,Smyrna,Tennessee,United States,202.99
+The Other Factory,South Bend,Indiana,United States,496.26
+The Other Factory,Southaven,Mississippi,United States,9.18
+The Other Factory,Spokane,Washington,United States,1652.81
+The Other Factory,Sterling Heights,Michigan,United States,636.18
+The Other Factory,Stockton,California,United States,1741.51
+The Other Factory,Suffolk,Virginia,United States,756.65
+The Other Factory,Superior,Wisconsin,United States,809.33
+The Other Factory,Tamarac,Florida,United States,843.06
+The Other Factory,Tampa,Florida,United States,663.88
+The Other Factory,Taylor,Michigan,United States,610.21
+The Other Factory,Texas City,Texas,United States,489.54
+The Other Factory,Thomasville,North Carolina,United States,558.54
+The Other Factory,Thornton,Colorado,United States,884.74
+The Other Factory,Tigard,Oregon,United States,1854.06
+The Other Factory,Tinley Park,Illinois,United States,461.48
+The Other Factory,Toronto,Ontario,Canada,815.69
+The Other Factory,Torrance,California,United States,1612.88
+The Other Factory,Troy,Ohio,United States,463.9
+The Other Factory,Tulsa,Oklahoma,United States,345.61
+The Other Factory,Tyler,Texas,United States,360.92
+The Other Factory,Urbandale,Iowa,United States,493.78
+The Other Factory,Vallejo,California,United States,1793.41
+The Other Factory,Vancouver,British Columbia,Canada,1935.54
+The Other Factory,Virginia Beach,Virginia,United States,790.82
+The Other Factory,Waco,Texas,United States,480.95
+The Other Factory,Warner Robins,Georgia,United States,403.74
+The Other Factory,Washington,District of Columbia,United States,759.08
+The Other Factory,Watertown,New York,United States,964.97
+The Other Factory,Wausau,Wisconsin,United States,680.29
+The Other Factory,Waynesboro,Virginia,United States,647.2
+The Other Factory,West Jordan,Utah,United States,1253.04
+The Other Factory,West Palm Beach,Florida,United States,825.31
+The Other Factory,Westland,Michigan,United States,610.61
+The Other Factory,Westminster,California,United States,1593.93
+The Other Factory,Wheeling,Illinois,United States,497.43
+The Other Factory,Whittier,California,United States,1593.75
+The Other Factory,Wichita,Kansas,United States,446.43
+The Other Factory,Wilmington,Delaware,United States,851.85
+The Other Factory,Wilmington,North Carolina,United States,685.42
+The Other Factory,Winnipeg,Manitoba,Canada,1083.14
+The Other Factory,Woodbury,Minnesota,United States,695.06
+The Other Factory,Woonsocket,Rhode Island,United States,1101.74
+The Other Factory,York,Pennsylvania,United States,797.97
+The Other Factory,Yuma,Arizona,United States,1419.3
+The Other Factory,Abilene,Texas,United States,589.61
+The Other Factory,Allen,Texas,United States,407.64
+The Other Factory,Altoona,Pennsylvania,United States,732.84
+The Other Factory,Ann Arbor,Michigan,United States,597.6
+The Other Factory,Apple Valley,California,United States,1539.67
+The Other Factory,Appleton,Wisconsin,United States,637.2
+The Other Factory,Arvada,Colorado,United States,888.23
+The Other Factory,Bartlett,Tennessee,United States,8.14
+The Other Factory,Baytown,Texas,United States,472.63
+The Other Factory,Bedford,Texas,United States,439.78
+The Other Factory,Boca Raton,Florida,United States,842.3
+The Other Factory,Bolingbrook,Illinois,United States,466.28
+The Other Factory,Bowling Green,Kentucky,United States,235.84
+The Other Factory,Bridgeton,New Jersey,United States,861.99
+The Other Factory,Broken Arrow,Oklahoma,United States,333.28
+The Other Factory,Broomfield,Colorado,United States,889.57
+The Other Factory,Burlington,Vermont,United States,1096.27
+The Other Factory,Caldwell,Idaho,United States,1535.57
+The Other Factory,Camarillo,California,United States,1647.13
+The Other Factory,Carrollton,Texas,United States,424.08
+The Other Factory,Chandler,Arizona,United States,1253.34
+The Other Factory,Charlottesville,Virginia,United States,668.26
+The Other Factory,Charlottetown,Prince Edward Island,Canada,1591.64
+The Other Factory,Chula Vista,California,United States,1559.85
+The Other Factory,College Station,Texas,United States,483.0
+The Other Factory,Coral Gables,Florida,United States,868.08
+The Other Factory,Costa Mesa,California,United States,1590.57
+The Other Factory,Covington,Washington,United States,1853.45
+The Other Factory,Davis,California,United States,1763.9
+The Other Factory,Daytona Beach,Florida,United States,663.18
+The Other Factory,Dearborn Heights,Michigan,United States,615.31
+The Other Factory,Des Plaines,Illinois,United States,491.43
+The Other Factory,Draper,Utah,United States,1248.06
+The Other Factory,Eau Claire,Wisconsin,United States,674.62
+The Other Factory,Fairfield,California,United States,1781.1
+The Other Factory,Gaithersburg,Maryland,United States,755.94
+The Other Factory,Garden City,Kansas,United States,636.0
+The Other Factory,Gladstone,Missouri,United States,380.11
+The Other Factory,Goldsboro,North Carolina,United States,675.71
+The Other Factory,Gresham,Oregon,United States,1838.85
+The Other Factory,Gulfport,Mississippi,United States,332.14
+The Other Factory,Halifax,Nova Scotia,Canada,1536.99
+The Other Factory,Hamilton,Ohio,United States,410.94
+The Other Factory,Hattiesburg,Mississippi,United States,264.83
+The Other Factory,Hesperia,California,United States,1547.19
+The Other Factory,Highland Park,Illinois,United States,502.05
+The Other Factory,Hillsboro,Oregon,United States,1865.63
+The Other Factory,Homestead,Florida,United States,873.68
+The Other Factory,Independence,Missouri,United States,367.82
+The Other Factory,Lafayette,Indiana,United States,403.0
+The Other Factory,Lake Charles,Louisiana,United States,386.79
+The Other Factory,Lansing,Michigan,United States,601.09
+The Other Factory,Las Cruces,New Mexico,United States,983.99
+The Other Factory,Lawton,Oklahoma,United States,478.77
+The Other Factory,Layton,Utah,United States,1261.13
+The Other Factory,Lehi,Utah,United States,1245.66
+The Other Factory,Lodi,California,United States,1739.94
+The Other Factory,Longview,Washington,United States,1871.55
+The Other Factory,Manchester,Connecticut,United States,1047.81
+The Other Factory,Maple Grove,Minnesota,United States,713.41
+The Other Factory,Marysville,Washington,United States,1869.96
+The Other Factory,Modesto,California,United States,1726.82
+The Other Factory,Moorhead,Minnesota,United States,885.12
+The Other Factory,Morgan Hill,California,United States,1765.53
+The Other Factory,Murray,Kentucky,United States,139.2
+The Other Factory,Norfolk,Nebraska,United States,623.8
+The Other Factory,Orem,Utah,United States,1236.59
+The Other Factory,Ormond Beach,Florida,United States,658.33
+The Other Factory,Palatine,Illinois,United States,494.22
+The Other Factory,Parker,Colorado,United States,866.44
+The Other Factory,Passaic,New Jersey,United States,942.86
+The Other Factory,Perth Amboy,New Jersey,United States,932.74
+The Other Factory,Pico Rivera,California,United States,1597.18
+The Other Factory,Pine Bluff,Arkansas,United States,131.03
+The Other Factory,Plantation,Florida,United States,848.21
+The Other Factory,Pomona,California,United States,1576.84
+The Other Factory,Port Saint Lucie,Florida,United States,783.71
+The Other Factory,Quebec City,Quebec,Canada,1263.64
+The Other Factory,Redding,California,United States,1797.96
+The Other Factory,Redmond,Washington,United States,1860.18
+The Other Factory,Redwood City,California,United States,1795.09
+The Other Factory,Regina,Saskatchewan,Canada,1288.54
+The Other Factory,Renton,Washington,United States,1860.2
+The Other Factory,Rio Rancho,New Mexico,United States,942.46
+The Other Factory,Rock Hill,South Carolina,United States,506.21
+The Other Factory,Royal Oak,Michigan,United States,627.65
+The Other Factory,Saint Peters,Missouri,United States,256.19
+The Other Factory,San Angelo,Texas,United States,654.76
+The Other Factory,San Luis Obispo,California,United States,1709.14
+The Other Factory,Santa Maria,California,United States,1716.74
+The Other Factory,Summerville,South Carolina,United States,578.79
+The Other Factory,Temecula,California,United States,1550.32
+The Other Factory,Twin Falls,Idaho,United States,1408.89
+The Other Factory,Utica,New York,United States,961.38
+The Other Factory,Vacaville,California,United States,1777.9
+The Other Factory,Vancouver,Washington,United States,1852.12
+The Other Factory,Vineland,New Jersey,United States,873.82
+The Other Factory,Waterloo,Iowa,United States,525.52
+The Other Factory,West Allis,Wisconsin,United States,555.82
+The Other Factory,Wheeling,West Virginia,United States,610.44
+The Other Factory,Woodstock,Georgia,United States,317.84
+The Other Factory,Andover,Massachusetts,United States,1135.32
+The Other Factory,Antioch,California,United States,1769.57
+The Other Factory,Apple Valley,Minnesota,United States,686.05
+The Other Factory,Arlington Heights,Illinois,United States,492.97
+The Other Factory,Auburn,Washington,United States,1858.25
+The Other Factory,Bloomington,Indiana,United States,337.75
+The Other Factory,Boise,Idaho,United States,1511.0
+The Other Factory,Burbank,California,United States,1606.49
+The Other Factory,Canton,Michigan,United States,598.39
+The Other Factory,Cedar Hill,Texas,United States,437.05
+The Other Factory,Cedar Rapids,Iowa,United States,482.66
+The Other Factory,Chapel Hill,North Carolina,United States,616.01
+The Other Factory,Cheyenne,Wyoming,United States,906.32
+The Other Factory,Commerce City,Colorado,United States,880.9
+The Other Factory,Conroe,Texas,United States,460.18
+The Other Factory,Conway,Arkansas,United States,139.56
+The Other Factory,Deer Park,Texas,United States,479.6
+The Other Factory,East Point,Georgia,United States,330.6
+The Other Factory,El Cajon,California,United States,1550.46
+The Other Factory,Elkhart,Indiana,United States,500.17
+The Other Factory,Evanston,Illinois,United States,495.92
+The Other Factory,Farmington,New Mexico,United States,1024.75
+The Other Factory,Frankfort,Illinois,United States,455.57
+The Other Factory,Gastonia,North Carolina,United States,496.13
+The Other Factory,Holland,Michigan,United States,568.97
+The Other Factory,Jefferson City,Missouri,United States,268.23
+The Other Factory,Keller,Texas,United States,442.02
+The Other Factory,Kirkwood,Missouri,United States,240.45
+The Other Factory,Lake Forest,California,United States,1578.55
+The Other Factory,Lewiston,Maine,United States,1216.29
+The Other Factory,Longmont,Colorado,United States,896.83
+The Other Factory,Madison,Wisconsin,United States,550.69
+The Other Factory,Malden,Massachusetts,United States,1133.17
+The Other Factory,Manhattan,Kansas,United States,459.19
+The Other Factory,Mansfield,Texas,United States,447.62
+The Other Factory,Margate,Florida,United States,843.17
+The Other Factory,Mason,Ohio,United States,427.49
+The Other Factory,Missoula,Montana,United States,1483.62
+The Other Factory,Moncton,New Brunswick,Canada,1513.21
+The Other Factory,Mount Pleasant,South Carolina,United States,600.59
+The Other Factory,New Brunswick,New Jersey,United States,923.78
+The Other Factory,North Miami,Florida,United States,862.58
+The Other Factory,Owensboro,Kentucky,United States,242.72
+The Other Factory,Rockville,Maryland,United States,756.84
+The Other Factory,Romeoville,Illinois,United States,462.52
+The Other Factory,Roseville,Minnesota,United States,703.54
+The Other Factory,Saint Cloud,Minnesota,United States,754.37
+The Other Factory,Saint Paul,Minnesota,United States,698.99
+The Other Factory,San Gabriel,California,United States,1596.36
+The Other Factory,Sanford,Florida,United States,670.35
+The Other Factory,Texarkana,Arkansas,United States,260.21
+The Other Factory,Visalia,California,United States,1640.56
+The Other Factory,Wilson,North Carolina,United States,679.55
+The Other Factory,Yucaipa,California,United States,1537.23
+The Other Factory,Bellingham,Washington,United States,1897.48
+The Other Factory,Beverly,Massachusetts,United States,1145.18
+The Other Factory,Billings,Montana,United States,1216.52
+The Other Factory,Buffalo Grove,Illinois,United States,498.15
+The Other Factory,Clovis,New Mexico,United States,752.25
+The Other Factory,Danbury,Connecticut,United States,993.36
+The Other Factory,Dublin,California,United States,1777.76
+The Other Factory,Dubuque,Iowa,United States,511.49
+The Other Factory,Elyria,Ohio,United States,606.59
+The Other Factory,Englewood,Colorado,United States,880.52
+The Other Factory,Grand Island,Nebraska,United States,606.44
+The Other Factory,Hickory,North Carolina,United States,487.41
+The Other Factory,Kissimmee,Florida,United States,689.23
+The Other Factory,Laurel,Maryland,United States,772.73
+The Other Factory,Lindenhurst,New York,United States,981.28
+The Other Factory,Loveland,Colorado,United States,900.56
+The Other Factory,Manteca,California,United States,1737.85
+The Other Factory,Mishawaka,Indiana,United States,496.41
+The Other Factory,Montebello,California,United States,1597.61
+The Other Factory,Murrieta,California,United States,1552.96
+The Other Factory,Noblesville,Indiana,United States,403.52
+The Other Factory,North Charleston,South Carolina,United States,593.35
+The Other Factory,Ontario,California,United States,1569.21
+The Other Factory,Orland Park,Illinois,United States,464.36
+The Other Factory,Pompano Beach,Florida,United States,846.85
+The Other Factory,Portage,Indiana,United States,471.16
+The Other Factory,Rapid City,South Dakota,United States,936.83
+The Other Factory,Shelton,Connecticut,United States,1007.77
+The Other Factory,Springdale,Arkansas,United States,244.82
+The Other Factory,The Colony,Texas,United States,419.61
+The Other Factory,Woodstock,Illinois,United States,504.0
+The Other Factory,Aberdeen,South Dakota,United States,843.05
+The Other Factory,Atlantic City,New Jersey,United States,902.75
+The Other Factory,Citrus Heights,California,United States,1738.81
+The Other Factory,Glenview,Illinois,United States,494.29
+The Other Factory,Hagerstown,Maryland,United States,740.94
+The Other Factory,Iowa City,Iowa,United States,459.92
+The Other Factory,La Quinta,California,United States,1499.77
+The Other Factory,Lake Elsinore,California,United States,1558.05
+The Other Factory,Littleton,Colorado,United States,881.32
+The Other Factory,Missouri City,Texas,United States,499.69
+The Other Factory,Mount Pleasant,Michigan,United States,648.2
+The Other Factory,Normal,Illinois,United States,376.41
+The Other Factory,Port Orange,Florida,United States,667.6
+The Other Factory,San Clemente,California,United States,1577.51
+The Other Factory,San Mateo,California,United States,1800.52
+The Other Factory,St. John's,Newfoundland and Labrador,Canada,2090.24
+The Other Factory,Tuscaloosa,Alabama,United States,190.41
+The Other Factory,Waukesha,Wisconsin,United States,556.06
+The Other Factory,Melbourne,Florida,United States,734.29
