@@ -1,7 +1,5 @@
 # Nassau Candy Factory Optimization Dashboard
 
-# Nassau Candy Factory Optimization Dashboard
-
 ## 🚀 Live Demo
 
 [Open Live Dashboard](https://sameer0625-nassau-candy-factory-optimization-app-4ptp0h.streamlit.app)
